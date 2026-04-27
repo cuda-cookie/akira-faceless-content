@@ -1,104 +1,142 @@
 'use client';
+
 import Link from 'next/link';
-import { Film, Grid3x3, BookMarked, MessageCircle, RotateCcw, Map } from 'lucide-react';
+import { usePathname } from 'next/navigation';
+import { PHASES, getTotalLessons } from '@/data/phases';
+import { useProgress } from '@/components/ProgressProvider';
+import { Home, Map, Grid3x3, BookMarked, Flame, Bot } from 'lucide-react';
+import { useState, useEffect } from 'react';
 
 export default function Header() {
+  const pathname = usePathname();
+  const { completedLessons } = useProgress();
+  const [isScrolled, setIsScrolled] = useState(false);
+  
+  const totalLessons = getTotalLessons();
+  const progress = Math.round((completedLessons.size / totalLessons) * 100);
+
+  useEffect(() => {
+    const handleScroll = () => setIsScrolled(window.scrollY > 20);
+    window.addEventListener('scroll', handleScroll);
+    return () => window.removeEventListener('scroll', handleScroll);
+  }, []);
+
+  const navItems = [
+    { name: 'Dashboard', path: '/', icon: <Home size={18} /> },
+    { name: 'Roadmap', path: '/roadmap', icon: <Map size={18} /> },
+    { name: 'Catalog', path: '/catalog', icon: <Grid3x3 size={18} /> },
+    { name: 'Glossary', path: '/glossary', icon: <BookMarked size={18} /> },
+  ];
+
   return (
     <header style={{
-      position: 'fixed', top: 0, left: 0, right: 0, zIndex: 100,
-      background: 'rgba(255, 255, 255, 0.95)', backdropFilter: 'blur(14px)',
-      borderBottom: '1px solid #e0e0e0',
-      padding: '0 1.5rem', height: '68px',
+      position: 'fixed',
+      top: 0,
+      left: 0,
+      right: 0,
+      zIndex: 1000,
+      transition: 'all 0.4s cubic-bezier(0.4, 0, 0.2, 1)',
+      background: isScrolled ? 'rgba(255, 255, 255, 0.8)' : 'rgba(255, 255, 255, 0.4)',
+      backdropFilter: 'blur(16px)',
+      WebkitBackdropFilter: 'blur(16px)',
+      borderBottom: isScrolled ? '1px solid rgba(255, 44, 44, 0.1)' : '1px solid transparent',
+      padding: isScrolled ? '10px 0' : '16px 0',
+      height: 'auto',
     }}>
-      <div style={{
-        maxWidth: '1200px', margin: '0 auto',
-        height: '100%', display: 'flex',
-        alignItems: 'center', justifyContent: 'space-between',
-      }}>
-        <Link href="/" style={{ textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '10px', cursor: 'pointer' }}>
-          <Film size={24} color="#ff2c2c" />
-          <div style={{ fontSize: '18px', fontWeight: 700, color: '#1a1a1a' }}>
-            Faceless<span style={{ fontSize: '12px', color: '#999', fontWeight: 400, marginLeft: '4px' }}>フェイスレス</span>
+      <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 1.5rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+        <Link href="/" style={{ textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '12px' }}>
+          <div style={{
+            background: 'linear-gradient(135deg, #ff2c2c 0%, #ff6b6b 100%)',
+            width: '36px',
+            height: '36px',
+            borderRadius: '10px',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            color: 'white',
+            boxShadow: '0 4px 12px rgba(255, 44, 44, 0.3)',
+          }}>
+            <Flame size={20} fill="white" />
+          </div>
+          <div style={{ display: 'flex', flexDirection: 'column' }}>
+            <div style={{ fontSize: '18px', fontWeight: 900, color: '#1a1a1a', letterSpacing: '-0.02em', lineHeight: 1 }}>
+              FACELESS <span style={{ color: '#ff2c2c' }}>MASTERY</span>
+            </div>
+            <div style={{ fontSize: '10px', color: '#999', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '1px', marginTop: '4px' }}>
+              無顔ビデオの習得
+            </div>
           </div>
         </Link>
 
-        <nav style={{ display: 'flex', gap: '8px', alignItems: 'center' }}>
-          <Link href="/roadmap" style={{
-            fontSize: '13px', color: '#666', padding: '8px 14px', textDecoration: 'none',
-            display: 'flex', alignItems: 'center', gap: '6px',
-            transition: 'all 0.2s',
-          }} onMouseEnter={(e) => {
-            e.currentTarget.style.color = '#ff2c2c';
-            e.currentTarget.style.background = 'rgba(255, 44, 44, 0.05)';
-          }} onMouseLeave={(e) => {
-            e.currentTarget.style.color = '#666';
-            e.currentTarget.style.background = 'transparent';
-          }}>
-            <Map size={16} /> Roadmap
-          </Link>
-          <Link href="/catalog" style={{
-            fontSize: '13px', color: '#666', padding: '8px 14px', textDecoration: 'none',
-            display: 'flex', alignItems: 'center', gap: '6px',
-            transition: 'all 0.2s',
-          }} onMouseEnter={(e) => {
-            e.currentTarget.style.color = '#ff2c2c';
-            e.currentTarget.style.background = 'rgba(255, 44, 44, 0.05)';
-          }} onMouseLeave={(e) => {
-            e.currentTarget.style.color = '#666';
-            e.currentTarget.style.background = 'transparent';
-          }}>
-            <Grid3x3 size={16} /> Catalog
-          </Link>
-          <Link href="/glossary" style={{
-            fontSize: '13px', color: '#666', padding: '8px 14px', textDecoration: 'none',
-            display: 'flex', alignItems: 'center', gap: '6px',
-            transition: 'all 0.2s',
-          }} onMouseEnter={(e) => {
-            e.currentTarget.style.color = '#ff2c2c';
-            e.currentTarget.style.background = 'rgba(255, 44, 44, 0.05)';
-          }} onMouseLeave={(e) => {
-            e.currentTarget.style.color = '#666';
-            e.currentTarget.style.background = 'transparent';
-          }}>
-            <BookMarked size={16} /> Glossary
-          </Link>
-          <Link href="/ai" style={{
-            fontSize: '13px', color: '#666', padding: '8px 14px', textDecoration: 'none',
-            display: 'flex', alignItems: 'center', gap: '6px',
-            transition: 'all 0.2s',
-          }} onMouseEnter={(e) => {
-            e.currentTarget.style.color = '#ff2c2c';
-            e.currentTarget.style.background = 'rgba(255, 44, 44, 0.05)';
-          }} onMouseLeave={(e) => {
-            e.currentTarget.style.color = '#666';
-            e.currentTarget.style.background = 'transparent';
-          }}>
-            <MessageCircle size={16} /> Help
-          </Link>
-          <button onClick={() => {
-            if (confirm('Reset your progress? This cannot be undone.')) {
-              localStorage.removeItem('faceless-progress');
-              location.reload();
-            }
-          }} style={{
-            fontSize: '13px', color: '#666', background: 'transparent',
-            border: '1px solid #e0e0e0', padding: '8px 14px',
-            cursor: 'pointer', transition: 'all 0.2s',
-            display: 'flex', alignItems: 'center', gap: '6px',
-            borderRadius: '4px',
-          }} onMouseEnter={(e) => {
-            e.currentTarget.style.color = '#ff2c2c';
-            e.currentTarget.style.borderColor = '#ff2c2c';
-            e.currentTarget.style.background = 'rgba(255, 44, 44, 0.05)';
-          }} onMouseLeave={(e) => {
-            e.currentTarget.style.color = '#666';
-            e.currentTarget.style.borderColor = '#e0e0e0';
-            e.currentTarget.style.background = 'transparent';
-          }}>
-            <RotateCcw size={16} /> Reset
-          </button>
+        {/* Desktop Nav */}
+        <nav style={{ display: 'flex', alignItems: 'center', gap: '4px' }}>
+          {navItems.map((item) => {
+            const isActive = pathname === item.path;
+            return (
+              <Link
+                key={item.path}
+                href={item.path}
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '8px',
+                  padding: '10px 14px',
+                  borderRadius: '12px',
+                  textDecoration: 'none',
+                  fontSize: '13px',
+                  fontWeight: 700,
+                  transition: 'all 0.3s ease',
+                  color: isActive ? '#ff2c2c' : '#666',
+                  background: isActive ? 'rgba(255, 44, 44, 0.05)' : 'transparent',
+                }}
+                onMouseEnter={(e) => {
+                  if (!isActive) {
+                    e.currentTarget.style.color = '#ff2c2c';
+                    e.currentTarget.style.background = 'rgba(255, 44, 44, 0.02)';
+                  }
+                }}
+                onMouseLeave={(e) => {
+                  if (!isActive) {
+                    e.currentTarget.style.color = '#666';
+                    e.currentTarget.style.background = 'transparent';
+                  }
+                }}
+              >
+                {item.icon}
+                <span style={{ display: 'none' }} className="lg:block">{item.name}</span>
+              </Link>
+            );
+          })}
+          
+          <div style={{ width: '1px', height: '24px', background: 'rgba(0,0,0,0.05)', margin: '0 8px' }} />
+
+          {/* Progress Indicator */}
+          <div style={{ display: 'flex', alignItems: 'center', gap: '12px', marginLeft: '8px' }}>
+            <div style={{ textAlign: 'right', display: 'none' }} className="md:block">
+              <div style={{ fontSize: '11px', fontWeight: 800, color: '#1a1a1a', lineHeight: 1 }}>{progress}%</div>
+              <div style={{ fontSize: '9px', color: '#999', fontWeight: 600, marginTop: '2px' }}>MASTERED</div>
+            </div>
+            <div style={{ position: 'relative', width: '32px', height: '32px' }}>
+              <svg viewBox="0 0 36 36" style={{ width: '32px', height: '32px', transform: 'rotate(-90deg)' }}>
+                <circle cx="18" cy="18" r="16" fill="none" stroke="rgba(0,0,0,0.05)" strokeWidth="3" />
+                <circle cx="18" cy="18" r="16" fill="none" stroke="#ff2c2c" strokeWidth="3" 
+                  strokeDasharray={`${progress}, 100`} strokeLinecap="round" 
+                  style={{ transition: 'stroke-dasharray 1s ease-out', filter: 'drop-shadow(0 0 4px rgba(255, 44, 44, 0.4))' }}
+                />
+              </svg>
+            </div>
+          </div>
         </nav>
       </div>
+
+      <style jsx global>{`
+        @media (min-width: 1024px) {
+          .lg\:block { display: block !important; }
+        }
+        @media (min-width: 768px) {
+          .md\:block { display: block !important; }
+        }
+      `}</style>
     </header>
   );
 }
