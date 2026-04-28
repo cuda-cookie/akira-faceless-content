@@ -38,6 +38,7 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
 
   const markComplete = useCallback((path: string) => {
     setCompletedLessons(prev => {
+      if (prev.has(path)) return prev;
       const next = new Set(prev);
       next.add(path);
       return next;
@@ -46,6 +47,7 @@ export function ProgressProvider({ children }: { children: ReactNode }) {
 
   const markIncomplete = useCallback((path: string) => {
     setCompletedLessons(prev => {
+      if (!prev.has(path)) return prev;
       const next = new Set(prev);
       next.delete(path);
       return next;

@@ -3,6 +3,7 @@
 import { useRouter } from 'next/navigation';
 import { useProgress } from '@/components/ProgressProvider';
 import { PHASES } from '@/data/phases';
+import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import remarkGfm from 'remark-gfm';
 import type { Components } from 'react-markdown';
@@ -127,6 +128,8 @@ function LearningPathSection({ phaseSlug, lessonSlug }: { phaseSlug: string; les
   );
 }
 
+let lastHeading = '';
+
 const mdComponents: Components = {
   code({ className, children }) {
     return (
@@ -145,11 +148,44 @@ const mdComponents: Components = {
     );
   },
   h1: ({children}) => <h1 style={{ fontSize: '40px', fontWeight: 900, marginTop: '48px', marginBottom: '24px', color: '#1a1a1a', letterSpacing: '-0.02em' }}>{children}</h1>,
-  h2: ({children}) => <h2 style={{ fontSize: '28px', fontWeight: 800, marginTop: '40px', marginBottom: '20px', color: '#1a1a1a', borderBottom: '2px solid rgba(255, 44, 44, 0.1)', paddingBottom: '12px' }}>{children}</h2>,
-  h3: ({children}) => <h3 style={{ fontSize: '20px', fontWeight: 700, marginTop: '32px', marginBottom: '16px', color: '#ff2c2c' }}>{children}</h3>,
+  h2: ({children, ...props}) => {
+    lastHeading = children?.toString() || 'Section';
+    return <h2 {...props} style={{ fontSize: '28px', fontWeight: 800, marginTop: '40px', marginBottom: '20px', color: '#1a1a1a', borderBottom: '2px solid rgba(255, 44, 44, 0.1)', paddingBottom: '12px' }}>{children}</h2>;
+  },
+  h3: ({children, ...props}) => {
+    lastHeading = children?.toString() || 'Section';
+    return <h3 {...props} style={{ fontSize: '20px', fontWeight: 700, marginTop: '32px', marginBottom: '16px', color: '#ff2c2c' }}>{children}</h3>;
+  },
   p: ({children}) => <p style={{ fontSize: '17px', lineHeight: '1.8', marginBottom: '20px', color: '#444' }}>{children}</p>,
-  ul: ({children}) => <ul style={{ marginLeft: '24px', marginBottom: '20px', fontSize: '17px', lineHeight: '1.8', color: '#444' }}>{children}</ul>,
+  ul: ({children, ...props}) => {
+    const listItems = React.Children.toArray(children).filter(
+      (child: any) => child && child.type === 'li'
+    );
+    const content = <ul {...props} style={{ marginLeft: '24px', marginBottom: '20px', fontSize: '17px', lineHeight: '1.8', color: '#444' }}>{children}</ul>;
+    
+    if (listItems.length > 5) {
+      return (
+        <details>
+          <summary>{lastHeading || 'Extended List'}</summary>
+          <div style={{ marginTop: '12px' }}>{content}</div>
+        </details>
+      );
+    }
+    return content;
+  },
   li: ({children}) => <li style={{ marginBottom: '8px' }}>{children}</li>,
+  table: ({children, ...props}) => {
+    return (
+      <details>
+        <summary>{lastHeading || 'Comparison Table'}</summary>
+        <div style={{ overflowX: 'auto' }}>
+          <table {...props} style={{ width: '100%', borderCollapse: 'collapse', marginTop: '12px' }}>{children}</table>
+        </div>
+      </details>
+    );
+  },
+  th: ({children}) => <th style={{ borderBottom: '2px solid #ff2c2c', padding: '12px', textAlign: 'left' }}>{children}</th>,
+  td: ({children}) => <td style={{ borderBottom: '1px solid rgba(0,0,0,0.1)', padding: '12px' }}>{children}</td>,
   blockquote: ({children}) => (
     <blockquote style={{ 
       borderLeft: '4px solid #ff2c2c', 
@@ -184,23 +220,39 @@ export default function LessonViewer({ phaseSlug, lessonSlug, initialContent }: 
   const idx = all.findIndex(l => l.path === lessonPath);
   const next = idx < all.length - 1 ? all[idx + 1] : null;
 
+  // Extract frontmatter
+  const takeawayMatch = initialContent.match(/takeaway:\s*(.*)/i);
+  const takeaway = takeawayMatch ? takeawayMatch[1].replace(/^["']|["']$/g, '') : null;
+  const cleanContent = initialContent.replace(/---[\s\S]*?---/, '');
+
   return (
-    <div style={{ background: '#ffffff', minHeight: '100vh', paddingTop: '68px' }}>
-      {/* Sticky Top Progress Bar */}
+    <div style={{ background: '#ffffff', minHeight: '100vh', paddingTop: '132px' }}>
+      {/* Sticky Top Progress Bar - Fixated */}
       <div style={{
-        position: 'fixed', top: '68px', left: 0, right: 0, zIndex: 900,
-        background: 'rgba(255,255,255,0.8)', backdropFilter: 'blur(16px)',
-        borderBottom: '1px solid rgba(0,0,0,0.05)', height: '64px',
-        display: 'flex', alignItems: 'center',
+        position: 'fixed', 
+        top: '68px', 
+        left: 0, 
+        right: 0, 
+        zIndex: 1100,
+        background: 'rgba(255,255,255,0.98)', 
+        backdropFilter: 'blur(20px)',
+        WebkitBackdropFilter: 'blur(20px)',
+        borderBottom: '1px solid rgba(255, 44, 44, 0.1)', 
+        height: '64px',
+        display: 'flex', 
+        alignItems: 'center',
+        boxShadow: '0 4px 20px rgba(0,0,0,0.05)'
       }}>
         <div style={{ maxWidth: '1000px', width: '100%', margin: '0 auto', padding: '0 1.5rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between', gap: '20px' }}>
           <button onClick={() => router.back()} style={{ 
             display: 'flex', alignItems: 'center', gap: '8px', 
-            background: 'none', border: 'none', cursor: 'pointer',
-            fontSize: '14px', fontWeight: 700, color: '#666',
-            transition: 'color 0.2s'
-          }} onMouseEnter={(e) => e.currentTarget.style.color = '#ff2c2c'} onMouseLeave={(e) => e.currentTarget.style.color = '#666'}>
-            <ChevronLeft size={20} /> Back
+            background: 'white', border: '1px solid rgba(0,0,0,0.05)', 
+            cursor: 'pointer', padding: '8px 16px', borderRadius: '8px',
+            fontSize: '13px', fontWeight: 700, color: '#1a1a1a',
+            transition: 'all 0.2s',
+            boxShadow: '0 2px 4px rgba(0,0,0,0.02)'
+          }} onMouseEnter={(e) => { e.currentTarget.style.color = '#ff2c2c'; e.currentTarget.style.borderColor = '#ff2c2c'; }} onMouseLeave={(e) => { e.currentTarget.style.color = '#1a1a1a'; e.currentTarget.style.borderColor = 'rgba(0,0,0,0.05)'; }}>
+            <ChevronLeft size={18} /> Back
           </button>
 
           <div style={{ flex: 1, textAlign: 'center', minWidth: 0 }}>
@@ -250,10 +302,23 @@ export default function LessonViewer({ phaseSlug, lessonSlug, initialContent }: 
               ))}
             </div>
 
+            {takeaway && (
+              <div style={{
+                borderLeft: '3px solid #ff2c2c',
+                background: '#fff0f0',
+                borderRadius: '8px',
+                padding: '12px 16px',
+                marginBottom: '32px'
+              }}>
+                <div style={{ fontWeight: 'bold', color: '#ff2c2c', fontSize: '11px', textTransform: 'uppercase', letterSpacing: '1px', marginBottom: '4px' }}>Key takeaway</div>
+                <div style={{ color: '#333', fontSize: '14px', lineHeight: '1.6' }}>{takeaway}</div>
+              </div>
+            )}
+
             {/* Main Content Area */}
             <div className="lesson-prose" style={{ position: 'relative' }}>
               <ReactMarkdown remarkPlugins={[remarkGfm]} components={mdComponents}>
-                {initialContent}
+                {cleanContent}
               </ReactMarkdown>
               
               <div style={{ 

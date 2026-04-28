@@ -13,26 +13,25 @@ export default function Footer() {
     }}>
       <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 1.5rem' }}>
         <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', gap: '24px' }}>
-          <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
-            <div style={{
-              background: 'linear-gradient(135deg, #ff2c2c 0%, #ff6b6b 100%)',
-              width: '32px',
-              height: '32px',
-              borderRadius: '8px',
+          <div style={{ display: 'flex', alignItems: 'center', gap: '16px' }}>
+            <div className="tech-border" style={{
+              width: '36px',
+              height: '36px',
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
-              color: 'white',
+              background: 'white',
+              overflow: 'hidden'
             }}>
-              <Flame size={18} fill="white" />
+              <img src="/logo.jpeg" alt="AKIRA" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
             </div>
             <span style={{ fontSize: '16px', fontWeight: 900, letterSpacing: '-0.02em' }}>
-              FACELESS <span style={{ color: '#ff2c2c' }}>MASTERY</span>
+              AKIRA<span style={{ color: '#ff2c2c' }}>FACELESS-CONTENT</span>
             </span>
           </div>
           
           <div style={{ fontSize: '14px', color: '#999', fontWeight: 500, maxWidth: '500px' }}>
-            The ultimate guide to building automated video empires with modern AI tools and Japanese-inspired discipline.
+            The ultimate blueprint for building neural video empires with AKIRA-class AI automation.
           </div>
 
           <div style={{ 
@@ -54,7 +53,7 @@ export default function Footer() {
           </div>
 
           <div style={{ marginTop: '32px', fontSize: '12px', color: '#ccc' }}>
-            &copy; {new Date().getFullYear()} Faceless Video Mastery • 準備 基礎 成功
+            &copy; {new Date().getFullYear()} akirafacelesscontent • 準備 基礎 成功
           </div>
         </div>
       </div>

@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { PHASES, getTotalLessons } from '@/data/phases';
 import { useProgress } from '@/components/ProgressProvider';
-import { Home, Map, Grid3x3, BookMarked, Flame, Bot } from 'lucide-react';
+import { Home, Map, Grid3x3, BookMarked, Flame, Wrench, Video, BookOpen, User } from 'lucide-react';
 import { useState, useEffect } from 'react';
 
 export default function Header() {
@@ -23,9 +23,9 @@ export default function Header() {
 
   const navItems = [
     { name: 'Dashboard', path: '/', icon: <Home size={18} /> },
-    { name: 'Roadmap', path: '/roadmap', icon: <Map size={18} /> },
     { name: 'Catalog', path: '/catalog', icon: <Grid3x3 size={18} /> },
-    { name: 'Glossary', path: '/glossary', icon: <BookMarked size={18} /> },
+    { name: 'Roadmap', path: '/roadmap', icon: <Map size={18} /> },
+    { name: 'Profile', path: '/profile', icon: <User size={18} /> },
   ];
 
   return (
@@ -36,7 +36,7 @@ export default function Header() {
       right: 0,
       zIndex: 1000,
       transition: 'all 0.4s cubic-bezier(0.4, 0, 0.2, 1)',
-      background: isScrolled ? 'rgba(255, 255, 255, 0.8)' : 'rgba(255, 255, 255, 0.4)',
+      background: isScrolled ? 'rgba(255, 255, 255, 0.9)' : 'rgba(255, 255, 255, 0.6)',
       backdropFilter: 'blur(16px)',
       WebkitBackdropFilter: 'blur(16px)',
       borderBottom: isScrolled ? '1px solid rgba(255, 44, 44, 0.1)' : '1px solid transparent',
@@ -44,26 +44,24 @@ export default function Header() {
       height: 'auto',
     }}>
       <div style={{ maxWidth: '1200px', margin: '0 auto', padding: '0 1.5rem', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
-        <Link href="/" style={{ textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '12px' }}>
-          <div style={{
-            background: 'linear-gradient(135deg, #ff2c2c 0%, #ff6b6b 100%)',
-            width: '36px',
-            height: '36px',
-            borderRadius: '10px',
+        <Link href="/" style={{ textDecoration: 'none', display: 'flex', alignItems: 'center', gap: '16px' }}>
+          <div className="tech-border" style={{
+            width: '40px',
+            height: '40px',
             display: 'flex',
             alignItems: 'center',
             justifyContent: 'center',
-            color: 'white',
-            boxShadow: '0 4px 12px rgba(255, 44, 44, 0.3)',
+            background: 'white',
+            overflow: 'hidden'
           }}>
-            <Flame size={20} fill="white" />
+            <img src="/logo.jpeg" alt="AKIRA" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
           </div>
           <div style={{ display: 'flex', flexDirection: 'column' }}>
             <div style={{ fontSize: '18px', fontWeight: 900, color: '#1a1a1a', letterSpacing: '-0.02em', lineHeight: 1 }}>
-              FACELESS <span style={{ color: '#ff2c2c' }}>MASTERY</span>
+              AKIRA<span style={{ color: '#ff2c2c' }}>FACELESS</span>
             </div>
             <div style={{ fontSize: '10px', color: '#999', fontWeight: 700, textTransform: 'uppercase', letterSpacing: '1px', marginTop: '4px' }}>
-              無顔ビデオの習得
+              AKIRAFACELESS-CONTENT // OS
             </div>
           </div>
         </Link>
