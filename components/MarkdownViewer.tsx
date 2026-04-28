@@ -16,6 +16,28 @@ interface Props {
 
 let lastHeading = '';
 
+const slugify = (text: string): string => {
+  return text
+    .toLowerCase()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/\s+/g, '-')
+    .replace(/-+/g, '-')
+    .trim();
+};
+
+// Helper to extract text from React children to create consistent IDs
+const getID = (children: any): string => {
+  const text = React.Children.toArray(children)
+    .map((child: any) => {
+      if (typeof child === 'string') return child;
+      if (typeof child === 'number') return String(child);
+      if (child?.props?.children) return getID(child.props.children);
+      return '';
+    })
+    .join('');
+  return slugify(text);
+};
+
 const mdComponents: Components = {
   code({ className, children }) {
     return (
@@ -40,19 +62,19 @@ const mdComponents: Components = {
   ),
   h1: ({children}) => <h1 style={{ fontSize: '40px', fontWeight: 900, marginTop: '48px', marginBottom: '24px', color: '#1a1a1a', letterSpacing: '-0.02em' }}>{children}</h1>,
   h2: ({children, ...props}) => {
-    const id = children?.toString().toLowerCase().replace(/\s+/g, '-');
-    lastHeading = children?.toString() || 'Section';
+    const id = getID(children);
+    lastHeading = typeof children === 'string' ? children : 'Section';
     return <h2 id={id} {...props} style={{ fontSize: '28px', fontWeight: 800, marginTop: '40px', marginBottom: '20px', color: '#1a1a1a', borderBottom: '2px solid rgba(255, 44, 44, 0.1)', paddingBottom: '12px' }}>{children}</h2>;
   },
   h3: ({children, ...props}) => {
-    const id = children?.toString().toLowerCase().replace(/\s+/g, '-');
-    lastHeading = children?.toString() || 'Section';
+    const id = getID(children);
+    lastHeading = typeof children === 'string' ? children : 'Section';
     return <h3 id={id} {...props} style={{ fontSize: '20px', fontWeight: 700, marginTop: '32px', marginBottom: '16px', color: '#ff2c2c' }}>{children}</h3>;
   },
   p: ({children}) => <p style={{ fontSize: '17px', lineHeight: '1.8', marginBottom: '20px', color: '#444' }}>{children}</p>,
   ul: ({children, ...props}) => {
     const listItems = React.Children.toArray(children).filter(
-      (child: any) => child && child.type === 'li'
+      (child: any) => child && (child as any).type === 'li'
     );
     const content = <ul {...props} style={{ marginLeft: '24px', marginBottom: '20px', fontSize: '17px', lineHeight: '1.8', color: '#444' }}>{children}</ul>;
     
@@ -111,8 +133,8 @@ export default function MarkdownViewer({ initialContent, title, backHref, backLa
       .filter(line => line.startsWith('## ') || line.startsWith('### '))
       .map(line => {
         const level = line.startsWith('### ') ? 3 : 2;
-        const text = line.replace(/^###?\s+/, '').replace(/[\[\]*`]/g, '');
-        const id = text.toLowerCase().replace(/\s+/g, '-');
+        const text = line.replace(/^###?\s+/, '').replace(/[\[\]*`]/g, '').trim();
+        const id = slugify(text);
         return { id, text, level };
       });
     setHeadings(h);
@@ -128,13 +150,39 @@ export default function MarkdownViewer({ initialContent, title, backHref, backLa
       { rootMargin: '-100px 0px -70% 0px' }
     );
 
-    h.forEach((heading) => {
-      const el = document.getElementById(heading.id);
-      if (el) observer.observe(el);
-    });
+    // Give react-markdown a moment to render
+    const timeout = setTimeout(() => {
+      h.forEach((heading) => {
+        const el = document.getElementById(heading.id);
+        if (el) observer.observe(el);
+      });
+    }, 500);
 
-    return () => observer.disconnect();
+    return () => {
+      clearTimeout(timeout);
+      observer.disconnect();
+    };
   }, [cleanContent]);
+
+  const handleScroll = (e: React.MouseEvent<HTMLAnchorElement>, id: string) => {
+    e.preventDefault();
+    const element = document.getElementById(id);
+    if (element) {
+      const offset = 150; // Account for navbar (68px) + potential lesson header (64px) + padding
+      const bodyRect = document.body.getBoundingClientRect().top;
+      const elementRect = element.getBoundingClientRect().top;
+      const elementPosition = elementRect - bodyRect;
+      const offsetPosition = elementPosition - offset;
+
+      window.scrollTo({
+        top: offsetPosition,
+        behavior: 'smooth'
+      });
+      
+      // Update URL hash without jumping
+      window.history.pushState(null, '', `#${id}`);
+    }
+  };
 
   return (
     <div style={{ background: '#ffffff', minHeight: '100vh', paddingTop: '68px' }}>
@@ -198,6 +246,7 @@ export default function MarkdownViewer({ initialContent, title, backHref, backLa
               <a 
                 key={h.id} 
                 href={`#${h.id}`} 
+                onClick={(e) => handleScroll(e, h.id)}
                 className={`minimap-link ${activeId === h.id ? 'active' : ''}`}
                 style={{ paddingLeft: h.level === 3 ? '16px' : '0' }}
               >
