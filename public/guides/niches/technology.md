@@ -107,7 +107,7 @@ Complete guide to creating faceless video content in the technology and software
 
 ## Content Creation Tips
 
-### Using [Syllaby.io](https://syllaby.io/?via=chris56)
+### Using [Syllaby.io](https://Syllaby.io/?via=chris56)
 
 **Best Features**:
 - URL to Video for software reviews (perfect!)
@@ -147,7 +147,7 @@ Complete guide to creating faceless video content in the technology and software
 
 **Strategy**: Review software products
 
-**Using [Syllaby.io URL to Video](https://syllaby.io/?via=chris56)**: Fastest review creation
+**Using [Syllaby.io URL to Video](https://Syllaby.io/?via=chris56)**: Fastest review creation
 
 **Result**: High affiliate commissions.
 
@@ -180,7 +180,7 @@ Complete guide to creating faceless video content in the technology and software
 - [ ] Choose sub-niche
 - [ ] Research software products
 - [ ] Join software affiliate programs
-- [ ] Create first review using [Syllaby.io URL to Video](https://syllaby.io/?via=chris56)
+- [ ] Create first review using [Syllaby.io URL to Video](https://Syllaby.io/?via=chris56)
 - [ ] Create comparison videos
 - [ ] Set up monetization
 - [ ] Track performance
@@ -193,7 +193,7 @@ Complete guide to creating faceless video content in the technology and software
 
 1. **Technology niche** = high affiliate commissions
 2. **Software reviews** = best content type
-3. **Use [Syllaby.io URL to Video](https://syllaby.io/?via=chris56)** = fastest reviews
+3. **Use [Syllaby.io URL to Video](https://Syllaby.io/?via=chris56)** = fastest reviews
 4. **Comparisons** = multiple affiliate links
 5. **Stay current** = trending topics
 6. **High CPM** = $5-20 per 1,000 views
@@ -204,11 +204,12 @@ Complete guide to creating faceless video content in the technology and software
 
 - [Top Paying Niches Guide](./top-paying-niches.md) - Compare niches
 - [Niche Selection Guide](./niche-selection.md) - Choose your niche
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create tech content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create tech content
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create high-earning tech content!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create high-earning tech content!*
+
 
 
 

@@ -20,9 +20,9 @@ Follow this step-by-step guide to create your first faceless video in just 5 min
 ### Step 3: Set Up Publishing (1 minute)
 
 1. Choose platforms:
-   - Start with **YouTube** or **TikTok** (pick one for first video)
-   - You can add more platforms later
-2. Enable **"Auto-generate AI description and tags"** ✓
+ - Start with **YouTube** or **TikTok** (pick one for first video)
+ - You can add more platforms later
+2. Enable **"Auto-generate AI description and tags"** 
 3. Choose **"Publish Now"** or **"Schedule for Later"**
 
 ### Step 4: Video Options (1 minute)
@@ -30,8 +30,8 @@ Follow this step-by-step guide to create your first faceless video in just 5 min
 1. **Language**: English (or your preferred)
 2. **Voice Actor**: Choose a voice you like
 3. **Orientation**: 
-   - **Portrait** for TikTok/Reels
-   - **Landscape** for YouTube
+ - **Portrait** for TikTok/Reels
+ - **Landscape** for YouTube
 4. **Length**: Under 1 minute (for first video)
 
 ### Step 5: Create Script (1 minute)
@@ -48,7 +48,7 @@ Follow this step-by-step guide to create your first faceless video in just 5 min
 3. Wait 1-2 minutes for processing
 4. Video will appear in "My Videos" section
 
-## Congratulations! 🎉
+## Congratulations! 
 
 You've created your first faceless video! 
 
@@ -69,19 +69,19 @@ You've created your first faceless video!
 
 ## Common First Video Questions
 
-**Q: How long does it take?**  
+**Q: How long does it take?** 
 A: 1-2 minutes for processing, 5 minutes total setup
 
-**Q: Can I edit it after?**  
+**Q: Can I edit it after?** 
 A: Yes! Full editing capabilities available
 
-**Q: How much does it cost?**  
+**Q: How much does it cost?** 
 A: ~13 credits per 1-minute video (check your plan)
 
-**Q: What if I don't like it?**  
+**Q: What if I don't like it?** 
 A: You can regenerate, edit, or create a new one
 
-**Q: Can I use my own images?**  
+**Q: Can I use my own images?** 
 A: Yes! Upload your own media in the editor
 
 ## Pro Tips for Your First Video
@@ -103,6 +103,7 @@ Ready to level up?
 ---
 
 **Need help?** Check the [FAQ](../resources/faq.md) or create another video to practice!
+
 
 
 

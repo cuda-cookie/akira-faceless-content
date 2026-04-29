@@ -2,7 +2,7 @@
 
 ## Step 1: Create Your Free Account
 
-1. Visit [Syllaby.io](https://syllaby.io/?via=chris56)
+1. Visit [Syllaby.io](https://Syllaby.io/?via=chris56)
 2. Click "Sign Up" or "Start Free Trial"
 3. Enter your email address
 4. Create a password
@@ -44,6 +44,7 @@ Once your account is set up:
 ---
 
 **Need help?** Check the [FAQ](../resources/faq.md) or [Troubleshooting Guide](../resources/troubleshooting.md)
+
 
 
 

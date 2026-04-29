@@ -1,6 +1,6 @@
 # Lesson 1: From Hobby to Business
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Transform content creation into a real business
 
 ---
@@ -86,11 +86,12 @@
 
 ## Next Lesson
 
-**[Lesson 2: Legal & Tax Considerations →](./lesson-2-legal-tax.md)**
+**[Lesson 2: Legal & Tax Considerations ](./lesson-2-legal-tax.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to build your business!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to build your business!*
+
 
 
 

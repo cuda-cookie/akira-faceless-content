@@ -1,13 +1,13 @@
 # Lesson 2: The 2-3 Week Monetization Strategy
 
-**Duration**: 45 minutes  
+**Duration**: 45 minutes 
 **Goal**: Get monetized on YouTube in 2-3 weeks
 
 ---
 
 ## The Strategy Overview
 
-This is the **exact strategy** successful creators use to get monetized in 2-3 weeks. It's not theory—it's proven.
+This is the **exact strategy** successful creators use to get monetized in 2-3 weeks. It's not theoryit's proven.
 
 **What You'll Achieve**:
 - 1,000+ subscribers
@@ -120,7 +120,7 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 **Day 1-2: Setup**
 - [ ] Create YouTube channel
 - [ ] Optimize channel (banner, description, tags)
-- [ ] Connect to [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Connect to [Syllaby.io](https://Syllaby.io/?via=chris56)
 - [ ] Create first 5 videos
 - [ ] Set up content calendar
 
@@ -185,7 +185,7 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 - High watch time = more ad revenue
 
 **How to Create**:
-1. Use [Syllaby.io](https://syllaby.io/?via=chris56) to create base video
+1. Use [Syllaby.io](https://Syllaby.io/?via=chris56) to create base video
 2. Script: Simple, repetitive (e.g., "Sitting by fireplace")
 3. No subtitles
 4. Download and import to CapCut (free)
@@ -213,7 +213,7 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 **How to Create**:
 1. Choose a topic
 2. Break into 5-10 parts
-3. Create series using [Syllaby.io](https://syllaby.io/?via=chris56)
+3. Create series using [Syllaby.io](https://Syllaby.io/?via=chris56)
 4. Link videos together
 5. Create playlist
 
@@ -252,7 +252,7 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 #### 1. Trending Topics
 
 **How to Find**:
-- Use [Syllaby.io's Idea Discovery](https://syllaby.io/?via=chris56)
+- Use [Syllaby.io's Idea Discovery](https://Syllaby.io/?via=chris56)
 - Check trending sounds
 - Monitor current events
 - Analyze competitor content
@@ -311,7 +311,7 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 - High CTR: Aim for 5%+ click-through rate
 - Eye-Catching: Stand out in feed
 - Consistent Style: Build brand recognition
-- Use [Syllaby.io's Thumbnail Generator](https://syllaby.io/?via=chris56)
+- Use [Syllaby.io's Thumbnail Generator](https://Syllaby.io/?via=chris56)
 
 ---
 
@@ -358,7 +358,7 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 
 **Tools**:
 - YouTube Analytics
-- [Syllaby.io Analytics](https://syllaby.io/?via=chris56)
+- [Syllaby.io Analytics](https://Syllaby.io/?via=chris56)
 - Spreadsheet tracking
 
 ---
@@ -380,7 +380,7 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 
 - [ ] Set up YouTube channel (if not done)
 - [ ] Create content calendar for 3 weeks
-- [ ] Create first 5 videos using [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Create first 5 videos using [Syllaby.io](https://Syllaby.io/?via=chris56)
 - [ ] Set up tracking spreadsheet
 - [ ] Create U-log video for watch hours
 - [ ] Plan educational series
@@ -403,23 +403,24 @@ This is the **exact strategy** successful creators use to get monetized in 2-3 w
 
 ## Next Lesson
 
-**[Lesson 3: Watch Time Optimization →](./lesson-3-watch-time.md)**
+**[Lesson 3: Watch Time Optimization ](./lesson-3-watch-time.md)**
 
 ---
 
 ## Resources
 
 - [Getting Monetized Fast Guide](../../../guides/monetization/getting-monetized-fast.md) - Complete guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start creating content
 - [YouTube Monetization Guide](../../../guides/monetization/youtube-monetization.md) - Detailed guide
 
 ---
 
-**Ready to get monetized?** [Next Lesson →](./lesson-3-watch-time.md)
+**Ready to get monetized?** [Next Lesson ](./lesson-3-watch-time.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start creating the content that gets you monetized!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to start creating the content that gets you monetized!*
+
 
 
 

@@ -1,6 +1,6 @@
 # Lesson 5: Scaling to $5,000+/Month
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Scale all revenue streams to $5,000+/month
 
 ---
@@ -36,7 +36,7 @@
 
 **Strategy**: 10 videos/day vs. 1/day
 
-**Using [Syllaby.io Bulk Scheduler](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io Bulk Scheduler](https://Syllaby.io/?via=chris56)**:
 - Create 300 videos/month
 - Automatic publishing
 - 10x content = 5-10x revenue
@@ -91,11 +91,12 @@
 
 ## Next Lesson
 
-**[Lesson 6: Building a Content Empire →](./lesson-6-empire.md)**
+**[Lesson 6: Building a Content Empire ](./lesson-6-empire.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to scale to $5,000+/month!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to scale to $5,000+/month!*
+
 
 
 

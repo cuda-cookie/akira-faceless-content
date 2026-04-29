@@ -126,11 +126,12 @@ Build engaged community that drives growth and revenue.
 
 - [Growth Strategies Guide](./growth-strategies.md) - Growth tactics
 - [Content Strategies Guide](./content-strategies.md) - Content planning
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create engaging content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create engaging content
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to build your community!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to build your community!*
+
 
 
 

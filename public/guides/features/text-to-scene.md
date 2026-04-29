@@ -21,48 +21,48 @@ Create ultra-realistic, cinematic videos using advanced AI models.
 
 ### Sora 2
 
-**Cost**: 3 credits per second  
-**Quality**: Ultra-realistic  
+**Cost**: 3 credits per second 
+**Quality**: Ultra-realistic 
 **Best For**: General high-quality content
 
 ---
 
 ### Sora 2 Pro
 
-**Cost**: 13 credits per second  
-**Quality**: Highest quality  
+**Cost**: 13 credits per second 
+**Quality**: Highest quality 
 **Best For**: Premium content
 
 ---
 
 ### Google VEO3 Fast
 
-**Cost**: 4 credits per second  
-**Quality**: Fast generation  
+**Cost**: 4 credits per second 
+**Quality**: Fast generation 
 **Best For**: Quick high-quality content
 
 ---
 
 ### Google VEO3 Quality
 
-**Cost**: 11 credits per second  
-**Quality**: High quality  
+**Cost**: 11 credits per second 
+**Quality**: High quality 
 **Best For**: Balanced quality/speed
 
 ---
 
 ### Seedance Lite
 
-**Cost**: ~1 credit per second  
-**Quality**: Good quality  
+**Cost**: ~1 credit per second 
+**Quality**: Good quality 
 **Best For**: Cost-effective quality
 
 ---
 
 ### Seedance Pro
 
-**Cost**: ~2 credits per second  
-**Quality**: Better quality  
+**Cost**: ~2 credits per second 
+**Quality**: Better quality 
 **Best For**: Better quality, still affordable
 
 ---
@@ -173,13 +173,14 @@ Create ultra-realistic, cinematic videos using advanced AI models.
 
 ## Resources
 
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating ultra-realistic videos
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start creating ultra-realistic videos
 - [Credit Management Guide](../resources/credit-management.md) - Manage credits
 - [Faceless Video Generator Guide](./faceless-video-generator.md) - Complete guide
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create ultra-realistic videos!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create ultra-realistic videos!*
+
 
 
 

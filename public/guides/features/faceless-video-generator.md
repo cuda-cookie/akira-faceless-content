@@ -215,19 +215,19 @@ The Faceless Video Generator is designed as a guided step-by-step workflow, perf
 
 ## Common Questions
 
-**Q: How long does video generation take?**  
+**Q: How long does video generation take?** 
 A: 1-2 minutes for most videos
 
-**Q: Can I edit after generation?**  
+**Q: Can I edit after generation?** 
 A: Yes! Full editing capabilities available
 
-**Q: How much do credits cost?**  
+**Q: How much do credits cost?** 
 A: 13 credits per 1-minute video
 
-**Q: Can I use my own images?**  
+**Q: Can I use my own images?** 
 A: Yes! Upload in the video editor
 
-**Q: What's the best style for beginners?**  
+**Q: What's the best style for beginners?** 
 A: AI Visuals - most versatile and easiest
 
 ## Next Steps
@@ -240,6 +240,7 @@ A: AI Visuals - most versatile and easiest
 ---
 
 **Ready to create?** Start with [Your First Video](../getting-started/your-first-video.md)
+
 
 
 

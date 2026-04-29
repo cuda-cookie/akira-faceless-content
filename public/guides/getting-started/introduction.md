@@ -46,12 +46,12 @@ Users have reported incredible results:
 
 **Syllaby.io** is an AI-powered video creation platform that transforms your ideas into complete, social media-ready videos. It's the only A-to-Z workflow video marketing tool that handles:
 
-- ✅ Idea discovery (viral topics)
-- ✅ AI script generation
-- ✅ Video creation (faceless, avatars, B-roll)
-- ✅ Multi-platform publishing
-- ✅ Content scheduling
-- ✅ Analytics tracking
+- Idea discovery (viral topics)
+- AI script generation
+- Video creation (faceless, avatars, B-roll)
+- Multi-platform publishing
+- Content scheduling
+- Analytics tracking
 
 ## The Complete Workflow
 
@@ -97,7 +97,8 @@ Ready to get started? Follow these guides in order:
 
 ---
 
-**Ready to start?** [Create your free account →](https://syllaby.io/?via=chris56)
+**Ready to start?** [Create your free account ](https://Syllaby.io/?via=chris56)
+
 
 
 

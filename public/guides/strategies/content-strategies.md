@@ -50,7 +50,7 @@ Proven content strategies to create videos that perform.
 
 **Why It Works**: Provides value, evergreen
 
-**How to Create**: Use [Syllaby.io AI Script Assistant](https://syllaby.io/?via=chris56)
+**How to Create**: Use [Syllaby.io AI Script Assistant](https://Syllaby.io/?via=chris56)
 
 ---
 
@@ -104,7 +104,7 @@ Proven content strategies to create videos that perform.
 - Platform-specific optimization
 - Maximum reach
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**: Post everywhere easily
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**: Post everywhere easily
 
 ---
 
@@ -113,7 +113,7 @@ Proven content strategies to create videos that perform.
 1. **Plan monthly themes** = cohesive content
 2. **Mix content types** = engaged audience
 3. **Repurpose content** = maximum ROI
-4. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = easy creation
+4. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = easy creation
 
 ---
 
@@ -121,11 +121,12 @@ Proven content strategies to create videos that perform.
 
 - [Content Repurposing Guide](../workflows/content-repurposing.md) - Repurpose system
 - [Growth Strategies Guide](./growth-strategies.md) - Growth tactics
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create content
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to implement content strategies!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to implement content strategies!*
+
 
 
 

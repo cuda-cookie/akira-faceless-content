@@ -1,13 +1,13 @@
 # Module 0: Course Introduction & Setup
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Get set up and ready to succeed
 
 ---
 
 ## Module Overview
 
-Welcome to The Faceless Video Mastery Course! This module will get you set up and ready to succeed. By the end, you'll understand what you'll achieve and have your [Syllaby.io account](https://syllaby.io/?via=chris56) ready to go.
+Welcome to The Faceless Video Mastery Course! This module will get you set up and ready to succeed. By the end, you'll understand what you'll achieve and have your [Syllaby.io account](https://Syllaby.io/?via=chris56) ready to go.
 
 **This is your foundation for success.**
 
@@ -22,7 +22,7 @@ Welcome to The Faceless Video Mastery Course! This module will get you set up an
 ## Action Items
 
 By the end of this module, you will have:
-- [ ] Created your [Syllaby.io account](https://syllaby.io/?via=chris56) (free trial)
+- [ ] Created your [Syllaby.io account](https://Syllaby.io/?via=chris56) (free trial)
 - [ ] Explored the dashboard for 10 minutes
 - [ ] Connected at least one social media account (YouTube recommended)
 - [ ] Written down your goals (niche, goals, timeline, why)
@@ -38,21 +38,22 @@ By the end of this module, you will have:
 - [Account Setup Guide](../../guides/getting-started/account-setup.md)
 - [Dashboard Overview](../../guides/getting-started/dashboard-overview.md)
 - [Connecting Accounts Guide](../../guides/getting-started/connecting-accounts.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56)
 
 ---
 
 ## Next Module
 
-**[Module 1: Foundations of Faceless Video Content →](./../module-1/)**
+**[Module 1: Foundations of Faceless Video Content ](./../module-1/)**
 
 ---
 
-**Ready to get started?** [Begin Welcome Lesson →](./welcome.md)
+**Ready to get started?** [Begin Welcome Lesson ](./welcome.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start your journey!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to start your journey!*
+
 
 
 

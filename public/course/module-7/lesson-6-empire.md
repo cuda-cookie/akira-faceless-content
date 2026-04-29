@@ -1,6 +1,6 @@
 # Lesson 6: Building a Content Empire
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Build a sustainable, scalable content business
 
 ---
@@ -46,7 +46,7 @@
 
 **Strategy**: 5+ channels in related niches
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**: Manage all efficiently
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**: Manage all efficiently
 
 ---
 
@@ -62,7 +62,7 @@
 
 **Strategy**: Automate everything possible
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**: Built-in automation
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**: Built-in automation
 
 ---
 
@@ -105,16 +105,17 @@
 
 ---
 
-## Module 7 Complete! 🎉
+## Module 7 Complete! 
 
 **Congratulations!** You've completed Module 7: Advanced Strategies & Scaling.
 
 **You're Ready For**:
-- **[Module 8: Platform-Specific Mastery →](./../module-8/)**
+- **[Module 8: Platform-Specific Mastery ](./../module-8/)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to build your content empire!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to build your content empire!*
+
 
 
 

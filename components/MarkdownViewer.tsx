@@ -130,10 +130,10 @@ export default function MarkdownViewer({ initialContent, title, backHref, backLa
   useEffect(() => {
     const lines = cleanContent.split('\n');
     const h = lines
-      .filter(line => line.startsWith('## ') || line.startsWith('### '))
+      .filter(line => /^\s*#{2,3}\s+/.test(line))
       .map(line => {
-        const level = line.startsWith('### ') ? 3 : 2;
-        const text = line.replace(/^###?\s+/, '').replace(/[\[\]*`]/g, '').trim();
+        const level = line.trim().startsWith('### ') ? 3 : 2;
+        const text = line.replace(/^\s*#{2,3}\s+/, '').replace(/[\[\]*`]/g, '').trim();
         const id = slugify(text);
         return { id, text, level };
       });
@@ -147,16 +147,15 @@ export default function MarkdownViewer({ initialContent, title, backHref, backLa
           }
         });
       },
-      { rootMargin: '-100px 0px -70% 0px' }
+      { rootMargin: '-10% 0px -80% 0px' }
     );
 
-    // Give react-markdown a moment to render
     const timeout = setTimeout(() => {
       h.forEach((heading) => {
         const el = document.getElementById(heading.id);
         if (el) observer.observe(el);
       });
-    }, 500);
+    }, 800);
 
     return () => {
       clearTimeout(timeout);
@@ -168,18 +167,19 @@ export default function MarkdownViewer({ initialContent, title, backHref, backLa
     e.preventDefault();
     const element = document.getElementById(id);
     if (element) {
-      const offset = 150; // Account for navbar (68px) + potential lesson header (64px) + padding
-      const bodyRect = document.body.getBoundingClientRect().top;
-      const elementRect = element.getBoundingClientRect().top;
-      const elementPosition = elementRect - bodyRect;
-      const offsetPosition = elementPosition - offset;
+      const navbarOffset = 70; // Header height
+      const lessonHeaderOffset = 65; // Lesson progress bar height
+      const extraPadding = 20;
+      const totalOffset = navbarOffset + lessonHeaderOffset + extraPadding;
+
+      const elementPosition = element.getBoundingClientRect().top + window.pageYOffset;
+      const offsetPosition = elementPosition - totalOffset;
 
       window.scrollTo({
         top: offsetPosition,
         behavior: 'smooth'
       });
       
-      // Update URL hash without jumping
       window.history.pushState(null, '', `#${id}`);
     }
   };

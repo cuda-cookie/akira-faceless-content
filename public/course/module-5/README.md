@@ -1,6 +1,6 @@
 # Module 5: Revenue Streams & Monetization
 
-**Duration**: 2 hours  
+**Duration**: 2 hours 
 **Goal**: Monetize your faceless video content across all platforms
 
 ---
@@ -41,15 +41,16 @@ By the end of this module, you will have:
 
 - [Revenue Streams Guide](../../../guides/monetization/revenue-streams.md)
 - [Affiliate Marketing Guide](../../../guides/monetization/affiliate-marketing.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56)
 
 ---
 
 ## Next Module
 
-**[Module 6: Growth & Scaling Strategies →](./../module-6/)**
+**[Module 6: Growth & Scaling Strategies ](./../module-6/)**
 
 ---
 
-**Ready to build multiple income streams?** [Begin Lesson 1 →](./lesson-1-revenue-stack.md)
+**Ready to build multiple income streams?** [Begin Lesson 1 ](./lesson-1-revenue-stack.md)
+
 

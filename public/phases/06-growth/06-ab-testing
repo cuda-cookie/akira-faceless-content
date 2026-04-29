@@ -1,6 +1,6 @@
 # Lesson 6: Thumbnail & Title A/B Testing
 
-**Duration**: 20 minutes  
+**Duration**: 20 minutes 
 **Goal**: Use A/B testing to maximize click-through rates
 
 ---
@@ -49,7 +49,7 @@
 **Step 1: Create Variations**:
 - 3 different thumbnails
 - 3 different titles
-- Use [Syllaby.io Thumbnail Generator](https://syllaby.io/?via=chris56)
+- Use [Syllaby.io Thumbnail Generator](https://Syllaby.io/?via=chris56)
 - Use ChatGPT for titles
 
 **Step 2: Upload to YouTube**:
@@ -82,7 +82,7 @@
 - Different colors
 - Different emotions
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**:
 - Generate multiple thumbnails
 - Test different styles
 - Compare performance
@@ -146,7 +146,7 @@
 
 **Set up A/B testing**:
 
-- [ ] Create 3 thumbnail variations using [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Create 3 thumbnail variations using [Syllaby.io](https://Syllaby.io/?via=chris56)
 - [ ] Generate 3 title variations using ChatGPT
 - [ ] Upload to YouTube A/B test
 - [ ] Monitor results
@@ -171,23 +171,24 @@
 
 ## Next Lesson
 
-**[Lesson 7: Analytics & Optimization →](./lesson-7-analytics.md)**
+**[Lesson 7: Analytics & Optimization ](./lesson-7-analytics.md)**
 
 ---
 
 ## Resources
 
 - [Thumbnail Generator Guide](../../../guides/features/thumbnail-generator.md) - Create variations
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Generate thumbnails
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Generate thumbnails
 - [Best Practices Guide](../../../guides/resources/best-practices.md) - More tips
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-7-analytics.md)
+**Ready to continue?** [Next Lesson ](./lesson-7-analytics.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create thumbnail variations for A/B testing!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create thumbnail variations for A/B testing!*
+
 
 
 

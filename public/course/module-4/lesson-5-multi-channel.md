@@ -1,6 +1,6 @@
 # Lesson 5: Multi-Channel Approach
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Use multiple channels to accelerate monetization
 
 ---
@@ -219,7 +219,7 @@
 - Plan day's content
 - Create content for all
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**:
 - Create content for all channels
 - Use Bulk Scheduler
 - Automate publishing
@@ -284,7 +284,7 @@
 ### 2. Use Same Tools
 
 **Strategy**:
-- [Syllaby.io](https://syllaby.io/?via=chris56) for all
+- [Syllaby.io](https://Syllaby.io/?via=chris56) for all
 - Same workflow
 - Same systems
 - Efficient management
@@ -357,23 +357,24 @@
 
 ## Next Lesson
 
-**[Lesson 6: Platform Requirements (TikTok, Instagram, Facebook) →](./lesson-6-platform-requirements.md)**
+**[Lesson 6: Platform Requirements (TikTok, Instagram, Facebook) ](./lesson-6-platform-requirements.md)**
 
 ---
 
 ## Resources
 
 - [Multi-Channel Management Guide](../../../guides/workflows/multi-channel.md) - Complete guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Manage all channels
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Manage all channels
 - [Cross-Platform Strategy](../../../guides/platforms/cross-platform.md) - More strategies
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-6-platform-requirements.md)
+**Ready to continue?** [Next Lesson ](./lesson-6-platform-requirements.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create content for multiple channels efficiently!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create content for multiple channels efficiently!*
+
 
 
 

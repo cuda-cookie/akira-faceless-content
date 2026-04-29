@@ -1,6 +1,6 @@
 # Module 7: Advanced Strategies & Scaling
 
-**Duration**: 2 hours  
+**Duration**: 2 hours 
 **Goal**: Take your business to the next level with advanced tactics
 
 ---
@@ -40,17 +40,18 @@ By the end of this module, you will have:
 
 - [Multi-Channel Management](../../../guides/workflows/multi-channel.md)
 - [Advanced Strategies Guide](../../../guides/strategies/success-strategies.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56)
 
 ---
 
 ## Next Module
 
-**[Module 8: Platform-Specific Mastery →](./../module-8/)**
+**[Module 8: Platform-Specific Mastery ](./../module-8/)**
 
 ---
 
-**Ready for advanced strategies?** [Begin Lesson 1 →](./lesson-1-multi-channel.md)
+**Ready for advanced strategies?** [Begin Lesson 1 ](./lesson-1-multi-channel.md)
+
 
 
 

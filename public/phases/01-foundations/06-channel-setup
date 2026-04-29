@@ -1,6 +1,6 @@
 # Lesson 6: Setting Up Your First Channel
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Set up a professional YouTube channel optimized for growth
 
 ---
@@ -45,11 +45,11 @@
 - Not too long (under 30 characters)
 
 **Examples**:
-- ✅ "AI Content Creator"
-- ✅ "Finance Tips Daily"
-- ✅ "Health & Wellness Guide"
-- ❌ "My Channel"
-- ❌ "Random Videos"
+- "AI Content Creator"
+- "Finance Tips Daily"
+- "Health & Wellness Guide"
+- "My Channel"
+- "Random Videos"
 
 ---
 
@@ -60,8 +60,8 @@
 **What It Is**: The large image at the top of your channel
 
 **Best Practices**:
-- **Size**: 2560 × 1440 pixels
-- **Safe Area**: Keep important content in center 1546 × 423 pixels
+- **Size**: 2560 1440 pixels
+- **Safe Area**: Keep important content in center 1546 423 pixels
 - **Message**: What you do, who you help
 - **Visual**: Professional, on-brand
 - **CTA**: Optional call-to-action
@@ -77,7 +77,7 @@
 - Canva (free templates)
 - Photoshop
 - Fiverr (hire designer)
-- [Syllaby.io Thumbnail Generator](https://syllaby.io/?via=chris56) (adapt for banner)
+- [Syllaby.io Thumbnail Generator](https://Syllaby.io/?via=chris56) (adapt for banner)
 
 ---
 
@@ -86,7 +86,7 @@
 **What It Is**: Your channel's avatar (appears everywhere)
 
 **Best Practices**:
-- **Size**: 800 × 800 pixels (displays as circle)
+- **Size**: 800 800 pixels (displays as circle)
 - **Simple**: Recognizable at small sizes
 - **Branded**: Consistent with your brand
 - **Professional**: High quality
@@ -113,7 +113,7 @@
 - **CTA**: Subscribe button
 
 **How to Create**:
-- Use [Syllaby.io](https://syllaby.io/?via=chris56) to create
+- Use [Syllaby.io](https://Syllaby.io/?via=chris56) to create
 - Script: "Welcome to [Channel Name]. I create [content type] to help you [benefit]. Subscribe for [value]."
 - Professional quality
 - Engaging visuals
@@ -140,9 +140,9 @@
 [Brief description of your content and value]
 
 We post [frequency] covering:
-• [Topic 1]
-• [Topic 2]
-• [Topic 3]
+ [Topic 1]
+ [Topic 2]
+ [Topic 3]
 
 Subscribe for [benefit]!
 
@@ -156,13 +156,13 @@ AI Content Creator - Faceless Video Tutorials
 Learn how to create professional faceless videos using AI. We share tips, tutorials, and strategies to help you build a profitable content business.
 
 We post daily covering:
-• AI video creation
-• Content strategies
-• Monetization tips
+ AI video creation
+ Content strategies
+ Monetization tips
 
 Subscribe for daily content creation tips!
 
-🔗 Links:
+ Links:
 [Your links]
 ```
 
@@ -173,7 +173,7 @@ Subscribe for daily content creation tips!
 **What It Is**: Keywords that help YouTube understand your channel
 
 **Where to Add**:
-- YouTube Studio → Settings → Channel → Basic Info
+- YouTube Studio Settings Channel Basic Info
 - "Keywords" field
 
 **Best Practices**:
@@ -352,7 +352,7 @@ Subscribe for daily content creation tips!
 - [ ] Create and upload profile picture
 - [ ] Write channel description
 - [ ] Add channel keywords
-- [ ] Create channel trailer using [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Create channel trailer using [Syllaby.io](https://Syllaby.io/?via=chris56)
 - [ ] Set up channel sections
 - [ ] Add links and contact info
 - [ ] Configure channel settings
@@ -374,20 +374,20 @@ Subscribe for daily content creation tips!
 
 ---
 
-## Module 1 Complete! 🎉
+## Module 1 Complete! 
 
 **Congratulations!** You've completed Module 1: Foundations of Faceless Video Content.
 
 **What You've Learned**:
-- ✅ What faceless video content is
-- ✅ Why this business model works
-- ✅ The economics and earning potential
-- ✅ How to choose your niche
-- ✅ How to validate your market
-- ✅ How to set up your channel
+- What faceless video content is
+- Why this business model works
+- The economics and earning potential
+- How to choose your niche
+- How to validate your market
+- How to set up your channel
 
 **You're Ready For**:
-- **[Module 2: Mastering Syllaby.io →](./../module-2/)**
+- **[Module 2: Mastering Syllaby.io ](./../module-2/)**
 
 ---
 
@@ -395,15 +395,16 @@ Subscribe for daily content creation tips!
 
 - [Account Setup Guide](../../../guides/getting-started/account-setup.md) - Syllaby.io setup
 - [Dashboard Overview](../../../guides/getting-started/dashboard-overview.md) - Learn the platform
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start creating content
 
 ---
 
-**Ready for Module 2?** [Start Mastering Syllaby.io →](./../module-2/)
+**Ready for Module 2?** [Start Mastering Syllaby.io ](./../module-2/)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start creating content for your new channel!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to start creating content for your new channel!*
+
 
 
 

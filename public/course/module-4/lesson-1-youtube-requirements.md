@@ -1,6 +1,6 @@
 # Lesson 1: YouTube Partner Program Requirements
 
-**Duration**: 20 minutes  
+**Duration**: 20 minutes 
 **Goal**: Understand exactly what you need to get monetized
 
 ---
@@ -48,7 +48,7 @@ The YouTube Partner Program is how you monetize your YouTube channel. Once appro
 - Required for ad revenue
 
 **How to Track**:
-- YouTube Studio → Analytics
+- YouTube Studio Analytics
 - Monitor daily progress
 - Focus on retention
 
@@ -158,7 +158,7 @@ The YouTube Partner Program is how you monetize your YouTube channel. Once appro
 **Solution**:
 - Create original content
 - Add value and commentary
-- Use [Syllaby.io](https://syllaby.io/?via=chris56) for original scripts
+- Use [Syllaby.io](https://Syllaby.io/?via=chris56) for original scripts
 - Transform existing content significantly
 
 ### Issue 2: Insufficient Watch Time
@@ -252,7 +252,7 @@ The YouTube Partner Program is how you monetize your YouTube channel. Once appro
 
 ## Next Lesson
 
-**[Lesson 2: The 2-3 Week Monetization Strategy →](./lesson-2-monetization-strategy.md)**
+**[Lesson 2: The 2-3 Week Monetization Strategy ](./lesson-2-monetization-strategy.md)**
 
 ---
 
@@ -260,15 +260,16 @@ The YouTube Partner Program is how you monetize your YouTube channel. Once appro
 
 - [YouTube Partner Program](https://www.youtube.com/creators/how-things-work/getting-paid/) - Official requirements
 - [Getting Monetized Fast Guide](../../../guides/monetization/getting-monetized-fast.md) - Complete strategy
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start creating content
 
 ---
 
-**Ready to get monetized?** [Next Lesson →](./lesson-2-monetization-strategy.md)
+**Ready to get monetized?** [Next Lesson ](./lesson-2-monetization-strategy.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start creating the content that gets you to 1,000 subscribers and 4,000 watch hours!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to start creating the content that gets you to 1,000 subscribers and 4,000 watch hours!*
+
 
 
 

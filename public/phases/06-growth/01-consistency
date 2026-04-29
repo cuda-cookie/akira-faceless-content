@@ -1,6 +1,6 @@
 # Lesson 1: The Consistency Method (Daily Posting)
 
-**Duration**: 20 minutes  
+**Duration**: 20 minutes 
 **Goal**: Implement daily posting for consistent growth
 
 ---
@@ -55,7 +55,7 @@
 
 ### How to Post Daily
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**:
 
 **Method 1: Bulk Scheduler**:
 1. Plan month of content
@@ -130,7 +130,7 @@
 - Schedule automatically
 - Daily posting without daily work
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**:
 1. Plan 30 topics
 2. Use Bulk Scheduler
 3. Create all videos
@@ -283,7 +283,7 @@
 
 ## Next Lesson
 
-**[Lesson 2: Multi-Platform Domination →](./lesson-2-multi-platform.md)**
+**[Lesson 2: Multi-Platform Domination ](./lesson-2-multi-platform.md)**
 
 ---
 
@@ -291,15 +291,16 @@
 
 - [Daily Workflow Guide](../../../guides/workflows/daily-workflow.md) - Complete system
 - [Bulk Scheduler Guide](../../../guides/features/bulk-scheduler.md) - Monthly planning
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start daily posting
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start daily posting
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-2-multi-platform.md)
+**Ready to continue?** [Next Lesson ](./lesson-2-multi-platform.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to implement daily posting effortlessly!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to implement daily posting effortlessly!*
+
 
 
 

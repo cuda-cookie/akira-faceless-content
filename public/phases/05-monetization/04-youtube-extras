@@ -1,6 +1,6 @@
 # Lesson 4: YouTube Additional Revenue (Memberships, Supers, Shopping)
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Enable and optimize YouTube's additional revenue features
 
 ---
@@ -73,8 +73,8 @@
 
 ### What They Are
 
-**Super Chats**: Viewers pay to highlight messages during live streams  
-**Super Stickers**: Animated stickers during live streams  
+**Super Chats**: Viewers pay to highlight messages during live streams 
+**Super Stickers**: Animated stickers during live streams 
 **Super Thanks**: One-time tips on any video (not just live)
 
 **Earnings**: $1-100+ per interaction
@@ -169,7 +169,7 @@
 - Channel store
 - Consistent promotion
 
-**Pro Tip**: Use [Syllaby.io](https://syllaby.io/?via=chris56) to create product promotion videos.
+**Pro Tip**: Use [Syllaby.io](https://Syllaby.io/?via=chris56) to create product promotion videos.
 
 ---
 
@@ -262,22 +262,23 @@
 
 ## Next Lesson
 
-**[Lesson 5: Video Sponsorships & Brand Deals →](./lesson-5-brand-deals.md)**
+**[Lesson 5: Video Sponsorships & Brand Deals ](./lesson-5-brand-deals.md)**
 
 ---
 
 ## Resources
 
 - [YouTube Monetization Guide](../../../guides/monetization/youtube-monetization.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create content that drives revenue
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create content that drives revenue
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-5-brand-deals.md)
+**Ready to continue?** [Next Lesson ](./lesson-5-brand-deals.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create content that maximizes YouTube revenue!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create content that maximizes YouTube revenue!*
+
 
 
 

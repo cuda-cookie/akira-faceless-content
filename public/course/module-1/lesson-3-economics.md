@@ -1,6 +1,6 @@
 # Lesson 3: The Economics of Faceless Content
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Understand the financial aspects and earning potential
 
 ---
@@ -24,7 +24,7 @@ Understanding the economics of faceless video content is crucial for building a 
 - **Total**: $1,820-4,850+ upfront
 
 **Faceless Content Creation**:
-- [Syllaby.io subscription](https://syllaby.io/?via=chris56): $25/month
+- [Syllaby.io subscription](https://Syllaby.io/?via=chris56): $25/month
 - Computer (you likely already have): $0
 - **Total**: $25/month, no upfront cost
 
@@ -41,7 +41,7 @@ Understanding the economics of faceless video content is crucial for building a 
 - **Total**: $70-150/month + massive time cost
 
 **Faceless Model**:
-- [Syllaby.io subscription](https://syllaby.io/?via=chris56): $25/month
+- [Syllaby.io subscription](https://Syllaby.io/?via=chris56): $25/month
 - Time investment: 25 hours/month
 - **Total**: $25/month + minimal time
 
@@ -58,7 +58,7 @@ Understanding the economics of faceless video content is crucial for building a 
 - **Total**: $106-152 per video
 
 **Faceless Model**:
-- [Syllaby.io credits](https://syllaby.io/?via=chris56): ~$0.20-0.50/video
+- [Syllaby.io credits](https://Syllaby.io/?via=chris56): ~$0.20-0.50/video
 - Time (5 minutes): $1.67/video
 - **Total**: $1.87-2.17 per video
 
@@ -211,7 +211,7 @@ Understanding the economics of faceless video content is crucial for building a 
 ### Month 1-3: Foundation
 
 **Investment**:
-- [Syllaby.io](https://syllaby.io/?via=chris56): $75 ($25/month × 3)
+- [Syllaby.io](https://Syllaby.io/?via=chris56): $75 ($25/month 3)
 - Time: 75 hours (25 hours/month)
 
 **Revenue**:
@@ -227,7 +227,7 @@ Understanding the economics of faceless video content is crucial for building a 
 ### Month 4-6: Growth
 
 **Investment**:
-- [Syllaby.io](https://syllaby.io/?via=chris56): $75
+- [Syllaby.io](https://Syllaby.io/?via=chris56): $75
 - Time: 75 hours
 
 **Revenue**:
@@ -244,7 +244,7 @@ Understanding the economics of faceless video content is crucial for building a 
 ### Month 7-12: Scaling
 
 **Investment**:
-- [Syllaby.io](https://syllaby.io/?via=chris56): $150
+- [Syllaby.io](https://Syllaby.io/?via=chris56): $150
 - Time: 150 hours
 
 **Revenue**:
@@ -270,7 +270,7 @@ Understanding the economics of faceless video content is crucial for building a 
 - CPM: $15 per 1,000 views
 
 **Monthly**:
-- Views: 300,000 (10 videos × 1,000 views × 30 days)
+- Views: 300,000 (10 videos 1,000 views 30 days)
 - AdSense: $4,500
 - Affiliates: $1,500
 - **Total**: $6,000/month
@@ -289,7 +289,7 @@ Understanding the economics of faceless video content is crucial for building a 
 - CPM: $5 per 1,000 views
 
 **Monthly**:
-- Views: 150,000 (5 videos × 1,000 views × 30 days)
+- Views: 150,000 (5 videos 1,000 views 30 days)
 - AdSense: $750
 - Affiliates: $500
 - **Total**: $1,250/month
@@ -308,7 +308,7 @@ Understanding the economics of faceless video content is crucial for building a 
 - CPM: $10 per 1,000 views
 
 **Monthly**:
-- Views: 240,000 (8 videos × 1,000 views × 30 days)
+- Views: 240,000 (8 videos 1,000 views 30 days)
 - AdSense: $2,400
 - Affiliates: $1,200 (high software commissions)
 - **Total**: $3,600/month
@@ -399,9 +399,9 @@ Understanding the economics of faceless video content is crucial for building a 
 
 ## Next Lesson
 
-**[Lesson 4: Choosing Your Niche →](./lesson-4-choosing-niche.md)** (Already Complete)
+**[Lesson 4: Choosing Your Niche ](./lesson-4-choosing-niche.md)** (Already Complete)
 
-**Then**: [Lesson 5: Market Research & Validation →](./lesson-5-market-research.md)
+**Then**: [Lesson 5: Market Research & Validation ](./lesson-5-market-research.md)
 
 ---
 
@@ -409,15 +409,16 @@ Understanding the economics of faceless video content is crucial for building a 
 
 - [Top Paying Niches Guide](../../../guides/niches/top-paying-niches.md) - CPM rates by niche
 - [Revenue Streams Guide](../../../guides/monetization/revenue-streams.md) - Multiple income sources
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start your profitable business
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start your profitable business
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-5-market-research.md)
+**Ready to continue?** [Next Lesson ](./lesson-5-market-research.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start building your profitable business today!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and start building your profitable business today!*
+
 
 
 

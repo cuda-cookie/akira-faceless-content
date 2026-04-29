@@ -1,6 +1,6 @@
 # Module 6: Growth & Scaling Strategies
 
-**Duration**: 2 hours  
+**Duration**: 2 hours 
 **Goal**: Scale your content and audience systematically
 
 ---
@@ -41,17 +41,18 @@ By the end of this module, you will have:
 
 - [Growth Strategies Guide](../../../guides/strategies/growth-strategies.md)
 - [Multi-Platform Strategy](../../../guides/strategies/multi-platform.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56)
 
 ---
 
 ## Next Module
 
-**[Module 7: Advanced Strategies →](./../module-7/)**
+**[Module 7: Advanced Strategies ](./../module-7/)**
 
 ---
 
-**Ready to scale your growth?** [Begin Lesson 1 →](./lesson-1-consistency.md)
+**Ready to scale your growth?** [Begin Lesson 1 ](./lesson-1-consistency.md)
+
 
 
 

@@ -18,7 +18,7 @@ Complete workflow for creating long-form ambient videos that generate massive wa
 
 ## The U-Log Workflow
 
-### Step 1: Create Base Video with [Syllaby.io](https://syllaby.io/?via=chris56)
+### Step 1: Create Base Video with [Syllaby.io](https://Syllaby.io/?via=chris56)
 
 **Script Example**:
 - "Sitting around a fireplace in a house"
@@ -85,7 +85,7 @@ Complete workflow for creating long-form ambient videos that generate massive wa
 
 ## Alternative: Text to Scene Method
 
-### Using [Syllaby.io Text to Scene](https://syllaby.io/?via=chris56)
+### Using [Syllaby.io Text to Scene](https://Syllaby.io/?via=chris56)
 
 **For More Realistic Videos**:
 
@@ -95,7 +95,7 @@ Complete workflow for creating long-form ambient videos that generate massive wa
 - Copy prompt
 
 **Step 2: Use Text to Scene**:
-1. Go to Text to Scene in [Syllaby.io](https://syllaby.io/?via=chris56)
+1. Go to Text to Scene in [Syllaby.io](https://Syllaby.io/?via=chris56)
 2. Paste prompt
 3. Generate video
 4. Download
@@ -180,7 +180,7 @@ Complete workflow for creating long-form ambient videos that generate massive wa
 
 **Create your first U-log video**:
 
-- [ ] Create base video with [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Create base video with [Syllaby.io](https://Syllaby.io/?via=chris56)
 - [ ] Download video
 - [ ] Create music loops with Suno
 - [ ] Import to CapCut
@@ -196,7 +196,7 @@ Complete workflow for creating long-form ambient videos that generate massive wa
 ## Key Takeaways
 
 1. **U-log videos** = massive watch time, minimal effort
-2. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = create base easily
+2. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = create base easily
 3. **CapCut + Suno** = free tools to extend
 4. **Works in any niche** = adapt theme
 5. **Create at least one** = fast path to 4,000 hours
@@ -207,12 +207,13 @@ Complete workflow for creating long-form ambient videos that generate massive wa
 ## Resources
 
 - [Watch Time Optimization Guide](../../course/module-4/lesson-3-watch-time.md) - Complete strategy
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create base videos
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create base videos
 - [Getting Monetized Fast Guide](../monetization/getting-monetized-fast.md) - Monetization
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create U-log videos for massive watch time!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create U-log videos for massive watch time!*
+
 
 
 

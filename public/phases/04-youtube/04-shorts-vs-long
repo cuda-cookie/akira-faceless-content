@@ -1,6 +1,6 @@
 # Lesson 4: Shorts vs. Long-Form Strategy
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Understand when to use shorts vs. long-form for maximum results
 
 ---
@@ -308,7 +308,7 @@
 - High engagement
 - Drive to YouTube
 
-**Result**: TikTok growth → YouTube subscribers
+**Result**: TikTok growth YouTube subscribers
 
 ---
 
@@ -322,7 +322,7 @@
 - Story-driven
 - Drive to YouTube
 
-**Result**: Instagram growth → YouTube subscribers
+**Result**: Instagram growth YouTube subscribers
 
 ---
 
@@ -355,8 +355,8 @@
 ### 3. Repurpose Content
 
 **Strategy**:
-- Long-form → Shorts
-- Shorts → Long-form
+- Long-form Shorts
+- Shorts Long-form
 - Maximum ROI
 - More content
 
@@ -380,7 +380,7 @@
 
 **Implement both strategies**:
 
-- [ ] Create 5 Shorts using [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Create 5 Shorts using [Syllaby.io](https://Syllaby.io/?via=chris56)
 - [ ] Create 2 long-form videos
 - [ ] Set up cross-promotion
 - [ ] Create playlist for series
@@ -406,23 +406,24 @@
 
 ## Next Lesson
 
-**[Lesson 5: Multi-Channel Approach →](./lesson-5-multi-channel.md)**
+**[Lesson 5: Multi-Channel Approach ](./lesson-5-multi-channel.md)**
 
 ---
 
 ## Resources
 
 - [Content Repurposing Guide](../../../guides/workflows/content-repurposing.md) - Repurpose content
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create both formats
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create both formats
 - [Multi-Platform Strategy](../../../guides/strategies/multi-platform.md) - Cross-platform
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-5-multi-channel.md)
+**Ready to continue?** [Next Lesson ](./lesson-5-multi-channel.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create both Shorts and long-form content!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create both Shorts and long-form content!*
+
 
 
 

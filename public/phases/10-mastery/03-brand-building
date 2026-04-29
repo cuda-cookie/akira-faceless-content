@@ -1,6 +1,6 @@
 # Lesson 3: Brand Building
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Build recognizable, trusted brand
 
 ---
@@ -15,7 +15,7 @@
 - Voice
 - Character (if using)
 
-**Using [Syllaby.io Character Consistency](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io Character Consistency](https://Syllaby.io/?via=chris56)**:
 - Same character across videos
 - Build recognition
 - Professional appearance
@@ -52,7 +52,7 @@
 1. **Consistent branding** = recognition
 2. **Clear value proposition** = differentiation
 3. **Quality content** = trust
-4. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = consistent quality
+4. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = consistent quality
 
 ---
 
@@ -77,11 +77,12 @@
 
 ## Next Lesson
 
-**[Lesson 4: Long-Term Strategy →](./lesson-4-long-term.md)**
+**[Lesson 4: Long-Term Strategy ](./lesson-4-long-term.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to build your brand!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to build your brand!*
+
 
 
 

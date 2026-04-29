@@ -1,6 +1,6 @@
 # Lesson 4: Automation & Systems
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Automate everything possible for scalable growth
 
 ---
@@ -9,7 +9,7 @@
 
 ### 1. Content Creation
 
-**Using [Syllaby.io Bulk Scheduler](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io Bulk Scheduler](https://Syllaby.io/?via=chris56)**:
 - Plan month of content
 - Create all videos
 - Schedule automatically
@@ -21,7 +21,7 @@
 
 ### 2. Publishing
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**:
 - Auto-publish to all platforms
 - Scheduled posting
 - Multi-platform
@@ -36,7 +36,7 @@
 **Tools**:
 - Buffer
 - Hootsuite
-- [Syllaby.io](https://syllaby.io/?via=chris56) (integrated)
+- [Syllaby.io](https://Syllaby.io/?via=chris56) (integrated)
 
 **Result**: Consistent posting, no daily work
 
@@ -83,7 +83,7 @@
 ## Pro Tips
 
 1. **Automate everything possible** = time back
-2. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = built-in automation
+2. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = built-in automation
 3. **Document systems** = easy to maintain
 4. **Review regularly** = optimize automation
 
@@ -111,11 +111,12 @@
 
 ## Next Lesson
 
-**[Lesson 5: Scaling to $5,000+/Month →](./lesson-5-scaling.md)**
+**[Lesson 5: Scaling to $5,000+/Month ](./lesson-5-scaling.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) for built-in automation!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) for built-in automation!*
+
 
 
 

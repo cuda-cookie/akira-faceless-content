@@ -1,6 +1,6 @@
 # Lesson 2: TikTok Domination
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Dominate TikTok for fast growth
 
 ---
@@ -31,7 +31,7 @@
 - [ ] 3-5 videos/day
 - [ ] Optimal times (6-10 AM, 7-9 PM)
 - [ ] Consistent schedule
-- [ ] Cross-post from [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Cross-post from [Syllaby.io](https://Syllaby.io/?via=chris56)
 
 ---
 
@@ -65,11 +65,12 @@
 
 ## Next Lesson
 
-**[Lesson 3: Instagram Reels Mastery →](./lesson-3-instagram.md)**
+**[Lesson 3: Instagram Reels Mastery ](./lesson-3-instagram.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to dominate TikTok!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to dominate TikTok!*
+
 
 
 

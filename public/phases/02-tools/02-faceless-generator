@@ -1,6 +1,6 @@
 # Lesson 2: Faceless Video Generator - Complete Mastery
 
-**Duration**: 45 minutes  
+**Duration**: 45 minutes 
 **Goal**: Master the most important feature in Syllaby.io
 
 ---
@@ -23,7 +23,7 @@ The Faceless Video Generator is **Syllaby.io's most powerful feature**. It's wha
 
 **Three Ways to Access**:
 
-1. **Dashboard**: Click "Create Video" → "Faceless Video"
+1. **Dashboard**: Click "Create Video" "Faceless Video"
 2. **Left Sidebar**: Click "Faceless Video Generator"
 3. **Quick Create**: Top navigation "Create Video" button
 
@@ -35,7 +35,7 @@ The Faceless Video Generator is **Syllaby.io's most powerful feature**. It's wha
 
 You have **4 powerful options**:
 
-#### Option 1: AI Visuals (Most Popular) ⭐⭐⭐⭐⭐
+#### Option 1: AI Visuals (Most Popular) 
 
 **What It Does**:
 - AI generates custom images based on your script
@@ -116,35 +116,35 @@ You have **4 powerful options**:
 **Configure Publishing**:
 
 1. **Video Title**: 
-   - SEO-optimized
-   - Include keywords
-   - Make it compelling
+ - SEO-optimized
+ - Include keywords
+ - Make it compelling
 
 2. **Description**:
-   - Auto-generate (recommended) ✓
-   - Or write custom
-   - Include CTAs
+ - Auto-generate (recommended) 
+ - Or write custom
+ - Include CTAs
 
 3. **Tags**:
-   - Auto-generate (recommended) ✓
-   - Or add custom tags
-   - Relevant keywords
+ - Auto-generate (recommended) 
+ - Or add custom tags
+ - Relevant keywords
 
 4. **Hashtags**:
-   - Platform-specific
-   - Trending hashtags
-   - Niche-relevant
+ - Platform-specific
+ - Trending hashtags
+ - Niche-relevant
 
 5. **CTAs**:
-   - Add affiliate links
-   - Product links
-   - Course links
-   - Any promotion
+ - Add affiliate links
+ - Product links
+ - Course links
+ - Any promotion
 
 6. **Publishing Options**:
-   - **Publish Now**: Immediate
-   - **Schedule for Later**: Use calendar
-   - **Bulk Schedule**: Multiple videos
+ - **Publish Now**: Immediate
+ - **Schedule for Later**: Use calendar
+ - **Bulk Schedule**: Multiple videos
 
 **Pro Tip**: Always enable "Auto-generate AI description and tags" for better SEO.
 
@@ -200,7 +200,7 @@ You have **4 powerful options**:
 
 ---
 
-#### Option 2: AI Script Assistant (Recommended) ⭐⭐⭐⭐⭐
+#### Option 2: AI Script Assistant (Recommended) 
 
 **When to Use**:
 - 90% of your videos
@@ -385,23 +385,24 @@ You have **4 powerful options**:
 
 ## Next Lesson
 
-**[Lesson 3: AI Script Generation - Proven Formulas →](./lesson-3-ai-scripts.md)**
+**[Lesson 3: AI Script Generation - Proven Formulas ](./lesson-3-ai-scripts.md)**
 
 ---
 
 ## Resources
 
 - [Faceless Video Generator Guide](../../../guides/features/faceless-video-generator.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start creating
 - [Video Editing Guide](./lesson-4-editing.md) - Next step
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-3-ai-scripts.md)
+**Ready to continue?** [Next Lesson ](./lesson-3-ai-scripts.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start mastering the Faceless Video Generator today!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and start mastering the Faceless Video Generator today!*
+
 
 
 

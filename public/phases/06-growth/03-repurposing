@@ -1,6 +1,6 @@
 # Lesson 3: Content Repurposing for Maximum ROI
 
-**Duration**: 20 minutes  
+**Duration**: 20 minutes 
 **Goal**: Turn one piece of content into 6-11 pieces across platforms
 
 ---
@@ -25,7 +25,7 @@
 
 ### Step 1: Create Long-Form
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**:
 - Create 10-20 minute video
 - Comprehensive content
 - All key points covered
@@ -40,7 +40,7 @@
 **How**:
 - Identify 5-10 key moments
 - Each = 15-60 second Short
-- Create using [Syllaby.io](https://syllaby.io/?via=chris56)
+- Create using [Syllaby.io](https://Syllaby.io/?via=chris56)
 - Link to long-form
 
 **Result**: 5-10 Shorts from one video.
@@ -72,7 +72,7 @@
 
 ---
 
-### 2. Use [Syllaby.io](https://syllaby.io/?via=chris56) for All
+### 2. Use [Syllaby.io](https://Syllaby.io/?via=chris56) for All
 
 **Benefits**:
 - Create all formats
@@ -116,30 +116,31 @@
 1. **Repurposing** = 6-11x ROI
 2. **One long-form** = multiple Shorts
 3. **Platform optimization** = better performance
-4. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = easy repurposing
+4. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = easy repurposing
 5. **Track performance** = optimize strategy
 
 ---
 
 ## Next Lesson
 
-**[Lesson 4: Community Building & Engagement →](./lesson-4-community.md)**
+**[Lesson 4: Community Building & Engagement ](./lesson-4-community.md)**
 
 ---
 
 ## Resources
 
 - [Content Repurposing Guide](../../../guides/workflows/content-repurposing.md) - Complete system
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Repurpose content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Repurpose content
 - [Multi-Platform Strategy](../../../guides/strategies/multi-platform.md) - Cross-platform
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-4-community.md)
+**Ready to continue?** [Next Lesson ](./lesson-4-community.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to repurpose content effortlessly!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to repurpose content effortlessly!*
+
 
 
 

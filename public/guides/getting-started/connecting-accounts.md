@@ -12,12 +12,12 @@ Connect all your social media accounts to enable automatic cross-posting.
 
 ## Supported Platforms
 
-- ✅ **YouTube**
-- ✅ **TikTok**
-- ✅ **Instagram**
-- ✅ **Facebook**
-- ✅ **Threads** (optional)
-- ✅ **LinkedIn** (optional)
+- **YouTube**
+- **TikTok**
+- **Instagram**
+- **Facebook**
+- **Threads** (optional)
+- **LinkedIn** (optional)
 
 ## How to Connect Accounts
 
@@ -34,9 +34,9 @@ For each platform:
 2. You'll be redirected to platform login
 3. Authorize Syllaby to access your account
 4. Grant necessary permissions:
-   - **Post videos**
-   - **Manage content**
-   - **View analytics** (optional)
+ - **Post videos**
+ - **Manage content**
+ - **View analytics** (optional)
 
 ### Step 3: Verify Connection
 
@@ -131,20 +131,20 @@ For each platform:
 
 ### Connection Issues
 
-**Problem**: Can't connect account  
+**Problem**: Can't connect account 
 **Solution**: 
 - Clear browser cache
 - Try different browser
 - Check platform permissions
 - Contact support if persists
 
-**Problem**: Connection expired  
+**Problem**: Connection expired 
 **Solution**:
 - Reconnect account
 - Re-authorize permissions
 - Usually automatic
 
-**Problem**: Videos not posting  
+**Problem**: Videos not posting 
 **Solution**:
 - Check account connection status
 - Verify permissions granted
@@ -168,7 +168,8 @@ Now that your accounts are connected:
 
 ---
 
-**Ready to post everywhere?** [Create your first multi-platform video →](./your-first-video.md)
+**Ready to post everywhere?** [Create your first multi-platform video ](./your-first-video.md)
+
 
 
 

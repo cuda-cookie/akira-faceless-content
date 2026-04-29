@@ -169,19 +169,19 @@ The Bulk Scheduler helps you batch create and schedule videos in advance, mainta
 
 ## Common Questions
 
-**Q: How many videos should I create?**  
+**Q: How many videos should I create?** 
 A: 30-60 videos for a month (1-2 per day)
 
-**Q: How long does it take?**  
+**Q: How long does it take?** 
 A: 2 hours for 60 videos (setup + generation)
 
-**Q: Can I edit after bulk creation?**  
+**Q: Can I edit after bulk creation?** 
 A: Yes! Edit individual videos as needed
 
-**Q: What if I need to change schedule?**  
+**Q: What if I need to change schedule?** 
 A: Use Bulk Scheduler Tracker to adjust
 
-**Q: Can I mix different styles?**  
+**Q: Can I mix different styles?** 
 A: Bulk scheduler uses one style, but you can create separate batches
 
 ## Next Steps
@@ -192,7 +192,8 @@ A: Bulk scheduler uses one style, but you can create separate batches
 
 ---
 
-**Ready to plan your month?** Start with [Monthly Workflow →](../workflows/monthly-workflow.md)
+**Ready to plan your month?** Start with [Monthly Workflow ](../workflows/monthly-workflow.md)
+
 
 
 

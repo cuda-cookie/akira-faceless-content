@@ -40,7 +40,7 @@ Proven strategies from top creators to build successful faceless video channels.
 
 **How to Implement**:
 - Post to all platforms
-- Use [Syllaby.io](https://syllaby.io/?via=chris56) for all
+- Use [Syllaby.io](https://Syllaby.io/?via=chris56) for all
 - Cross-promote
 - Platform-specific optimization
 
@@ -68,7 +68,7 @@ Proven strategies from top creators to build successful faceless video channels.
 
 **How**: 10 videos/day vs. 1/day
 
-**Using [Syllaby.io Bulk Scheduler](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io Bulk Scheduler](https://Syllaby.io/?via=chris56)**:
 - Create 300 videos/month
 - Automatic publishing
 - 10x content = 5-10x revenue
@@ -79,7 +79,7 @@ Proven strategies from top creators to build successful faceless video channels.
 
 **How**: Keyword research, optimized titles
 
-**Using [Idea Discovery](https://syllaby.io/?via=chris56)**:
+**Using [Idea Discovery](https://Syllaby.io/?via=chris56)**:
 - Research high-volume keywords
 - Create SEO-optimized content
 - Long-term traffic
@@ -114,11 +114,12 @@ Proven strategies from top creators to build successful faceless video channels.
 - [Content Strategies Guide](./content-strategies.md) - Content planning
 - [Growth Strategies Guide](./growth-strategies.md) - Growth tactics
 - [Multi-Platform Strategy Guide](./multi-platform.md) - Cross-platform
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Implement strategies
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Implement strategies
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to implement success strategies!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to implement success strategies!*
+
 
 
 

@@ -1,6 +1,6 @@
 # Lesson 6: Advanced Tips & Hacks
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Learn advanced strategies for power users
 
 ---
@@ -15,7 +15,7 @@
 - Maximum watch time
 - Works in any niche
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**:
 - Create base video
 - Loop in CapCut
 - Add music
@@ -31,7 +31,7 @@
 - Use same character across videos
 - Build brand recognition
 - Professional appearance
-- Unique to [Syllaby.io](https://syllaby.io/?via=chris56)
+- Unique to [Syllaby.io](https://Syllaby.io/?via=chris56)
 
 **Result**: 3-5x brand recognition
 
@@ -77,16 +77,17 @@
 
 ---
 
-## Module 9 Complete! 🎉
+## Module 9 Complete! 
 
 **Congratulations!** You've completed Module 9: Troubleshooting & Optimization.
 
 **You're Ready For**:
-- **[Module 10: Building Your Business →](./../module-10/)**
+- **[Module 10: Building Your Business ](./../module-10/)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to use advanced features!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to use advanced features!*
+
 
 
 

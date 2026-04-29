@@ -1,6 +1,6 @@
 # Lesson 5: Exit Strategies
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Understand options for exiting your business
 
 ---
@@ -86,11 +86,12 @@
 
 ## Next Lesson
 
-**[Lesson 6: Next Steps & Continued Growth →](./lesson-6-next-steps.md)**
+**[Lesson 6: Next Steps & Continued Growth ](./lesson-6-next-steps.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to build valuable business!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to build valuable business!*
+
 
 
 

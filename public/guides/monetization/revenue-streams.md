@@ -139,11 +139,12 @@ Complete breakdown of all revenue streams available to faceless video creators.
 
 - [Complete Monetization Guide](./complete-guide.md) - Full guide
 - [Affiliate Marketing Strategy](./affiliate-marketing.md) - Detailed strategy
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create monetizable content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create monetizable content
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to build multiple revenue streams!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to build multiple revenue streams!*
+
 
 
 

@@ -1,6 +1,6 @@
 # Lesson 2: Legal & Tax Considerations
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Understand legal and tax requirements
 
 ---
@@ -59,7 +59,7 @@
 ### 2. Track Expenses
 
 **What to Track**:
-- [Syllaby.io](https://syllaby.io/?via=chris56) subscription
+- [Syllaby.io](https://Syllaby.io/?via=chris56) subscription
 - Equipment
 - Software
 - Team costs
@@ -107,11 +107,12 @@
 
 ## Next Lesson
 
-**[Lesson 3: Brand Building →](./lesson-3-brand-building.md)**
+**[Lesson 3: Brand Building ](./lesson-3-brand-building.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to build your business legally!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to build your business legally!*
+
 
 
 

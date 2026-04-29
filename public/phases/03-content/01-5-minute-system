@@ -1,13 +1,13 @@
 # Lesson 1: The 5-Minute Video Creation System
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Create professional videos in exactly 5 minutes
 
 ---
 
 ## The System Overview
 
-This is the **exact system** successful creators use to create professional videos in 5 minutes. It's not magic—it's a proven process.
+This is the **exact system** successful creators use to create professional videos in 5 minutes. It's not magicit's a proven process.
 
 **What You'll Achieve**:
 - Professional videos in 5 minutes
@@ -24,7 +24,7 @@ This is the **exact system** successful creators use to create professional vide
 **Step 1: Choose Your Topic** (20 seconds)
 
 **Option A: Use Suggested Topics**
-- Check [Syllaby.io](https://syllaby.io/?via=chris56) dashboard
+- Check [Syllaby.io](https://Syllaby.io/?via=chris56) dashboard
 - Click suggested topic
 - Start creating immediately
 
@@ -58,7 +58,7 @@ This is the **exact system** successful creators use to create professional vide
 
 **Step 2: Set Publishing** (20 seconds)
 - Select all platforms (or specific ones)
-- Enable "Auto-generate description and tags" ✓
+- Enable "Auto-generate description and tags" 
 - Add CTA link (if promoting)
 - Choose "Publish Now" or "Schedule"
 
@@ -122,14 +122,14 @@ This is the **exact system** successful creators use to create professional vide
 ## The Complete Workflow
 
 ```
-Minute 1: Topic → Script
-Minute 2: Settings → Publishing
+Minute 1: Topic Script
+Minute 2: Settings Publishing
 Minute 3: Advanced (Optional)
-Minute 4: Generate → Review
-Minute 5: Post → Plan Next
+Minute 4: Generate Review
+Minute 5: Post Plan Next
 ```
 
-**Total Time**: 5 minutes  
+**Total Time**: 5 minutes 
 **Result**: Professional video ready to publish
 
 ---
@@ -198,7 +198,7 @@ Minute 5: Post → Plan Next
 
 ## Common Time Wasters
 
-### ❌ Don't Do This
+### Don't Do This
 
 1. **Overthinking Topics**: Just pick one and go
 2. **Editing Scripts Endlessly**: AI scripts are good enough
@@ -206,7 +206,7 @@ Minute 5: Post → Plan Next
 4. **Waiting for Inspiration**: System beats motivation
 5. **Perfectionism**: Done is better than perfect
 
-### ✅ Do This Instead
+### Do This Instead
 
 1. **Quick Topic Selection**: Use suggested or Idea Discovery
 2. **Trust AI Scripts**: They're trained on proven formulas
@@ -308,23 +308,24 @@ Minute 5: Post → Plan Next
 
 ## Next Lesson
 
-**[Lesson 2: Script Writing That Converts →](./lesson-2-script-writing.md)**
+**[Lesson 2: Script Writing That Converts ](./lesson-2-script-writing.md)**
 
 ---
 
 ## Resources
 
 - [Daily Workflow Guide](../../../guides/workflows/daily-workflow.md) - Complete workflow
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start creating
 - [Bulk Scheduler Guide](../../../guides/features/bulk-scheduler.md) - Scale your content
 
 ---
 
-**Ready to create in 5 minutes?** [Next Lesson →](./lesson-2-script-writing.md)
+**Ready to create in 5 minutes?** [Next Lesson ](./lesson-2-script-writing.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start using the 5-minute system today!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and start using the 5-minute system today!*
+
 
 
 

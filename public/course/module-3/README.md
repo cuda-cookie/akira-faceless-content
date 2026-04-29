@@ -1,6 +1,6 @@
 # Module 3: Content Creation Mastery
 
-**Duration**: 2.5 hours  
+**Duration**: 2.5 hours 
 **Goal**: Create professional videos in 5 minutes consistently
 
 ---
@@ -40,17 +40,18 @@ By the end of this module, you will have:
 
 - [Daily Workflow Guide](../../../guides/workflows/daily-workflow.md)
 - [Content Repurposing Guide](../../../guides/workflows/content-repurposing.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56)
 
 ---
 
 ## Next Module
 
-**[Module 4: Getting Monetized Fast →](./../module-4/)**
+**[Module 4: Getting Monetized Fast ](./../module-4/)**
 
 ---
 
-**Ready to master content creation?** [Begin Lesson 1 →](./lesson-1-5-minute-system.md)
+**Ready to master content creation?** [Begin Lesson 1 ](./lesson-1-5-minute-system.md)
+
 
 
 

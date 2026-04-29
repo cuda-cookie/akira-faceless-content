@@ -1,6 +1,6 @@
 # Lesson 4: Titles That Rank & Convert
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Write titles that rank in search and get clicks
 
 ---
@@ -45,10 +45,10 @@
 - Don't keyword stuff
 
 **Example**:
-- ✅ "How to Create Faceless Videos with AI"
-- ❌ "Faceless Videos AI Create How To Tutorial Guide"
+- "How to Create Faceless Videos with AI"
+- "Faceless Videos AI Create How To Tutorial Guide"
 
-**Pro Tip**: Use [Idea Discovery](https://syllaby.io/?via=chris56) to find high-volume keywords.
+**Pro Tip**: Use [Idea Discovery](https://Syllaby.io/?via=chris56) to find high-volume keywords.
 
 ---
 
@@ -187,7 +187,7 @@
 ### Keyword Research
 
 **How to Research**:
-1. Use [Syllaby.io Idea Discovery](https://syllaby.io/?via=chris56)
+1. Use [Syllaby.io Idea Discovery](https://Syllaby.io/?via=chris56)
 2. Check search volume
 3. Analyze competition
 4. Find long-tail keywords
@@ -318,7 +318,7 @@
 **Master title writing**:
 
 - [ ] Write 10 titles using different formulas
-- [ ] Research keywords using [Idea Discovery](https://syllaby.io/?via=chris56)
+- [ ] Research keywords using [Idea Discovery](https://Syllaby.io/?via=chris56)
 - [ ] Create title templates
 - [ ] Test 3 titles per video (A/B testing)
 - [ ] Study top performers in your niche
@@ -343,25 +343,26 @@
 
 ## Next Lesson
 
-**[Lesson 5: Content Repurposing System →](./lesson-5-repurposing.md)** (Already Complete)
+**[Lesson 5: Content Repurposing System ](./lesson-5-repurposing.md)** (Already Complete)
 
-**Then**: [Lesson 6: Content Calendar & Planning →](./lesson-6-content-calendar.md)
+**Then**: [Lesson 6: Content Calendar & Planning ](./lesson-6-content-calendar.md)
 
 ---
 
 ## Resources
 
 - [Idea Discovery Guide](../../../guides/features/idea-discovery.md) - Keyword research
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Research keywords
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Research keywords
 - [Best Practices Guide](../../../guides/resources/best-practices.md) - More tips
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-6-content-calendar.md)
+**Ready to continue?** [Next Lesson ](./lesson-6-content-calendar.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and use Idea Discovery to find high-volume keywords for your titles!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and use Idea Discovery to find high-volume keywords for your titles!*
+
 
 
 

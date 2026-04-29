@@ -1,6 +1,6 @@
 # Lesson 3: Instagram Reels Mastery
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Master Instagram Reels for engagement and growth
 
 ---
@@ -31,7 +31,7 @@
 - [ ] 1-2 Reels/day
 - [ ] Optimal times (11 AM-1 PM, 7-9 PM)
 - [ ] Consistent schedule
-- [ ] Use [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Use [Syllaby.io](https://Syllaby.io/?via=chris56)
 
 ---
 
@@ -65,11 +65,12 @@
 
 ## Next Lesson
 
-**[Lesson 4: Facebook Video Strategy →](./lesson-4-facebook.md)**
+**[Lesson 4: Facebook Video Strategy ](./lesson-4-facebook.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to master Instagram!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to master Instagram!*
+
 
 
 

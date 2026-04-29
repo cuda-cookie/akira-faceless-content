@@ -22,7 +22,7 @@ Yes! All videos you create are yours to download and use for any purpose, includ
 ## Account & Setup
 
 ### How do I create an account?
-Visit [Syllaby.io](https://syllaby.io/?via=chris56) and click "Sign Up" or "Start Free Trial". No credit card required for the trial.
+Visit [Syllaby.io](https://Syllaby.io/?via=chris56) and click "Sign Up" or "Start Free Trial". No credit card required for the trial.
 
 ### Can I manage multiple channels?
 Yes! One Gmail account can manage 20+ channels. Some users manage 700+ channels under one account.
@@ -231,11 +231,11 @@ The best niche is one you're interested in and can create content consistently. 
 - Use Syllaby analytics
 - Check platform analytics
 - Monitor key metrics:
-  - Views
-  - Watch time
-  - Retention
-  - Engagement
-  - Revenue
+ - Views
+ - Watch time
+ - Retention
+ - Engagement
+ - Revenue
 
 ---
 
@@ -249,6 +249,7 @@ The best niche is one you're interested in and can create content consistently. 
 ---
 
 **Need more help?** Check the [Troubleshooting Guide](./troubleshooting.md)
+
 
 
 

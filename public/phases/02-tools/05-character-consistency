@@ -1,6 +1,6 @@
 # Lesson 5: Character Consistency for Brand Building
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Build brand recognition through consistent characters
 
 ---
@@ -34,7 +34,7 @@
 - Branded appearance
 
 **Why It's Unique**:
-- Only available on [Syllaby.io](https://syllaby.io/?via=chris56)
+- Only available on [Syllaby.io](https://Syllaby.io/?via=chris56)
 - Other tools can't do this
 - True character consistency
 - Professional quality
@@ -322,27 +322,28 @@
 
 ## Next Lesson
 
-**[Lesson 6: Bulk Scheduler →](./lesson-6-bulk-scheduler.md)** (Already Complete)
+**[Lesson 6: Bulk Scheduler ](./lesson-6-bulk-scheduler.md)** (Already Complete)
 
-**Then**: [Lesson 7: Idea Discovery →](./lesson-7-idea-discovery.md) (Already Complete)
+**Then**: [Lesson 7: Idea Discovery ](./lesson-7-idea-discovery.md) (Already Complete)
 
-**Then**: [Lesson 8: Advanced Features →](./lesson-8-advanced-features.md)
+**Then**: [Lesson 8: Advanced Features ](./lesson-8-advanced-features.md)
 
 ---
 
 ## Resources
 
 - [Character Consistency Guide](../../../guides/features/character-consistency.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start using character consistency
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start using character consistency
 - [Brand Building Guide](../../../guides/strategies/content-strategies.md) - More strategies
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-8-advanced-features.md)
+**Ready to continue?** [Next Lesson ](./lesson-8-advanced-features.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start building your brand with character consistency!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and start building your brand with character consistency!*
+
 
 
 

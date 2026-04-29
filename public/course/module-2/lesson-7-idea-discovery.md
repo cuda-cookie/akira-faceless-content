@@ -1,6 +1,6 @@
 # Lesson 7: Idea Discovery - Research-Backed Content
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Never run out of content ideas using data-driven research
 
 ---
@@ -75,20 +75,20 @@ Unlike AI-generated ideas, Idea Discovery pulls from **real third-party data**:
 **What You Get** (10 high-quality results per search):
 
 1. **Content Queries**:
-   - Questions (from Google)
-   - Hashtags (from Instagram)
-   - Video titles (from YouTube)
+ - Questions (from Google)
+ - Hashtags (from Instagram)
+ - Video titles (from YouTube)
 
 2. **Data Provided**:
-   - **Search Volume**: How many people search this
-   - **Trend Direction**: Rising or falling
-   - **Cost Per Click (CPC)**: Market value
-   - **Competition Level**: How competitive
+ - **Search Volume**: How many people search this
+ - **Trend Direction**: Rising or falling
+ - **Cost Per Click (CPC)**: Market value
+ - **Competition Level**: How competitive
 
 3. **Strategic Insights**:
-   - High volume + low competition = gold
-   - Rising trends = opportunity
-   - High CPC = valuable audience
+ - High volume + low competition = gold
+ - Rising trends = opportunity
+ - High CPC = valuable audience
 
 ---
 
@@ -114,7 +114,7 @@ Unlike AI-generated ideas, Idea Discovery pulls from **real third-party data**:
 - Generate video immediately
 - No copy/paste needed
 
-**Result**: Research → Creation in seconds
+**Result**: Research Creation in seconds
 
 ---
 
@@ -205,7 +205,7 @@ Unlike AI-generated ideas, Idea Discovery pulls from **real third-party data**:
 - Build authority
 
 **Example**: 
-- "AI for business" → 10-part series
+- "AI for business" 10-part series
 - Each part from Idea Discovery
 - Comprehensive coverage
 - Better for SEO
@@ -298,23 +298,24 @@ Unlike AI-generated ideas, Idea Discovery pulls from **real third-party data**:
 
 ## Next Lesson
 
-**[Lesson 8: Advanced Features →](./lesson-8-advanced-features.md)**
+**[Lesson 8: Advanced Features ](./lesson-8-advanced-features.md)**
 
 ---
 
 ## Resources
 
 - [Idea Discovery Guide](../../../guides/features/idea-discovery.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start researching
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start researching
 - [Content Strategies Guide](../../../guides/strategies/content-strategies.md) - Content planning
 
 ---
 
-**Ready to discover winning topics?** [Next Lesson →](./lesson-8-advanced-features.md)
+**Ready to discover winning topics?** [Next Lesson ](./lesson-8-advanced-features.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start using Idea Discovery to find content that performs!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and start using Idea Discovery to find content that performs!*
+
 
 
 

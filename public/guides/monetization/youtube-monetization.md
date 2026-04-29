@@ -8,9 +8,9 @@ Complete guide to monetizing on YouTube with faceless video content.
 
 ### Standard Requirements
 
-**Subscribers**: 1,000 minimum  
-**Watch Hours**: 4,000 hours in past 12 months (OR 10M Shorts views)  
-**Community Guidelines**: Must be compliant  
+**Subscribers**: 1,000 minimum 
+**Watch Hours**: 4,000 hours in past 12 months (OR 10M Shorts views) 
+**Community Guidelines**: Must be compliant 
 **Eligible Country**: Must be in eligible location
 
 ---
@@ -97,11 +97,12 @@ Complete guide to monetizing on YouTube with faceless video content.
 
 - [Getting Monetized Fast Guide](./getting-monetized-fast.md) - 2-3 week plan
 - [Platform Requirements Guide](./platform-requirements.md) - All platforms
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create monetizable content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create monetizable content
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to get monetized fast!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to get monetized fast!*
+
 
 
 

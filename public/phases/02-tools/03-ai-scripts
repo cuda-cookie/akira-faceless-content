@@ -1,6 +1,6 @@
 # Lesson 3: AI Script Generation - Proven Formulas
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Master AI script generation for high-converting content
 
 ---
@@ -75,11 +75,11 @@
 - Use natural language
 
 **Examples**:
-- ✅ "How to create faceless videos in 5 minutes"
-- ✅ "Top 10 AI tools for content creators"
-- ✅ "How to get 1,000 subscribers in 30 days"
-- ❌ "Videos" (too broad)
-- ❌ "The ultimate complete comprehensive guide to everything about..." (too long)
+- "How to create faceless videos in 5 minutes"
+- "Top 10 AI tools for content creators"
+- "How to get 1,000 subscribers in 30 days"
+- "Videos" (too broad)
+- "The ultimate complete comprehensive guide to everything about..." (too long)
 
 ---
 
@@ -105,11 +105,11 @@
 ### Step 4: Review and Edit (Optional)
 
 **Review Checklist**:
-- ✅ Hook is strong (first 3 seconds)
-- ✅ Value is clear
-- ✅ Structure is good
-- ✅ CTA is present
-- ✅ Matches your style
+- Hook is strong (first 3 seconds)
+- Value is clear
+- Structure is good
+- CTA is present
+- Matches your style
 
 **When to Edit**:
 - Add personal touches
@@ -299,19 +299,19 @@
 
 ## Common Questions
 
-**Q: Are AI scripts as good as manual scripts?**  
+**Q: Are AI scripts as good as manual scripts?** 
 A: Often better - they're trained on proven formulas from successful creators.
 
-**Q: Should I edit AI scripts?**  
+**Q: Should I edit AI scripts?** 
 A: Only if necessary. Trust the AI - it's trained on what works.
 
-**Q: Can I use AI scripts for all videos?**  
+**Q: Can I use AI scripts for all videos?** 
 A: Yes! 90% of creators use AI scripts for most videos.
 
-**Q: How long are AI scripts?**  
+**Q: How long are AI scripts?** 
 A: Automatically matches your video length setting.
 
-**Q: Can AI add affiliate links?**  
+**Q: Can AI add affiliate links?** 
 A: Yes, if you add them in the CTA section, AI will include them.
 
 ---
@@ -346,23 +346,24 @@ A: Yes, if you add them in the CTA section, AI will include them.
 
 ## Next Lesson
 
-**[Lesson 4: Video Editing & Customization →](./lesson-4-editing.md)**
+**[Lesson 4: Video Editing & Customization ](./lesson-4-editing.md)**
 
 ---
 
 ## Resources
 
 - [Faceless Video Generator Guide](./lesson-2-faceless-generator.md) - Complete workflow
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start generating scripts
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start generating scripts
 - [Script Writing Guide](../../../guides/resources/best-practices.md) - More tips
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-4-editing.md)
+**Ready to continue?** [Next Lesson ](./lesson-4-editing.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start using AI Script Assistant to save hours!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and start using AI Script Assistant to save hours!*
+
 
 
 

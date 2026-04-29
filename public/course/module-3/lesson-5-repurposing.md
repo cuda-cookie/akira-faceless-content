@@ -1,6 +1,6 @@
 # Lesson 5: Content Repurposing System (1 Video = 6-11 Pieces)
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Maximize ROI by turning one video into multiple pieces of content
 
 ---
@@ -40,7 +40,7 @@
 - 15-20 minute YouTube video
 - Comprehensive topic coverage
 - High-value content
-- Use [Syllaby.io](https://syllaby.io/?via=chris56) to create
+- Use [Syllaby.io](https://Syllaby.io/?via=chris56) to create
 
 **Why Long-Form First**:
 - More content to extract
@@ -90,7 +90,7 @@
 
 **How to Create**:
 1. Use same script segment
-2. Create in [Syllaby.io](https://syllaby.io/?via=chris56)
+2. Create in [Syllaby.io](https://Syllaby.io/?via=chris56)
 3. Portrait format
 4. Under 60 seconds
 5. Platform-specific optimization
@@ -148,7 +148,7 @@
 - High production value
 - Post to YouTube
 
-**Time**: 5 minutes (using [Syllaby.io](https://syllaby.io/?via=chris56))
+**Time**: 5 minutes (using [Syllaby.io](https://Syllaby.io/?via=chris56))
 
 ---
 
@@ -267,7 +267,7 @@
 ### 5. Automate When Possible
 
 **Use Tools**:
-- [Syllaby.io](https://syllaby.io/?via=chris56) for video creation
+- [Syllaby.io](https://Syllaby.io/?via=chris56) for video creation
 - Bulk scheduler for posting
 - Templates for consistency
 - Systems for efficiency
@@ -348,23 +348,24 @@
 
 ## Next Lesson
 
-**[Lesson 6: Content Calendar & Planning →](./lesson-6-content-calendar.md)**
+**[Lesson 6: Content Calendar & Planning ](./lesson-6-content-calendar.md)**
 
 ---
 
 ## Resources
 
 - [Content Repurposing Guide](../../../guides/workflows/content-repurposing.md) - Detailed workflow
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create and repurpose content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create and repurpose content
 - [Multi-Platform Strategy](../../../guides/strategies/multi-platform.md) - Cross-platform promotion
 
 ---
 
-**Ready to maximize your content ROI?** [Next Lesson →](./lesson-6-content-calendar.md)
+**Ready to maximize your content ROI?** [Next Lesson ](./lesson-6-content-calendar.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create the long-form content that becomes your content goldmine!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create the long-form content that becomes your content goldmine!*
+
 
 
 

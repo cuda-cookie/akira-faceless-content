@@ -1,6 +1,6 @@
 # Lesson 1: Multi-Channel Management (3-5 Channels)
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Manage 3-5 channels efficiently for maximum growth
 
 ---
@@ -59,7 +59,7 @@
 
 ## Managing Multiple Channels
 
-### Using [Syllaby.io](https://syllaby.io/?via=chris56)
+### Using [Syllaby.io](https://Syllaby.io/?via=chris56)
 
 **Workflow**:
 1. Create content for all channels
@@ -127,7 +127,7 @@
 
 ### 2. Use Same Tools
 
-**Strategy**: [Syllaby.io](https://syllaby.io/?via=chris56) for all
+**Strategy**: [Syllaby.io](https://Syllaby.io/?via=chris56) for all
 
 **Why**: Efficient, consistent quality
 
@@ -161,7 +161,7 @@
 
 1. **Multi-channel** = faster monetization
 2. **3-5 channels** = optimal number
-3. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = easy management
+3. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = easy management
 4. **Cross-promote** = grow all channels
 5. **Track performance** = optimize individually
 
@@ -169,23 +169,24 @@
 
 ## Next Lesson
 
-**[Lesson 2: Niche Expansion Strategies →](./lesson-2-niche-expansion.md)**
+**[Lesson 2: Niche Expansion Strategies ](./lesson-2-niche-expansion.md)**
 
 ---
 
 ## Resources
 
 - [Multi-Channel Guide](../../../guides/workflows/multi-channel.md) - Complete guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Manage all channels
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Manage all channels
 - [Cross-Platform Strategy](../../../guides/strategies/multi-platform.md) - More strategies
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-2-niche-expansion.md)
+**Ready to continue?** [Next Lesson ](./lesson-2-niche-expansion.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to manage multiple channels efficiently!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to manage multiple channels efficiently!*
+
 
 
 

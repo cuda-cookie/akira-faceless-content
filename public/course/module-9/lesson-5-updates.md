@@ -1,6 +1,6 @@
 # Lesson 5: Staying Current with Updates
 
-**Duration**: 20 minutes  
+**Duration**: 20 minutes 
 **Goal**: Stay updated with platform and tool changes
 
 ---
@@ -72,11 +72,12 @@
 
 ## Next Lesson
 
-**[Lesson 6: Advanced Tips & Hacks →](./lesson-6-advanced-tips.md)**
+**[Lesson 6: Advanced Tips & Hacks ](./lesson-6-advanced-tips.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and stay current with updates!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and stay current with updates!*
+
 
 
 

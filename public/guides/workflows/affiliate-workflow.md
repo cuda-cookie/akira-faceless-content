@@ -6,11 +6,11 @@ Complete workflow for creating affiliate video content that converts.
 
 ## Affiliate Marketing Workflow Overview
 
-**The Process**: Find products → Create videos → Promote → Earn
+**The Process**: Find products Create videos Promote Earn
 
 **The Goal**: $500-1,500+/month from affiliate marketing
 
-**The Tool**: [Syllaby.io URL to Video](https://syllaby.io/?via=chris56) for fastest creation
+**The Tool**: [Syllaby.io URL to Video](https://Syllaby.io/?via=chris56) for fastest creation
 
 ---
 
@@ -54,7 +54,7 @@ Complete workflow for creating affiliate video content that converts.
 
 ### Step 3: Create Affiliate Video (5 minutes)
 
-**Using [Syllaby.io URL to Video](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io URL to Video](https://Syllaby.io/?via=chris56)**:
 
 **Method 1: URL to Video** (Fastest):
 1. Paste product URL
@@ -82,22 +82,22 @@ Complete workflow for creating affiliate video content that converts.
 
 **Where to Place**:
 1. **Video Description** (Primary):
-   - Clear call-to-action
-   - "Check link in description"
-   - Trackable link
+ - Clear call-to-action
+ - "Check link in description"
+ - Trackable link
 
 2. **Mention in Video**:
-   - Verbal mention
-   - "Link in description"
-   - Multiple mentions
+ - Verbal mention
+ - "Link in description"
+ - Multiple mentions
 
 3. **Pinned Comment**:
-   - Always visible
-   - Easy to click
+ - Always visible
+ - Easy to click
 
 4. **End Screen** (YouTube):
-   - Visual CTA
-   - Link to product
+ - Visual CTA
+ - Link to product
 
 **Pro Tip**: Use all placements for maximum conversions.
 
@@ -126,7 +126,7 @@ Complete workflow for creating affiliate video content that converts.
 ### 1. Product Review Videos
 
 **How to Create**:
-- Use [URL to Video](https://syllaby.io/?via=chris56)
+- Use [URL to Video](https://Syllaby.io/?via=chris56)
 - Paste product URL
 - Generate script
 - Create video
@@ -174,7 +174,7 @@ Complete workflow for creating affiliate video content that converts.
 
 ## Pro Tips
 
-### 1. Use [Syllaby.io URL to Video](https://syllaby.io/?via=chris56)
+### 1. Use [Syllaby.io URL to Video](https://Syllaby.io/?via=chris56)
 
 **Why**: Fastest affiliate content creation
 
@@ -253,7 +253,7 @@ Complete workflow for creating affiliate video content that converts.
 - [ ] Join 5 affiliate programs
 - [ ] Get affiliate links
 - [ ] Find 10 products to promote
-- [ ] Create first affiliate video using [Syllaby.io URL to Video](https://syllaby.io/?via=chris56)
+- [ ] Create first affiliate video using [Syllaby.io URL to Video](https://Syllaby.io/?via=chris56)
 - [ ] Add links to descriptions
 - [ ] Create comparison video
 - [ ] Set up tracking
@@ -267,7 +267,7 @@ Complete workflow for creating affiliate video content that converts.
 ## Key Takeaways
 
 1. **Affiliate marketing** = 5-10x AdSense potential
-2. **Use [Syllaby.io URL to Video](https://syllaby.io/?via=chris56)** = fastest creation
+2. **Use [Syllaby.io URL to Video](https://Syllaby.io/?via=chris56)** = fastest creation
 3. **Build trust first** = better conversions
 4. **Track everything** = optimize performance
 5. **Scale winners** = profitable income
@@ -277,12 +277,13 @@ Complete workflow for creating affiliate video content that converts.
 ## Resources
 
 - [Affiliate Marketing Guide](../monetization/affiliate-marketing.md) - Complete strategy
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create affiliate content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create affiliate content
 - [Revenue Streams Guide](../monetization/revenue-streams.md) - All revenue streams
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create affiliate content that converts!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create affiliate content that converts!*
+
 
 
 

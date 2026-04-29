@@ -183,13 +183,14 @@ Create your own AI avatar and voice clone for personal branding without being on
 
 ## Resources
 
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start cloning your voice
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start cloning your voice
 - [Brand Building Guide](../strategies/brand-building.md) - Build your brand
 - [Faceless Video Generator Guide](./faceless-video-generator.md) - Complete guide
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create your voice clone!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create your voice clone!*
+
 
 
 

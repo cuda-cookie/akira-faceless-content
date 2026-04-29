@@ -1,6 +1,6 @@
 # Lesson 3: Team Building & Outsourcing
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Build team to scale beyond personal capacity
 
 ---
@@ -25,7 +25,7 @@
 
 ### 1. Content Creator
 
-**Role**: Create videos using [Syllaby.io](https://syllaby.io/?via=chris56)
+**Role**: Create videos using [Syllaby.io](https://Syllaby.io/?via=chris56)
 
 **Cost**: $500-2,000/month
 
@@ -104,7 +104,7 @@
 
 1. **Start small** = one person first
 2. **Document systems** = easy training
-3. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = easy for team
+3. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = easy for team
 4. **Track ROI** = ensure value
 
 ---
@@ -132,11 +132,12 @@
 
 ## Next Lesson
 
-**[Lesson 4: Automation & Systems →](./lesson-4-automation.md)**
+**[Lesson 4: Automation & Systems ](./lesson-4-automation.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) - easy for team to use!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) - easy for team to use!*
+
 
 
 

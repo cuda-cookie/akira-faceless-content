@@ -192,13 +192,14 @@ Use real-time data to find viral topics and create content that performs.
 
 ## Resources
 
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start researching
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start researching
 - [Content Strategies Guide](../strategies/content-strategies.md) - Content planning
 - [SEO Guide](../strategies/seo-strategies.md) - SEO optimization
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to discover viral topics with real data!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to discover viral topics with real data!*
+
 
 
 

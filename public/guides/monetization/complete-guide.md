@@ -156,11 +156,12 @@ Your comprehensive guide to monetizing your faceless video content across all pl
 - [Affiliate Marketing Strategy](./affiliate-marketing.md) - Complete strategy
 - [Revenue Streams Explained](./revenue-streams.md) - All streams
 - [Getting Monetized Fast](./getting-monetized-fast.md) - 2-3 week plan
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create monetizable content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create monetizable content
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create content that monetizes!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create content that monetizes!*
+
 
 
 

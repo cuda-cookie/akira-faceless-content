@@ -1,13 +1,13 @@
 # Lesson 7: Getting Approved - Step by Step
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Get approved for monetization on all platforms
 
 ---
 
 ## The Approval Process Overview
 
-Getting monetized isn't just about meeting requirements—it's about getting approved. This lesson walks you through the exact process.
+Getting monetized isn't just about meeting requirementsit's about getting approved. This lesson walks you through the exact process.
 
 ---
 
@@ -22,10 +22,10 @@ Getting monetized isn't just about meeting requirements—it's about getting app
 - Verify you meet thresholds
 
 **Requirements**:
-- ✅ 1,000+ subscribers
-- ✅ 4,000+ watch hours (OR 10M Shorts views)
-- ✅ Community Guidelines compliance
-- ✅ Eligible country
+- 1,000+ subscribers
+- 4,000+ watch hours (OR 10M Shorts views)
+- Community Guidelines compliance
+- Eligible country
 
 **Pro Tip**: Set up AdSense early, even before meeting requirements.
 
@@ -91,7 +91,7 @@ Getting monetized isn't just about meeting requirements—it's about getting app
 ### Step 5: Approval or Rejection
 
 **If Approved**:
-- ✅ Congratulations!
+- Congratulations!
 - Enable monetization features
 - Start earning
 - Optimize for revenue
@@ -121,10 +121,10 @@ Getting monetized isn't just about meeting requirements—it's about getting app
 - Verify eligibility
 
 **Requirements**:
-- ✅ 10,000+ followers
-- ✅ 100,000+ views (past 30 days)
-- ✅ 18+ years old
-- ✅ Eligible country
+- 10,000+ followers
+- 100,000+ views (past 30 days)
+- 18+ years old
+- Eligible country
 
 ---
 
@@ -163,9 +163,9 @@ Getting monetized isn't just about meeting requirements—it's about getting app
 - Verify eligibility
 
 **Requirements**:
-- ✅ 10,000+ followers (OR 1,000+ Reels views)
-- ✅ Eligible country
-- ✅ Business/Creator account
+- 10,000+ followers (OR 1,000+ Reels views)
+- Eligible country
+- Business/Creator account
 
 ---
 
@@ -200,9 +200,9 @@ Getting monetized isn't just about meeting requirements—it's about getting app
 - Verify eligibility
 
 **Requirements**:
-- ✅ 10,000+ followers
-- ✅ 600,000+ minutes (past 60 days)
-- ✅ 5+ active videos (past 14 days)
+- 10,000+ followers
+- 600,000+ minutes (past 60 days)
+- 5+ active videos (past 14 days)
 
 ---
 
@@ -228,7 +228,7 @@ Getting monetized isn't just about meeting requirements—it's about getting app
 **Solution**:
 - Create original content
 - Add value and commentary
-- Use [Syllaby.io](https://syllaby.io/?via=chris56) for original scripts
+- Use [Syllaby.io](https://Syllaby.io/?via=chris56) for original scripts
 - Transform existing content significantly
 
 **Prevention**: Always create original content.
@@ -340,21 +340,21 @@ Getting monetized isn't just about meeting requirements—it's about getting app
 
 ---
 
-## Module 4 Complete! 🎉
+## Module 4 Complete! 
 
 **Congratulations!** You've completed Module 4: Getting Monetized Fast.
 
 **What You've Learned**:
-- ✅ YouTube Partner Program requirements
-- ✅ 2-3 week monetization strategy
-- ✅ Watch time optimization
-- ✅ Shorts vs. long-form strategy
-- ✅ Multi-channel approach
-- ✅ Platform requirements (all platforms)
-- ✅ Getting approved step-by-step
+- YouTube Partner Program requirements
+- 2-3 week monetization strategy
+- Watch time optimization
+- Shorts vs. long-form strategy
+- Multi-channel approach
+- Platform requirements (all platforms)
+- Getting approved step-by-step
 
 **You're Ready For**:
-- **[Module 5: Revenue Streams & Monetization →](./../module-5/)**
+- **[Module 5: Revenue Streams & Monetization ](./../module-5/)**
 
 ---
 
@@ -362,15 +362,16 @@ Getting monetized isn't just about meeting requirements—it's about getting app
 
 - [Getting Monetized Fast Guide](../../../guides/monetization/getting-monetized-fast.md) - Complete strategy
 - [Platform Requirements Guide](../../../guides/monetization/platform-requirements.md) - All platforms
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create content that gets you approved
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create content that gets you approved
 
 ---
 
-**Ready for Module 5?** [Start Revenue Streams →](./../module-5/)
+**Ready for Module 5?** [Start Revenue Streams ](./../module-5/)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create the content that gets you monetized on all platforms!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create the content that gets you monetized on all platforms!*
+
 
 
 

@@ -1,6 +1,6 @@
 # Lesson 7: Scaling Video Revenue
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Scale your video revenue to $1,000+/month
 
 ---
@@ -55,7 +55,7 @@
 - Target high-CPM niches
 - Optimize for valuable audiences
 
-**Pro Tip**: Use [Syllaby.io](https://syllaby.io/?via=chris56) to create high-retention content consistently.
+**Pro Tip**: Use [Syllaby.io](https://Syllaby.io/?via=chris56) to create high-retention content consistently.
 
 ---
 
@@ -80,7 +80,7 @@
 - Create more affiliate content
 - Focus on high-commission products
 - Optimize conversions
-- Use [Syllaby.io URL to Video](https://syllaby.io/?via=chris56) for fast creation
+- Use [Syllaby.io URL to Video](https://Syllaby.io/?via=chris56) for fast creation
 
 **Pro Tip**: URL to Video = fastest affiliate content creation.
 
@@ -133,7 +133,7 @@
 - Create media kit
 - Join marketplaces
 - Build relationships
-- Use [Syllaby.io](https://syllaby.io/?via=chris56) for sponsored content
+- Use [Syllaby.io](https://Syllaby.io/?via=chris56) for sponsored content
 
 ---
 
@@ -147,7 +147,7 @@
 - Scale production
 - Use Bulk Scheduler
 
-**Using [Syllaby.io Bulk Scheduler](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io Bulk Scheduler](https://Syllaby.io/?via=chris56)**:
 - Create 300 videos/month
 - Automatic publishing
 - 10x more content
@@ -163,7 +163,7 @@
 - Diversify income
 - Scale faster
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**:
 - One-click publishing
 - All platforms
 - Maximum reach
@@ -213,7 +213,7 @@
 
 ---
 
-### 3. Use [Syllaby.io](https://syllaby.io/?via=chris56) for All
+### 3. Use [Syllaby.io](https://Syllaby.io/?via=chris56) for All
 
 **Benefits**:
 - Consistent quality
@@ -247,7 +247,7 @@
 - [ ] Scale affiliates (more content, optimize)
 - [ ] Enable YouTube extras
 - [ ] Build audience for sponsorships
-- [ ] Post to all platforms using [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Post to all platforms using [Syllaby.io](https://Syllaby.io/?via=chris56)
 - [ ] Optimize all streams
 - [ ] Set $1,000/month goal
 - [ ] Track progress monthly
@@ -262,39 +262,40 @@
 2. **Start with AdSense + Affiliates** = foundation
 3. **Add YouTube extras** = additional revenue
 4. **Scale what works** = double down on winners
-5. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = easy scaling
+5. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = easy scaling
 6. **Track everything** = optimize performance
 
 ---
 
-## Module 5 Complete! 🎉
+## Module 5 Complete! 
 
 **Congratulations!** You've completed Module 5: Revenue Streams & Monetization.
 
 **What You've Learned**:
-- ✅ Video revenue streams overview
-- ✅ YouTube AdSense optimization
-- ✅ Affiliate marketing through videos
-- ✅ YouTube additional revenue features
-- ✅ Video sponsorships and brand deals
-- ✅ Multi-platform monetization
-- ✅ Scaling video revenue to $1,000+/month
+- Video revenue streams overview
+- YouTube AdSense optimization
+- Affiliate marketing through videos
+- YouTube additional revenue features
+- Video sponsorships and brand deals
+- Multi-platform monetization
+- Scaling video revenue to $1,000+/month
 
 **You're Ready For**:
-- **[Module 6: Growth & Scaling Strategies →](./../module-6/)**
+- **[Module 6: Growth & Scaling Strategies ](./../module-6/)**
 
 ---
 
 ## Resources
 
 - [Complete Monetization Guide](../../../guides/monetization/complete-guide.md) - Complete guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create content for all revenue streams
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create content for all revenue streams
 - [Affiliate Marketing Guide](../../../guides/monetization/affiliate-marketing.md) - Detailed strategy
 
 ---
 
-**Ready for Module 6?** [Start Growth Strategies →](./../module-6/)
+**Ready for Module 6?** [Start Growth Strategies ](./../module-6/)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create the video content that drives all your revenue streams!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create the video content that drives all your revenue streams!*
+

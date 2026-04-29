@@ -1,6 +1,6 @@
 # Lesson 2: Script Writing That Converts
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Write scripts that engage, convert, and drive action
 
 ---
@@ -323,23 +323,24 @@
 
 ## Next Lesson
 
-**[Lesson 3: Thumbnail Design That Gets Clicks →](./lesson-3-thumbnails.md)**
+**[Lesson 3: Thumbnail Design That Gets Clicks ](./lesson-3-thumbnails.md)**
 
 ---
 
 ## Resources
 
 - [AI Script Generation Guide](../module-2/lesson-3-ai-scripts.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start generating scripts
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start generating scripts
 - [Best Practices Guide](../../../guides/resources/best-practices.md) - More tips
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-3-thumbnails.md)
+**Ready to continue?** [Next Lesson ](./lesson-3-thumbnails.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and use AI Script Assistant for conversion-focused scripts!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and use AI Script Assistant for conversion-focused scripts!*
+
 
 
 

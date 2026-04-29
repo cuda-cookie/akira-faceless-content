@@ -61,7 +61,7 @@ Complete workflow for managing 3-5 channels efficiently.
 
 ## Managing Multiple Channels
 
-### Using [Syllaby.io](https://syllaby.io/?via=chris56)
+### Using [Syllaby.io](https://Syllaby.io/?via=chris56)
 
 **Workflow**:
 1. Create content for all channels
@@ -193,7 +193,7 @@ Complete workflow for managing 3-5 channels efficiently.
 
 ### 2. Use Same Tools
 
-**Strategy**: [Syllaby.io](https://syllaby.io/?via=chris56) for all
+**Strategy**: [Syllaby.io](https://Syllaby.io/?via=chris56) for all
 
 **Why**: Efficient, consistent quality
 
@@ -229,7 +229,7 @@ Complete workflow for managing 3-5 channels efficiently.
 - [ ] Set up channel branding
 - [ ] Plan content for each
 - [ ] Set up cross-promotion
-- [ ] Create content for all channels using [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Create content for all channels using [Syllaby.io](https://Syllaby.io/?via=chris56)
 - [ ] Use Bulk Scheduler for each
 - [ ] Track performance per channel
 - [ ] Adjust strategy based on data
@@ -242,7 +242,7 @@ Complete workflow for managing 3-5 channels efficiently.
 
 1. **Multi-channel** = faster monetization
 2. **3-5 channels** = optimal number
-3. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = easy management
+3. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = easy management
 4. **Cross-promote** = grow all channels
 5. **Track per channel** = optimize individually
 6. **Combine metrics** = faster to 4,000 hours
@@ -252,12 +252,13 @@ Complete workflow for managing 3-5 channels efficiently.
 ## Resources
 
 - [Multi-Channel Strategy Guide](../../course/module-4/lesson-5-multi-channel.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Manage all channels
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Manage all channels
 - [Bulk Scheduler Guide](../features/bulk-scheduler.md) - Monthly planning
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to manage multiple channels efficiently!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to manage multiple channels efficiently!*
+
 
 
 

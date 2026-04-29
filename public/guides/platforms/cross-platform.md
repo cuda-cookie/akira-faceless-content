@@ -63,7 +63,7 @@ Complete guide to posting and monetizing across all platforms simultaneously.
 
 ## Cross-Platform Workflow
 
-### Using [Syllaby.io](https://syllaby.io/?via=chris56)
+### Using [Syllaby.io](https://Syllaby.io/?via=chris56)
 
 **One-Click Publishing**:
 1. Create video once
@@ -77,7 +77,7 @@ Complete guide to posting and monetizing across all platforms simultaneously.
 - Time savings
 - Maximum reach
 
-**Pro Tip**: Use [Syllaby.io](https://syllaby.io/?via=chris56) to post everywhere with one click.
+**Pro Tip**: Use [Syllaby.io](https://Syllaby.io/?via=chris56) to post everywhere with one click.
 
 ---
 
@@ -105,7 +105,7 @@ Complete guide to posting and monetizing across all platforms simultaneously.
 - Longer content
 - Engagement priority
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**:
 - Create platform-optimized content
 - Easy adaptation
 - Consistent quality
@@ -130,9 +130,9 @@ Complete guide to posting and monetizing across all platforms simultaneously.
 
 ### Revenue Per Platform
 
-**YouTube**: AdSense + Extras + Affiliates + Sponsorships  
-**TikTok**: Creator Fund + Marketplace + Affiliates  
-**Instagram**: Reels Bonus + Subscriptions + Brand Deals  
+**YouTube**: AdSense + Extras + Affiliates + Sponsorships 
+**TikTok**: Creator Fund + Marketplace + Affiliates 
+**Instagram**: Reels Bonus + Subscriptions + Brand Deals 
 **Facebook**: In-Stream Ads + Subscriptions + Brand Deals
 
 **Total Potential**: $2,000-15,000+/month
@@ -151,7 +151,7 @@ Complete guide to posting and monetizing across all platforms simultaneously.
 
 ---
 
-### 2. Use [Syllaby.io](https://syllaby.io/?via=chris56) for All
+### 2. Use [Syllaby.io](https://Syllaby.io/?via=chris56) for All
 
 **Benefits**: One tool, all platforms, consistent quality
 
@@ -184,7 +184,7 @@ Complete guide to posting and monetizing across all platforms simultaneously.
 **Set up cross-platform strategy**:
 
 - [ ] Create accounts on all platforms
-- [ ] Connect all to [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Connect all to [Syllaby.io](https://Syllaby.io/?via=chris56)
 - [ ] Optimize each profile
 - [ ] Create first cross-platform video
 - [ ] Set up cross-promotion
@@ -198,7 +198,7 @@ Complete guide to posting and monetizing across all platforms simultaneously.
 ## Key Takeaways
 
 1. **Cross-platform** = 2-3x growth and revenue
-2. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = post everywhere easily
+2. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = post everywhere easily
 3. **Platform optimization** = better performance
 4. **Cross-promote** = maximize reach
 5. **Track per platform** = optimize individually
@@ -209,11 +209,12 @@ Complete guide to posting and monetizing across all platforms simultaneously.
 
 - [Multi-Platform Strategy Guide](../strategies/multi-platform.md) - Detailed strategy
 - [Content Repurposing Guide](../workflows/content-repurposing.md) - Repurpose system
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Post to all platforms
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Post to all platforms
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to dominate all platforms!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to dominate all platforms!*
+
 
 
 

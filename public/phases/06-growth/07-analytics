@@ -1,6 +1,6 @@
 # Lesson 7: Analytics & Optimization
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Use analytics to optimize performance and scale
 
 ---
@@ -235,37 +235,38 @@
 
 ---
 
-## Module 6 Complete! 🎉
+## Module 6 Complete! 
 
 **Congratulations!** You've completed Module 6: Growth & Scaling Strategies.
 
 **What You've Learned**:
-- ✅ Daily posting consistency
-- ✅ Multi-platform domination
-- ✅ Content repurposing
-- ✅ Community building
-- ✅ SEO optimization
-- ✅ A/B testing
-- ✅ Analytics and optimization
+- Daily posting consistency
+- Multi-platform domination
+- Content repurposing
+- Community building
+- SEO optimization
+- A/B testing
+- Analytics and optimization
 
 **You're Ready For**:
-- **[Module 7: Advanced Strategies & Scaling →](./../module-7/)**
+- **[Module 7: Advanced Strategies & Scaling ](./../module-7/)**
 
 ---
 
 ## Resources
 
 - [Analytics Guide](../../../guides/resources/analytics-guide.md) - Complete guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create content that performs
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create content that performs
 - [Optimization Strategies](../../../guides/strategies/optimization-strategies.md) - More tips
 
 ---
 
-**Ready for Module 7?** [Start Advanced Strategies →](./../module-7/)
+**Ready for Module 7?** [Start Advanced Strategies ](./../module-7/)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create content optimized by analytics!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create content optimized by analytics!*
+
 
 
 

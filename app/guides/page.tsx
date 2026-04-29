@@ -50,7 +50,7 @@ export default function GuidesIndex() {
                   </div>
                   <p style={{ fontSize: '14px', color: '#666', marginBottom: '24px', flex: 1, lineHeight: '1.6' }}>{guide.excerpt}</p>
                   <div style={{ fontSize: '11px', fontWeight: 900, color: '#ff2c2c', letterSpacing: '2px' }}>
-                    ACCESS_SYSTEM_DATA.exe <span style={{ fontSize: '16px' }}>→</span>
+                    Access System Data <span style={{ fontSize: '16px' }}>→</span>
                   </div>
                 </div>
               </Link>

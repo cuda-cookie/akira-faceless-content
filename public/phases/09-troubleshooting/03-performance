@@ -1,6 +1,6 @@
 # Lesson 3: Performance Optimization
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Optimize content for maximum performance
 
 ---
@@ -59,7 +59,7 @@
 1. **Track metrics** = identify opportunities
 2. **Test changes** = data-driven optimization
 3. **Focus on retention** = algorithm favor
-4. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = consistent quality
+4. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = consistent quality
 
 ---
 
@@ -84,11 +84,12 @@
 
 ## Next Lesson
 
-**[Lesson 4: Quality Improvement →](./lesson-4-quality.md)**
+**[Lesson 4: Quality Improvement ](./lesson-4-quality.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to optimize performance!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to optimize performance!*
+
 
 
 

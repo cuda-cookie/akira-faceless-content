@@ -1,6 +1,6 @@
 # Lesson 4: Quality Improvement
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Continuously improve content quality
 
 ---
@@ -19,7 +19,7 @@
 
 ### 2. Visual Quality
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**:
 - Professional visuals
 - Consistent style
 - High quality
@@ -29,7 +29,7 @@
 
 ### 3. Audio Quality
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**:
 - Professional voiceovers
 - Clear audio
 - Consistent quality
@@ -70,7 +70,7 @@
 
 ## Pro Tips
 
-1. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = consistent quality
+1. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = consistent quality
 2. **Review regularly** = continuous improvement
 3. **Test changes** = data-driven
 4. **Focus on value** = better quality
@@ -90,7 +90,7 @@
 ## Key Takeaways
 
 1. **Quality improvement** = better performance
-2. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = consistent quality
+2. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = consistent quality
 3. **Review regularly** = continuous improvement
 4. **Test changes** = data-driven
 
@@ -98,11 +98,12 @@
 
 ## Next Lesson
 
-**[Lesson 5: Staying Current with Updates →](./lesson-5-updates.md)**
+**[Lesson 5: Staying Current with Updates ](./lesson-5-updates.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) for consistent quality!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) for consistent quality!*
+
 
 
 

@@ -1,6 +1,6 @@
 # Lesson 4: Long-Term Strategy
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Build sustainable, long-term business
 
 ---
@@ -81,11 +81,12 @@
 
 ## Next Lesson
 
-**[Lesson 5: Exit Strategies →](./lesson-5-exit-strategies.md)**
+**[Lesson 5: Exit Strategies ](./lesson-5-exit-strategies.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to build long-term!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to build long-term!*
+
 
 
 

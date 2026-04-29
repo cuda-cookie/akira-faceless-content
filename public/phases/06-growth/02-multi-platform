@@ -1,6 +1,6 @@
 # Lesson 2: Multi-Platform Domination
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Dominate all platforms simultaneously for maximum reach
 
 ---
@@ -63,7 +63,7 @@
 
 ## Cross-Platform Workflow
 
-### Using [Syllaby.io](https://syllaby.io/?via=chris56)
+### Using [Syllaby.io](https://Syllaby.io/?via=chris56)
 
 **One-Click Publishing**:
 1. Create video once
@@ -77,7 +77,7 @@
 - Time savings
 - Maximum reach
 
-**Pro Tip**: Use [Syllaby.io](https://syllaby.io/?via=chris56) to post everywhere with one click.
+**Pro Tip**: Use [Syllaby.io](https://Syllaby.io/?via=chris56) to post everywhere with one click.
 
 ---
 
@@ -157,7 +157,7 @@
 
 ---
 
-### 2. Use [Syllaby.io](https://syllaby.io/?via=chris56) for All
+### 2. Use [Syllaby.io](https://Syllaby.io/?via=chris56) for All
 
 **Benefits**:
 - One tool for all platforms
@@ -186,7 +186,7 @@
 **Set up multi-platform**:
 
 - [ ] Create accounts on all platforms
-- [ ] Connect all to [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Connect all to [Syllaby.io](https://Syllaby.io/?via=chris56)
 - [ ] Optimize each profile
 - [ ] Create first cross-platform video
 - [ ] Set up cross-promotion
@@ -201,7 +201,7 @@
 
 1. **Multi-platform** = 2-3x growth and revenue
 2. **Start with 3 platforms** = manageable
-3. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = post everywhere easily
+3. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = post everywhere easily
 4. **Cross-promote** = maximize reach
 5. **Repurpose content** = maximum ROI
 6. **Track performance** = optimize strategy
@@ -210,23 +210,24 @@
 
 ## Next Lesson
 
-**[Lesson 3: Content Repurposing for Maximum ROI →](./lesson-3-repurposing.md)**
+**[Lesson 3: Content Repurposing for Maximum ROI ](./lesson-3-repurposing.md)**
 
 ---
 
 ## Resources
 
 - [Multi-Platform Strategy Guide](../../../guides/strategies/multi-platform.md) - Complete guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Post to all platforms
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Post to all platforms
 - [Cross-Platform Guide](../../../guides/platforms/cross-platform.md) - Optimization
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-3-repurposing.md)
+**Ready to continue?** [Next Lesson ](./lesson-3-repurposing.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to dominate all platforms!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to dominate all platforms!*
+
 
 
 

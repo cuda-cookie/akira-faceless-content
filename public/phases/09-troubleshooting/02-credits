@@ -1,6 +1,6 @@
 # Lesson 2: Credit Management & Optimization
 
-**Duration**: 20 minutes  
+**Duration**: 20 minutes 
 **Goal**: Maximize credit usage for maximum content
 
 ---
@@ -57,11 +57,12 @@
 
 ## Next Lesson
 
-**[Lesson 3: Performance Optimization →](./lesson-3-performance.md)**
+**[Lesson 3: Performance Optimization ](./lesson-3-performance.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and optimize credit usage!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and optimize credit usage!*
+
 
 
 

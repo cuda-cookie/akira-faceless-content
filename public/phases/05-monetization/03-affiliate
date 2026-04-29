@@ -1,6 +1,6 @@
 # Lesson 3: Affiliate Marketing Through Videos
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Use your faceless videos to promote products and earn affiliate commissions
 
 ---
@@ -40,7 +40,7 @@
 4. Earn commission on sales
 5. Get paid
 
-**Simple**: Recommend → Earn → Repeat
+**Simple**: Recommend Earn Repeat
 
 ---
 
@@ -140,7 +140,7 @@
 
 ### How to Create Affiliate Videos
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**:
 
 **Method 1: URL to Video** (Fastest):
 1. Paste product URL
@@ -158,7 +158,7 @@
 
 **Method 3: Custom Script**:
 1. Write your own review script
-2. Create video with [Syllaby.io](https://syllaby.io/?via=chris56)
+2. Create video with [Syllaby.io](https://Syllaby.io/?via=chris56)
 3. Add affiliate link
 4. Publish
 
@@ -341,7 +341,7 @@
 
 - [ ] Join 5 affiliate programs
 - [ ] Get affiliate links
-- [ ] Create first affiliate video using [Syllaby.io URL to Video](https://syllaby.io/?via=chris56)
+- [ ] Create first affiliate video using [Syllaby.io URL to Video](https://Syllaby.io/?via=chris56)
 - [ ] Add affiliate links to video descriptions
 - [ ] Mention links in videos
 - [ ] Create comparison video
@@ -357,7 +357,7 @@
 
 1. **Affiliate marketing** = 5-10x AdSense potential
 2. **Start with Amazon** + software programs
-3. **Use [Syllaby.io URL to Video](https://syllaby.io/?via=chris56)** = fast affiliate content
+3. **Use [Syllaby.io URL to Video](https://Syllaby.io/?via=chris56)** = fast affiliate content
 4. **Build trust first** = better conversions
 5. **Track everything** = optimize performance
 6. **Scale winners** = profitable income
@@ -366,21 +366,22 @@
 
 ## Next Lesson
 
-**[Lesson 4: Digital Products →](./lesson-4-digital-products.md)**
+**[Lesson 4: Digital Products ](./lesson-4-digital-products.md)**
 
 ---
 
 ## Resources
 
 - [Affiliate Marketing Guide](../../../guides/monetization/affiliate-marketing.md) - Complete strategy
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create affiliate content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create affiliate content
 - [Revenue Streams Guide](../../../guides/monetization/revenue-streams.md) - Multiple income
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-4-digital-products.md)
+**Ready to continue?** [Next Lesson ](./lesson-4-digital-products.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create affiliate content that converts!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create affiliate content that converts!*
+
 

@@ -1,6 +1,6 @@
 # Lesson 2: YouTube AdSense Optimization
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Maximize AdSense revenue from your videos
 
 ---
@@ -329,23 +329,24 @@
 
 ## Next Lesson
 
-**[Lesson 3: Affiliate Marketing Mastery →](./lesson-3-affiliate.md)**
+**[Lesson 3: Affiliate Marketing Mastery ](./lesson-3-affiliate.md)**
 
 ---
 
 ## Resources
 
 - [YouTube Monetization Guide](../../../guides/monetization/youtube-monetization.md) - Complete guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create high-retention content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create high-retention content
 - [Revenue Streams Guide](../../../guides/monetization/revenue-streams.md) - Multiple income
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-3-affiliate.md)
+**Ready to continue?** [Next Lesson ](./lesson-3-affiliate.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create content that maximizes AdSense revenue!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create content that maximizes AdSense revenue!*
+
 
 
 

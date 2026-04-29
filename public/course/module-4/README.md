@@ -1,6 +1,6 @@
 # Module 4: Getting Monetized Fast (2-3 Weeks)
 
-**Duration**: 2 hours  
+**Duration**: 2 hours 
 **Goal**: Get monetized on all platforms within 2-3 weeks
 
 ---
@@ -28,12 +28,12 @@ This is where the magic happens. In this module, you'll learn the exact strategi
 ## What You'll Achieve
 
 By completing this module:
-- ✅ Understand all monetization requirements
-- ✅ Have a 2-3 week action plan
-- ✅ Know how to optimize for watch time
-- ✅ Understand shorts vs. long-form strategy
-- ✅ Set up multi-channel approach
-- ✅ Get approved on all platforms
+- Understand all monetization requirements
+- Have a 2-3 week action plan
+- Know how to optimize for watch time
+- Understand shorts vs. long-form strategy
+- Set up multi-channel approach
+- Get approved on all platforms
 
 ---
 
@@ -52,7 +52,7 @@ By completing this module:
 - [Getting Monetized Fast Guide](../../guides/monetization/getting-monetized-fast.md)
 - [Platform Requirements](../../guides/monetization/platform-requirements.md)
 - [YouTube Monetization Guide](../../guides/monetization/youtube-monetization.md)
-- [Syllaby.io - Start Creating](https://syllaby.io/?via=chris56)
+- [Syllaby.io - Start Creating](https://Syllaby.io/?via=chris56)
 
 ---
 
@@ -68,15 +68,16 @@ Track these weekly:
 
 ## Next Module
 
-**[Module 5: Revenue Streams & Monetization →](./../module-5/)**
+**[Module 5: Revenue Streams & Monetization ](./../module-5/)**
 
 ---
 
-**Ready to get monetized?** [Start Lesson 1 →](./lesson-1-youtube-requirements.md)
+**Ready to get monetized?** [Start Lesson 1 ](./lesson-1-youtube-requirements.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start creating content that gets you monetized!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to start creating content that gets you monetized!*
+
 
 
 

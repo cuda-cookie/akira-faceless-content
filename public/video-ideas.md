@@ -2,7 +2,7 @@
 
 **Your Complete Content Library**
 
-This bonus contains 2,700 plug-and-play video ideas across top niches. Copy and paste directly into [Syllaby.io](https://syllaby.io/?via=chris56) to start creating.
+This bonus contains 2,700 plug-and-play video ideas across top niches. Copy and paste directly into [Syllaby.io](https://Syllaby.io/?via=chris56) to start creating.
 
 ---
 
@@ -1983,15 +1983,16 @@ This bonus contains 2,700 plug-and-play video ideas across top niches. Copy and 
 
 1. **Choose Your Niche**: Pick ideas from your niche
 2. **Create Content Calendar**: Plan 30-60 videos
-3. **Start Creating**: Use [Syllaby.io](https://syllaby.io/?via=chris56) to generate videos
+3. **Start Creating**: Use [Syllaby.io](https://Syllaby.io/?via=chris56) to generate videos
 4. **Track Performance**: See what works
 5. **Double Down**: Create more of what performs
 
 ---
 
-**Ready to start creating?** [Get Syllaby.io →](https://syllaby.io/?via=chris56)
+**Ready to start creating?** [Get Syllaby.io ](https://Syllaby.io/?via=chris56)
 
 ---
 
 *This bonus alone is worth hundreds of hours of content planning. Use it wisely!*
+
 

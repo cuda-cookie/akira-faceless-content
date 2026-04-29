@@ -1,6 +1,6 @@
 # Lesson 4: Choosing Your Niche - Top 12 Paying Niches
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Choose the perfect niche for maximum earnings
 
 ---
@@ -42,7 +42,7 @@ Your niche determines:
 - Growing demand = future potential
 
 **How to Research**:
-- Use [Syllaby.io's Idea Discovery](https://syllaby.io/?via=chris56) feature
+- Use [Syllaby.io's Idea Discovery](https://Syllaby.io/?via=chris56) feature
 - Check Google Trends
 - Analyze competitor channels
 - Look at search volumes
@@ -99,7 +99,7 @@ Your niche determines:
 
 ### Tier 1: Highest Earning Potential ($10-50 per 1,000 views)
 
-#### 1. Finance & Investing ⭐⭐⭐⭐⭐
+#### 1. Finance & Investing 
 
 **Why It Pays**:
 - Highest CPC (Cost Per Click)
@@ -130,7 +130,7 @@ Your niche determines:
 
 ---
 
-#### 2. Health & Wellness ⭐⭐⭐⭐
+#### 2. Health & Wellness 
 
 **Why It Pays**:
 - Evergreen demand
@@ -161,7 +161,7 @@ Your niche determines:
 
 ---
 
-#### 3. Technology & Software ⭐⭐⭐⭐
+#### 3. Technology & Software 
 
 **Why It Pays**:
 - Tech-savvy audience
@@ -192,7 +192,7 @@ Your niche determines:
 
 ---
 
-#### 4. Business & Entrepreneurship ⭐⭐⭐⭐
+#### 4. Business & Entrepreneurship 
 
 **Why It Pays**:
 - Business owners have high purchasing power
@@ -225,22 +225,22 @@ Your niche determines:
 
 ### Tier 2: Strong Earning Potential ($2-12 per 1,000 views)
 
-#### 5. Real Estate ⭐⭐⭐
+#### 5. Real Estate 
 - **Average Earnings**: $4-12 per 1,000 views
 - **Content**: Property tours, market analysis, investment strategies
 - **Best For**: Educational content, virtual tours
 
-#### 6. Education & Online Learning ⭐⭐⭐
+#### 6. Education & Online Learning 
 - **Average Earnings**: $2-8 per 1,000 views
 - **Content**: Study tips, language learning, skill development
 - **Best For**: Tutorials, educational series
 
-#### 7. Self-Improvement & Motivation ⭐⭐⭐
+#### 7. Self-Improvement & Motivation 
 - **Average Earnings**: $2-6 per 1,000 views
 - **Content**: Motivational speeches, success stories, personal development
 - **Best For**: Inspirational content, storytelling
 
-#### 8. Gaming ⭐⭐⭐
+#### 8. Gaming 
 - **Average Earnings**: $1-5 per 1,000 views
 - **Content**: Game reviews, walkthroughs, tips and tricks
 - **Best For**: Entertainment, tutorials
@@ -249,22 +249,22 @@ Your niche determines:
 
 ### Tier 3: Consistent Earning Potential ($1-7 per 1,000 views)
 
-#### 9. Travel ⭐⭐
+#### 9. Travel 
 - **Average Earnings**: $2-7 per 1,000 views
 - **Content**: Destination guides, travel tips, hotel reviews
 - **Best For**: Educational content, virtual tours
 
-#### 10. Food & Cooking ⭐⭐
+#### 10. Food & Cooking 
 - **Average Earnings**: $1-4 per 1,000 views
 - **Content**: Recipe tutorials, cooking tips, food reviews
 - **Best For**: How-to content, recipe videos
 
-#### 11. Beauty & Fashion ⭐⭐
+#### 11. Beauty & Fashion 
 - **Average Earnings**: $2-6 per 1,000 views
 - **Content**: Product reviews, style tips, makeup tutorials
 - **Best For**: Product reviews, tutorials
 
-#### 12. Religious & Spiritual ⭐⭐
+#### 12. Religious & Spiritual 
 - **Average Earnings**: $1-3 per 1,000 views (but high engagement)
 - **Content**: Bible study, inspirational messages, religious education
 - **Best For**: Educational content, U-log videos
@@ -285,7 +285,7 @@ Write down 5-10 topics you're interested in:
 ### Step 2: Research Market Demand
 
 For each interest, check:
-- [ ] Search volume (use [Idea Discovery](https://syllaby.io/?via=chris56))
+- [ ] Search volume (use [Idea Discovery](https://Syllaby.io/?via=chris56))
 - [ ] Trending topics
 - [ ] Competitor analysis
 - [ ] Growth trends
@@ -334,9 +334,9 @@ For each interest, research:
 
 ### Example Strategy
 
-**Channel 1**: Finance - Personal Finance Tips  
-**Channel 2**: Finance - Investment Strategies  
-**Channel 3**: Finance - Cryptocurrency  
+**Channel 1**: Finance - Personal Finance Tips 
+**Channel 2**: Finance - Investment Strategies 
+**Channel 3**: Finance - Cryptocurrency 
 **Channel 4**: Finance - Real Estate Investing
 
 **Result**: 4 channels, same niche, different angles, cross-promotion
@@ -371,23 +371,24 @@ For each interest, research:
 
 ## Next Lesson
 
-**[Lesson 5: Market Research & Validation →](./lesson-5-market-research.md)**
+**[Lesson 5: Market Research & Validation ](./lesson-5-market-research.md)**
 
 ---
 
 ## Resources
 
 - [Top Paying Niches Guide](../../../guides/niches/top-paying-niches.md) - Detailed breakdown
-- [Idea Discovery Feature](https://syllaby.io/?via=chris56) - Research demand
+- [Idea Discovery Feature](https://Syllaby.io/?via=chris56) - Research demand
 - [Niche Selection Guide](../../../guides/niches/niche-selection.md) - More strategies
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-5-market-research.md)
+**Ready to continue?** [Next Lesson ](./lesson-5-market-research.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start researching niches with Idea Discovery!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to start researching niches with Idea Discovery!*
+
 
 
 

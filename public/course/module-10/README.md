@@ -1,6 +1,6 @@
 # Module 10: Building Your Business
 
-**Duration**: 2 hours  
+**Duration**: 2 hours 
 **Goal**: Build a sustainable, profitable business
 
 ---
@@ -39,7 +39,7 @@ By the end of this module, you will have:
 ## Resources
 
 - [Best Practices Guide](../../../guides/resources/best-practices.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56)
 - [Success Stories](../../bonuses/success-stories.md)
 
 ---
@@ -56,11 +56,12 @@ By the end of this module, you will have:
 
 ---
 
-**Ready to build your business?** [Begin Lesson 1 →](./lesson-1-hobby-to-business.md)
+**Ready to build your business?** [Begin Lesson 1 ](./lesson-1-hobby-to-business.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to continue building your faceless video empire!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to continue building your faceless video empire!*
+
 
 
 

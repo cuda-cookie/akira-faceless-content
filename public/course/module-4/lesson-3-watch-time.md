@@ -1,6 +1,6 @@
 # Lesson 3: Watch Time Optimization
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Maximize watch time to reach 4,000 hours faster
 
 ---
@@ -78,7 +78,7 @@
 - 10 videos = 3,330 hours
 - **Almost at 4,000 hours with just 10 videos**
 
-**Pro Tip**: Use [Syllaby.io](https://syllaby.io/?via=chris56) to create longer content easily.
+**Pro Tip**: Use [Syllaby.io](https://Syllaby.io/?via=chris56) to create longer content easily.
 
 ---
 
@@ -134,7 +134,7 @@
 **How to Create**:
 1. Choose a topic
 2. Break into 5-10 parts
-3. Create series using [Syllaby.io](https://syllaby.io/?via=chris56)
+3. Create series using [Syllaby.io](https://Syllaby.io/?via=chris56)
 4. Link videos together
 5. Create playlist
 
@@ -161,7 +161,7 @@
 - Minimal effort
 
 **How to Create**:
-1. Use [Syllaby.io](https://syllaby.io/?via=chris56) to create base
+1. Use [Syllaby.io](https://Syllaby.io/?via=chris56) to create base
 2. Script: Simple, repetitive (e.g., "Sitting by fireplace")
 3. No subtitles
 4. Download and import to CapCut (free)
@@ -292,7 +292,7 @@
 - Keep viewers engaged
 - Increase sessions
 
-**Pro Tip**: Use [Syllaby.io](https://syllaby.io/?via=chris56) to create series content easily.
+**Pro Tip**: Use [Syllaby.io](https://Syllaby.io/?via=chris56) to create series content easily.
 
 ---
 
@@ -434,7 +434,7 @@
 
 ## Next Lesson
 
-**[Lesson 4: Shorts vs. Long-Form Strategy →](./lesson-4-shorts-vs-long.md)**
+**[Lesson 4: Shorts vs. Long-Form Strategy ](./lesson-4-shorts-vs-long.md)**
 
 ---
 
@@ -442,15 +442,16 @@
 
 - [Getting Monetized Fast Guide](../../../guides/monetization/getting-monetized-fast.md) - Complete strategy
 - [U-Log Workflow Guide](../../../guides/workflows/ulog-workflow.md) - Create watch time content
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating watch time content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start creating watch time content
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-4-shorts-vs-long.md)
+**Ready to continue?** [Next Lesson ](./lesson-4-shorts-vs-long.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create the content that gets you to 4,000 watch hours!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create the content that gets you to 4,000 watch hours!*
+
 
 
 

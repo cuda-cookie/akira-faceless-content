@@ -1,6 +1,6 @@
 # Lesson 6: Bulk Scheduler - Monthly Content Planning
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Create and schedule an entire month's worth of content in 2 hours
 
 ---
@@ -20,7 +20,7 @@
 - Stress-free content creation
 
 **Time Savings**: 
-- Daily: 5 min × 30 days = 150 minutes
+- Daily: 5 min 30 days = 150 minutes
 - Bulk: 2 hours = 120 minutes
 - **Plus**: Better planning, less stress
 
@@ -272,19 +272,19 @@
 
 ## Common Questions
 
-**Q: How many videos should I create?**  
+**Q: How many videos should I create?** 
 A: 30-60 videos for a month (1-2 per day)
 
-**Q: How long does it take?**  
+**Q: How long does it take?** 
 A: 2 hours for 60 videos (setup + generation)
 
-**Q: Can I edit after bulk creation?**  
+**Q: Can I edit after bulk creation?** 
 A: Yes! Edit individual videos as needed
 
-**Q: What if I need to change schedule?**  
+**Q: What if I need to change schedule?** 
 A: Use Bulk Scheduler Tracker to adjust
 
-**Q: Can I mix different styles?**  
+**Q: Can I mix different styles?** 
 A: Bulk scheduler uses one style, but you can create separate batches
 
 ---
@@ -317,7 +317,7 @@ A: Bulk scheduler uses one style, but you can create separate batches
 
 ## Next Lesson
 
-**[Lesson 7: Idea Discovery - Research-Backed Content →](./lesson-7-idea-discovery.md)**
+**[Lesson 7: Idea Discovery - Research-Backed Content ](./lesson-7-idea-discovery.md)**
 
 ---
 
@@ -325,15 +325,16 @@ A: Bulk scheduler uses one style, but you can create separate batches
 
 - [Bulk Scheduler Guide](../../../guides/features/bulk-scheduler.md) - Detailed guide
 - [Monthly Workflow Guide](../../../guides/workflows/monthly-workflow.md) - Complete process
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start bulk scheduling
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start bulk scheduling
 
 ---
 
-**Ready to plan your month?** [Next Lesson →](./lesson-7-idea-discovery.md)
+**Ready to plan your month?** [Next Lesson ](./lesson-7-idea-discovery.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start bulk scheduling your content today!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and start bulk scheduling your content today!*
+
 
 
 

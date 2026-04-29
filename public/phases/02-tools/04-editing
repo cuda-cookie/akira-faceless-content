@@ -1,6 +1,6 @@
 # Lesson 4: Video Editing & Customization
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Master video editing to perfect your content
 
 ---
@@ -471,23 +471,24 @@
 
 ## Next Lesson
 
-**[Lesson 5: Character Consistency for Brand Building →](./lesson-5-character-consistency.md)**
+**[Lesson 5: Character Consistency for Brand Building ](./lesson-5-character-consistency.md)**
 
 ---
 
 ## Resources
 
 - [Video Editing Guide](../../../guides/features/video-editing.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start editing
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start editing
 - [Best Practices Guide](../../../guides/resources/best-practices.md) - More tips
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-5-character-consistency.md)
+**Ready to continue?** [Next Lesson ](./lesson-5-character-consistency.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start editing your videos to perfection!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and start editing your videos to perfection!*
+
 
 
 

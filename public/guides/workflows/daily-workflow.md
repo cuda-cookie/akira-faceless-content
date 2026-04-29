@@ -54,7 +54,7 @@ Create professional faceless videos in just 5 minutes using this proven daily wo
 **Options**:
 - **Publish Now**: Immediate
 - **Schedule**: Choose time
-- **Auto-generate**: Description and tags ✓
+- **Auto-generate**: Description and tags 
 
 **CTA**: Add affiliate link or call to action
 
@@ -168,19 +168,19 @@ Create professional faceless videos in just 5 minutes using this proven daily wo
 
 ## Common Questions
 
-**Q: How many videos per day?**  
+**Q: How many videos per day?** 
 A: 1-3 videos per day is optimal for growth
 
-**Q: What time to post?**  
+**Q: What time to post?** 
 A: 9 AM and 7 PM are optimal times
 
-**Q: How long should videos be?**  
+**Q: How long should videos be?** 
 A: Under 1 minute for shorts, 5-10 minutes for long-form
 
-**Q: Can I skip days?**  
+**Q: Can I skip days?** 
 A: Consistency is key - try not to skip
 
-**Q: How to maintain quality?**  
+**Q: How to maintain quality?** 
 A: Use proven formulas, test and learn
 
 ## Next Steps
@@ -191,7 +191,8 @@ A: Use proven formulas, test and learn
 
 ---
 
-**Start today!** [Create your first video →](../getting-started/your-first-video.md)
+**Start today!** [Create your first video ](../getting-started/your-first-video.md)
+
 
 
 

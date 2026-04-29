@@ -4,15 +4,15 @@
 
 ---
 
-## 🎯 Module Overview
+## Module Overview
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Get set up and ready to succeed
 
 In this module, you'll:
 - Understand what you'll achieve
 - See real success stories
-- Set up your [Syllaby.io account](https://syllaby.io/?via=chris56)
+- Set up your [Syllaby.io account](https://Syllaby.io/?via=chris56)
 - Connect your social media accounts
 - Prepare for success
 
@@ -22,50 +22,50 @@ In this module, you'll:
 
 ### Welcome to Your Transformation
 
-Congratulations! You're about to embark on a journey that will change how you create content forever. This course isn't just about learning a tool—it's about building a profitable business.
+Congratulations! You're about to embark on a journey that will change how you create content forever. This course isn't just about learning a toolit's about building a profitable business.
 
 ### What You're About to Learn
 
 By the end of this course, you will:
 
 1. **Create Professional Videos in 5 Minutes**
-   - No video editing experience needed
-   - AI does the heavy lifting
-   - Professional quality every time
+ - No video editing experience needed
+ - AI does the heavy lifting
+ - Professional quality every time
 
 2. **Get Monetized on All Platforms in 2-3 Weeks**
-   - YouTube Partner Program
-   - TikTok Creator Fund
-   - Instagram monetization
-   - Facebook monetization
+ - YouTube Partner Program
+ - TikTok Creator Fund
+ - Instagram monetization
+ - Facebook monetization
 
 3. **Generate $1,000+/Month in Passive Income**
-   - Multiple revenue streams
-   - Automated content creation
-   - Scalable business model
+ - Multiple revenue streams
+ - Automated content creation
+ - Scalable business model
 
 4. **Master Every Syllaby.io Feature**
-   - Faceless video generator
-   - Bulk scheduler
-   - Idea discovery
-   - Advanced features
+ - Faceless video generator
+ - Bulk scheduler
+ - Idea discovery
+ - Advanced features
 
 5. **Build a Scalable Content Business**
-   - Systems that work
-   - Processes that scale
-   - Business that grows
+ - Systems that work
+ - Processes that scale
+ - Business that grows
 
 ### Why This Course Works
 
 **Real Results from Real People**:
 
-- **150,000+ users** have signed up for [Syllaby.io](https://syllaby.io/?via=chris56)
+- **150,000+ users** have signed up for [Syllaby.io](https://Syllaby.io/?via=chris56)
 - **250,000+ videos** created in the platform
 - Users growing from **10 to 65+ subscribers in days**
 - Videos reaching **1,300-1,500 views** (vs. previous 50-60)
 - Some creators generating **$19,000+ in 7 days**
 
-**This isn't theory—this is proven.**
+**This isn't theorythis is proven.**
 
 ---
 
@@ -121,7 +121,7 @@ Traditional video creation is **broken**:
 > "WOW!!! I woke up expecting to work from 6:30am until noon making content... went into Syllaby.io and once again... I had all 4 of my shorts completed by 7:45am, scheduled them out throughout the day and I'm already at the pool with my family. Without A.I. this would've taken me half of the day."
 
 **Greg Beazley** (@grey_22):
-> "Syllaby is WILD! I just created and scheduled 10 videos to YouTube and TikTok in about 30 minutes!! 🤯"
+> "Syllaby is WILD! I just created and scheduled 10 videos to YouTube and TikTok in about 30 minutes!! "
 
 **Tim Sackrider** (@tim_5555):
 > "I'm having a blast with this! I started a YouTube channel this afternoon and I'm at 700 views and 3 subscribers!"
@@ -151,14 +151,14 @@ These people started exactly where you are. They:
 
 ### What is Syllaby.io?
 
-[Syllaby.io](https://syllaby.io/?via=chris56) is the **only A-to-Z workflow video marketing tool** that handles:
+[Syllaby.io](https://Syllaby.io/?via=chris56) is the **only A-to-Z workflow video marketing tool** that handles:
 
-- ✅ **Idea Discovery**: Find viral topics
-- ✅ **AI Script Generation**: Write scripts automatically
-- ✅ **Video Creation**: Faceless, avatars, B-roll
-- ✅ **Multi-Platform Publishing**: Post everywhere
-- ✅ **Content Scheduling**: Plan months ahead
-- ✅ **Analytics Tracking**: Measure performance
+- **Idea Discovery**: Find viral topics
+- **AI Script Generation**: Write scripts automatically
+- **Video Creation**: Faceless, avatars, B-roll
+- **Multi-Platform Publishing**: Post everywhere
+- **Content Scheduling**: Plan months ahead
+- **Analytics Tracking**: Measure performance
 
 ### Why Syllaby.io?
 
@@ -194,13 +194,13 @@ These people started exactly where you are. They:
 
 ### Step 1: Create Your Free Trial
 
-**[👉 Click Here to Start Your Free Trial](https://syllaby.io/?via=chris56)**
+**[ Click Here to Start Your Free Trial](https://Syllaby.io/?via=chris56)**
 
 **Why Start Now?**:
-- ✅ **No credit card required** for trial
-- ✅ **Full access** to all features
-- ✅ **Start creating immediately**
-- ✅ **Cancel anytime**
+- **No credit card required** for trial
+- **Full access** to all features
+- **Start creating immediately**
+- **Cancel anytime**
 
 **What to Do**:
 1. Click the link above
@@ -229,10 +229,10 @@ Once you're in, take 10 minutes to:
 **How to Connect**:
 1. Go to "Accounts" in left sidebar
 2. Click "Connect" for each platform:
-   - YouTube (most important)
-   - TikTok
-   - Instagram
-   - Facebook
+ - YouTube (most important)
+ - TikTok
+ - Instagram
+ - Facebook
 3. Authorize access
 4. Done!
 
@@ -251,11 +251,11 @@ Before moving forward, write down:
 
 ---
 
-## 🎯 Action Items
+## Action Items
 
 **Complete These Before Moving to Module 1**:
 
-- [ ] Create your [Syllaby.io account](https://syllaby.io/?via=chris56) (free trial)
+- [ ] Create your [Syllaby.io account](https://Syllaby.io/?via=chris56) (free trial)
 - [ ] Explore the dashboard for 10 minutes
 - [ ] Connect at least one social media account (YouTube recommended)
 - [ ] Write down your goals (niche, goals, timeline, why)
@@ -266,23 +266,23 @@ Before moving forward, write down:
 
 ---
 
-## ✅ Module 0 Complete!
+## Module 0 Complete!
 
 **Congratulations!** You've completed the introduction module.
 
 **What You've Accomplished**:
-- ✅ Understand what you'll achieve
-- ✅ See real success stories
-- ✅ Set up your account
-- ✅ Connected social media
-- ✅ Set your goals
+- Understand what you'll achieve
+- See real success stories
+- Set up your account
+- Connected social media
+- Set your goals
 
 **You're Ready For**:
 - **[Module 1: Foundations](./../module-1/)**
 
 ---
 
-## 🚀 Next Steps
+## Next Steps
 
 1. **Complete all action items above**
 2. **Move to Module 1**: [Foundations of Faceless Video Content](./../module-1/)
@@ -290,7 +290,7 @@ Before moving forward, write down:
 
 ---
 
-## 💡 Pro Tips
+## Pro Tips
 
 - **Don't Skip Setup**: Proper setup saves time later
 - **Connect All Platforms**: Even if you focus on one, connect all
@@ -300,7 +300,7 @@ Before moving forward, write down:
 
 ---
 
-## 🆘 Need Help?
+## Need Help?
 
 - **FAQ**: [Frequently Asked Questions](../../guides/resources/faq.md)
 - **Troubleshooting**: [Troubleshooting Guide](../../guides/resources/troubleshooting.md)
@@ -308,11 +308,12 @@ Before moving forward, write down:
 
 ---
 
-**Ready for Module 1?** [Let's Go →](./../module-1/)
+**Ready for Module 1?** [Let's Go ](./../module-1/)
 
 ---
 
-*Remember: [Get your Syllaby.io account here](https://syllaby.io/?via=chris56) if you haven't already!*
+*Remember: [Get your Syllaby.io account here](https://Syllaby.io/?via=chris56) if you haven't already!*
+
 
 
 

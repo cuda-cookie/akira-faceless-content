@@ -1,6 +1,6 @@
 # Lesson 3: Thumbnail Design That Gets Clicks
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Create thumbnails that get 5%+ click-through rates
 
 ---
@@ -82,7 +82,7 @@
 - Generic stock photos
 - Irrelevant images
 
-**Pro Tip**: Use [Syllaby.io's Thumbnail Generator](https://syllaby.io/?via=chris56) or create custom images.
+**Pro Tip**: Use [Syllaby.io's Thumbnail Generator](https://Syllaby.io/?via=chris56) or create custom images.
 
 ---
 
@@ -197,7 +197,7 @@
 ### Method 3: Hybrid Approach
 
 **Process**:
-1. Use [Syllaby.io](https://syllaby.io/?via=chris56) for base
+1. Use [Syllaby.io](https://Syllaby.io/?via=chris56) for base
 2. Edit in Canva/Photoshop
 3. Add text, branding
 4. Finalize design
@@ -307,7 +307,7 @@
 
 **Master thumbnail design**:
 
-- [ ] Create 10 thumbnails using [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Create 10 thumbnails using [Syllaby.io](https://Syllaby.io/?via=chris56)
 - [ ] Test different text overlays
 - [ ] Experiment with colors
 - [ ] Study top performers in your niche
@@ -326,30 +326,31 @@
 2. **5%+ CTR** = algorithm boost
 3. **Test everything** = find what works
 4. **Brand consistency** = recognition
-5. **Use [Syllaby.io Generator](https://syllaby.io/?via=chris56)** = quick creation
+5. **Use [Syllaby.io Generator](https://Syllaby.io/?via=chris56)** = quick creation
 6. **A/B test** = data-driven optimization
 
 ---
 
 ## Next Lesson
 
-**[Lesson 4: Titles That Rank & Convert →](./lesson-4-titles.md)**
+**[Lesson 4: Titles That Rank & Convert ](./lesson-4-titles.md)**
 
 ---
 
 ## Resources
 
 - [Thumbnail Generator Guide](../../../guides/features/thumbnail-generator.md) - How to use
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start generating thumbnails
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start generating thumbnails
 - [Best Practices Guide](../../../guides/resources/best-practices.md) - More tips
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-4-titles.md)
+**Ready to continue?** [Next Lesson ](./lesson-4-titles.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start creating click-worthy thumbnails!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and start creating click-worthy thumbnails!*
+
 
 
 

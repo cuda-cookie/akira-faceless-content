@@ -4,7 +4,7 @@ import Link from 'next/link';
 import { PHASES, getTotalLessons } from '@/data/phases';
 import { useProgress } from '@/components/ProgressProvider';
 import { useEffect, useState } from 'react';
-import { Rocket, BookOpen, Wrench, Pencil, Video, DollarSign, TrendingUp, Users, Smartphone, Zap, Trophy, CheckCircle2, ArrowRight, Sword, Sparkles, Home as HomeIcon, Map, Grid3x3 } from 'lucide-react';
+import { Rocket, BookOpen, Wrench, Pencil, Video, DollarSign, TrendingUp, Users, Smartphone, Zap, Trophy, CheckCircle2, ArrowRight, Sword, Sparkles, Home as HomeIcon, Map, Grid3x3, Brain, Waves, UserRound, Mic2, Database, Lightbulb } from 'lucide-react';
 
 export default function Home() {
   const { completedLessons } = useProgress();
@@ -79,7 +79,7 @@ export default function Home() {
             <div style={{ display: 'flex', alignItems: 'center', gap: '12px' }}>
               <div style={{ width: '40px', height: '2px', background: '#ff2c2c' }} />
               <div style={{ fontSize: '14px', fontWeight: 900, color: '#ff2c2c', letterSpacing: '4px', textTransform: 'uppercase' }}>
-                Project AKIRA // SYSTEM_V2.5
+                Project AKIRA // System v2.5
               </div>
             </div>
             
@@ -126,7 +126,7 @@ export default function Home() {
                   border: '1px solid #000'
                 }}
               >
-                INITIALIZE_SYSTEM.exe
+                Get Started
               </Link>
               <Link
                 href="/roadmap"
@@ -142,7 +142,7 @@ export default function Home() {
                   border: '1px solid rgba(0,0,0,0.1)'
                 }}
               >
-                VIEW_ROADMAP <ArrowRight size={18} />
+                View Roadmap <ArrowRight size={18} />
               </Link>
             </div>
           </div>
@@ -150,7 +150,7 @@ export default function Home() {
           <div className="hero-right-col">
             <div className="tech-border animate-float" style={{ width: '100%', maxWidth: '450px' }}>
               <img src="/logo.jpeg" alt="AKIRA Mascot" style={{ width: '100%', height: 'auto', display: 'block' }} />
-              <div style={{ position: 'absolute', top: '10px', left: '10px', background: 'rgba(255,44,44,0.9)', color: 'white', padding: '4px 12px', fontSize: '10px', fontWeight: 900 }}>AKARI_UNIT_01</div>
+              <div style={{ position: 'absolute', top: '10px', left: '10px', background: 'rgba(255,44,44,0.9)', color: 'white', padding: '4px 12px', fontSize: '10px', fontWeight: 900 }}>Akira Unit 01</div>
               <div style={{ position: 'absolute', bottom: '10px', right: '10px', color: '#ff2c2c', fontSize: '40px', fontWeight: 900, opacity: 0.2 }}>明</div>
               {/* Floating Hiragana */}
               <div style={{ position: 'absolute', top: '-20px', right: '-20px', fontSize: '32px', color: '#ff2c2c', opacity: 0.3, fontWeight: 900 }}>あ</div>
@@ -181,7 +181,7 @@ export default function Home() {
                   <h3 style={{ fontSize: '20px', fontWeight: 900, marginBottom: '12px', color: '#1a1a1a' }}>{feature.title}</h3>
                   <p style={{ color: '#666', fontSize: '14px', lineHeight: 1.6 }}>{feature.desc}</p>
                   <div style={{ marginTop: '20px', fontSize: '11px', fontWeight: 800, color: '#ff2c2c', display: 'flex', alignItems: 'center', gap: '8px' }}>
-                    ENTER_MODULE <ArrowRight size={14} />
+                    Enter Module <ArrowRight size={14} />
                   </div>
                 </div>
               </Link>
@@ -193,10 +193,22 @@ export default function Home() {
         <section style={{ marginBottom: '120px', display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(400px, 1fr))', gap: '80px', alignItems: 'center' }}>
           <div className="tech-border animate-float" style={{ padding: '40px', background: 'rgba(255,44,44,0.02)' }}>
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '20px' }}>
-              <div style={{ height: '120px', background: 'white', border: '1px solid rgba(0,0,0,0.05)', borderRadius: '12px', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 900, color: '#ff2c2c', textAlign: 'center', padding: '10px' }}>SYLLABY</div>
-              <div style={{ height: '120px', background: 'white', border: '1px solid rgba(0,0,0,0.05)', borderRadius: '12px', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 900, color: '#1a1a1a', textAlign: 'center', padding: '10px' }}>VIRALWAVE</div>
-              <div style={{ height: '120px', background: 'white', border: '1px solid rgba(0,0,0,0.05)', borderRadius: '12px', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 900, color: '#1a1a1a', textAlign: 'center', padding: '10px' }}>HEYGEN</div>
-              <div style={{ height: '120px', background: 'white', border: '1px solid rgba(0,0,0,0.05)', borderRadius: '12px', display: 'flex', alignItems: 'center', justifyContent: 'center', fontWeight: 900, color: '#ff2c2c', textAlign: 'center', padding: '10px' }}>ELEVENLABS</div>
+              <div style={{ height: '120px', background: 'white', border: '1px solid rgba(0,0,0,0.05)', borderRadius: '12px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px', gap: '10px' }}>
+                <Brain size={32} color="#ff2c2c" strokeWidth={1.5} />
+                <span style={{ fontSize: '12px', fontWeight: 900, color: '#1a1a1a', letterSpacing: '1px' }}>SYLLABY</span>
+              </div>
+              <div style={{ height: '120px', background: 'white', border: '1px solid rgba(0,0,0,0.05)', borderRadius: '12px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px', gap: '10px' }}>
+                <Waves size={32} color="#1a1a1a" strokeWidth={1.5} />
+                <span style={{ fontSize: '12px', fontWeight: 900, color: '#1a1a1a', letterSpacing: '1px' }}>VIRALWAVE</span>
+              </div>
+              <div style={{ height: '120px', background: 'white', border: '1px solid rgba(0,0,0,0.05)', borderRadius: '12px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px', gap: '10px' }}>
+                <UserRound size={32} color="#1a1a1a" strokeWidth={1.5} />
+                <span style={{ fontSize: '12px', fontWeight: 900, color: '#1a1a1a', letterSpacing: '1px' }}>HEYGEN</span>
+              </div>
+              <div style={{ height: '120px', background: 'white', border: '1px solid rgba(0,0,0,0.05)', borderRadius: '12px', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', padding: '20px', gap: '10px' }}>
+                <Mic2 size={32} color="#ff2c2c" strokeWidth={1.5} />
+                <span style={{ fontSize: '12px', fontWeight: 900, color: '#1a1a1a', letterSpacing: '1px' }}>ELEVENLABS</span>
+              </div>
             </div>
           </div>
           <div>
@@ -209,7 +221,7 @@ export default function Home() {
               display: 'inline-flex', alignItems: 'center', gap: '12px', padding: '16px 32px', 
               background: '#1a1a1a', color: 'white', fontWeight: 800, textDecoration: 'none' 
             }}>
-              EXPLORE_TOOLS.md <Wrench size={18} />
+              Explore Tools <Wrench size={18} />
             </Link>
           </div>
         </section>
@@ -227,17 +239,16 @@ export default function Home() {
               background: '#ff2c2c', color: 'white', fontWeight: 800, textDecoration: 'none',
               boxShadow: '0 8px 24px rgba(255, 44, 44, 0.2)'
             }}>
-              ACCESS_IDEAS.md <Video size={18} />
+              Access Ideas <Video size={18} />
             </Link>
           </div>
-          <div className="tech-border animate-float" style={{ order: 1, padding: '40px', background: 'rgba(0,0,0,0.02)', position: 'relative', overflow: 'hidden' }}>
-             <div style={{ fontSize: '10px', color: '#ff2c2c', opacity: 0.1, whiteSpace: 'pre', fontFamily: 'monospace' }}>
-                {`[DATA_MINING] ... OK\n[IDEA_GENERATION] ... OK\n[NICHE_SELECTION] ... OK\n[MARKET_ANALYSIS] ... OK`}
-             </div>
-             <div style={{ marginTop: '20px', fontSize: '48px', fontWeight: 900, color: '#1a1a1a', textAlign: 'center' }}>
-                IDEA_BANK
-             </div>
+          <div className="tech-border animate-float" style={{ order: 1, padding: '60px', background: 'rgba(0,0,0,0.02)', position: 'relative', overflow: 'hidden', display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', minHeight: '300px', gap: '24px' }}>
+             <Database size={80} color="#1a1a1a" strokeWidth={1} style={{ opacity: 0.8 }} />
+             <div style={{ fontSize: '24px', fontWeight: 900, color: '#1a1a1a', letterSpacing: '8px' }}>IDEA BANK</div>
              <div style={{ position: 'absolute', bottom: '10px', right: '10px', fontSize: '80px', opacity: 0.05, fontWeight: 900 }}>想</div>
+             <div style={{ position: 'absolute', top: '20px', left: '20px' }}>
+                <Lightbulb size={24} color="#ff2c2c" className="animate-pulse" />
+             </div>
           </div>
         </section>
 
@@ -268,7 +279,7 @@ export default function Home() {
               display: 'inline-flex', alignItems: 'center', gap: '12px', padding: '16px 32px', 
               background: '#1a1a1a', color: 'white', fontWeight: 800, textDecoration: 'none' 
             }}>
-              OPEN_LIBRARY.lib <BookOpen size={18} />
+              Open Library <BookOpen size={18} />
             </Link>
           </div>
         </section>

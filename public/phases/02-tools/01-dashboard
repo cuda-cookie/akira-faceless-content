@@ -1,13 +1,13 @@
 # Lesson 1: Dashboard Deep Dive
 
-**Duration**: 20 minutes  
+**Duration**: 20 minutes 
 **Goal**: Master the Syllaby.io dashboard for efficient content creation
 
 ---
 
 ## Dashboard Overview
 
-The [Syllaby.io](https://syllaby.io/?via=chris56) dashboard is your command center. Understanding every element helps you work faster and more efficiently.
+The [Syllaby.io](https://Syllaby.io/?via=chris56) dashboard is your command center. Understanding every element helps you work faster and more efficiently.
 
 ---
 
@@ -321,25 +321,26 @@ The [Syllaby.io](https://syllaby.io/?via=chris56) dashboard is your command cent
 
 ## Next Lesson
 
-**[Lesson 2: Faceless Video Generator →](./lesson-2-faceless-generator.md)** (Already Complete)
+**[Lesson 2: Faceless Video Generator ](./lesson-2-faceless-generator.md)** (Already Complete)
 
-**Then**: [Lesson 3: AI Script Generation →](./lesson-3-ai-scripts.md)
+**Then**: [Lesson 3: AI Script Generation ](./lesson-3-ai-scripts.md)
 
 ---
 
 ## Resources
 
 - [Dashboard Overview Guide](../../../guides/getting-started/dashboard-overview.md) - Detailed guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Explore the dashboard
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Explore the dashboard
 - [Your First Video Guide](../../../guides/getting-started/your-first-video.md) - Start creating
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-3-ai-scripts.md)
+**Ready to continue?** [Next Lesson ](./lesson-3-ai-scripts.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and explore the dashboard to master it!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and explore the dashboard to master it!*
+
 
 
 

@@ -1,6 +1,6 @@
 # Lesson 5: Video Sponsorships & Brand Deals
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Land video sponsorships and brand deals for premium income
 
 ---
@@ -153,7 +153,7 @@
 - Fits your content
 - Better performance
 
-**Pro Tip**: Use [Syllaby.io](https://syllaby.io/?via=chris56) to create professional sponsored video content.
+**Pro Tip**: Use [Syllaby.io](https://Syllaby.io/?via=chris56) to create professional sponsored video content.
 
 ---
 
@@ -176,7 +176,7 @@
 
 **For Specific Messaging**:
 1. Write sponsored script
-2. Create video with [Syllaby.io](https://syllaby.io/?via=chris56)
+2. Create video with [Syllaby.io](https://Syllaby.io/?via=chris56)
 3. Professional quality
 4. Consistent with brand
 5. Publish
@@ -249,7 +249,7 @@
 
 ---
 
-### 4. Use [Syllaby.io](https://syllaby.io/?via=chris56) for All Sponsored Content
+### 4. Use [Syllaby.io](https://Syllaby.io/?via=chris56) for All Sponsored Content
 
 **Benefits**:
 - Professional quality
@@ -283,7 +283,7 @@
 1. **Video sponsorships** = highest per-deal revenue
 2. **Build audience first** = deals will come
 3. **Engagement matters** = higher rates
-4. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = professional sponsored content
+4. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = professional sponsored content
 5. **Long-term partnerships** = stable income
 6. **Be authentic** = builds trust and credibility
 
@@ -291,20 +291,21 @@
 
 ## Next Lesson
 
-**[Lesson 6: Multi-Platform Monetization →](./lesson-6-multi-platform.md)**
+**[Lesson 6: Multi-Platform Monetization ](./lesson-6-multi-platform.md)**
 
 ---
 
 ## Resources
 
 - [Revenue Streams Guide](../../../guides/monetization/revenue-streams.md) - Complete guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create sponsored content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create sponsored content
 - [Community Building Guide](../../../guides/strategies/community-building.md) - Build engaged audience
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-6-multi-platform.md)
+**Ready to continue?** [Next Lesson ](./lesson-6-multi-platform.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create professional sponsored video content!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create professional sponsored video content!*
+

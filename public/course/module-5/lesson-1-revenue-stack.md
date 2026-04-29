@@ -1,6 +1,6 @@
 # Lesson 1: Video Revenue Streams Overview
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Understand all revenue streams available from faceless video content
 
 ---
@@ -17,7 +17,7 @@
 
 ## The 4 Main Video Revenue Streams
 
-### Stream 1: YouTube AdSense ⭐⭐⭐
+### Stream 1: YouTube AdSense 
 
 **What It Is**:
 - Base income from video views
@@ -38,11 +38,11 @@
 
 **Setup Time**: Already done (when monetized)
 
-**Passive Level**: ⭐⭐⭐⭐⭐ (Fully passive after creation)
+**Passive Level**: (Fully passive after creation)
 
 ---
 
-### Stream 2: Affiliate Marketing Through Videos ⭐⭐⭐⭐⭐
+### Stream 2: Affiliate Marketing Through Videos 
 
 **What It Is**:
 - Recommend products in your videos
@@ -60,7 +60,7 @@
 - Build trust first
 - Track conversions
 
-**Using [Syllaby.io URL to Video](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io URL to Video](https://Syllaby.io/?via=chris56)**:
 - Paste product URL
 - Auto-generate video
 - No image credits
@@ -68,11 +68,11 @@
 
 **Setup Time**: 1-2 hours (join programs, get links)
 
-**Passive Level**: ⭐⭐⭐⭐ (Passive after creation)
+**Passive Level**: (Passive after creation)
 
 ---
 
-### Stream 3: Video Sponsorships & Brand Deals ⭐⭐⭐⭐
+### Stream 3: Video Sponsorships & Brand Deals 
 
 **What It Is**:
 - Brands pay you to promote in videos
@@ -92,11 +92,11 @@
 
 **Setup Time**: Ongoing (build audience first)
 
-**Passive Level**: ⭐⭐⭐ (Requires pitching/negotiation)
+**Passive Level**: (Requires pitching/negotiation)
 
 ---
 
-### Stream 4: YouTube Additional Revenue ⭐⭐⭐
+### Stream 4: YouTube Additional Revenue 
 
 **What It Is**:
 - YouTube Memberships
@@ -117,7 +117,7 @@
 
 **Setup Time**: 1-2 hours per feature
 
-**Passive Level**: ⭐⭐⭐⭐ (Passive after setup)
+**Passive Level**: (Passive after setup)
 
 ---
 
@@ -236,7 +236,7 @@
 
 ---
 
-### 2. Use [Syllaby.io](https://syllaby.io/?via=chris56) for All
+### 2. Use [Syllaby.io](https://Syllaby.io/?via=chris56) for All
 
 **Benefits**:
 - Create affiliate content easily
@@ -276,7 +276,7 @@
 
 - [ ] Optimize AdSense (already done if monetized)
 - [ ] Join 5 affiliate programs
-- [ ] Create first affiliate video using [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Create first affiliate video using [Syllaby.io](https://Syllaby.io/?via=chris56)
 - [ ] Enable YouTube additional features
 - [ ] Set up for brand deals (when ready)
 - [ ] Track revenue per stream
@@ -293,13 +293,13 @@
 3. **YouTube extras** = additional revenue
 4. **Sponsorships** = premium income
 5. **Multi-platform** = maximum revenue
-6. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = easy content creation
+6. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = easy content creation
 
 ---
 
 ## Next Lesson
 
-**[Lesson 2: YouTube AdSense Optimization →](./lesson-2-adsense.md)**
+**[Lesson 2: YouTube AdSense Optimization ](./lesson-2-adsense.md)**
 
 ---
 
@@ -307,12 +307,13 @@
 
 - [YouTube Monetization Guide](../../../guides/monetization/youtube-monetization.md) - Detailed guide
 - [Affiliate Marketing Guide](../../../guides/monetization/affiliate-marketing.md) - Complete strategy
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create monetizable content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create monetizable content
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-2-adsense.md)
+**Ready to continue?** [Next Lesson ](./lesson-2-adsense.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create content that generates revenue!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create content that generates revenue!*
+

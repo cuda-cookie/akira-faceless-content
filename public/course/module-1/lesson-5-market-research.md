@@ -1,6 +1,6 @@
 # Lesson 5: Market Research & Validation
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Validate your niche and understand your market before creating content
 
 ---
@@ -34,7 +34,7 @@
 
 **How to Research**:
 
-**1. Use [Syllaby.io's Idea Discovery](https://syllaby.io/?via=chris56)**:
+**1. Use [Syllaby.io's Idea Discovery](https://Syllaby.io/?via=chris56)**:
 - Enter your niche keyword
 - Get 10 results with data
 - Check search volume
@@ -59,10 +59,10 @@
 - Identify pain points
 
 **What to Look For**:
-- ✅ High search volume
-- ✅ Rising trends
-- ✅ Consistent demand
-- ✅ Growing interest
+- High search volume
+- Rising trends
+- Consistent demand
+- Growing interest
 
 ---
 
@@ -100,10 +100,10 @@
 - Community strength
 
 **What to Look For**:
-- ✅ Moderate competition (10-50 channels)
-- ✅ Quality you can match/beat
-- ✅ Engagement opportunities
-- ✅ Content gaps to fill
+- Moderate competition (10-50 channels)
+- Quality you can match/beat
+- Engagement opportunities
+- Content gaps to fill
 
 ---
 
@@ -142,10 +142,10 @@
 - Missing topics
 
 **What to Look For**:
-- ✅ Clear gaps in market
-- ✅ Solvable problems
-- ✅ Growing trends
-- ✅ Weak competition
+- Clear gaps in market
+- Solvable problems
+- Growing trends
+- Weak competition
 
 ---
 
@@ -184,10 +184,10 @@
 - Evaluate demand
 
 **What to Look For**:
-- ✅ High CPM rates
-- ✅ Good affiliate programs
-- ✅ Product opportunities
-- ✅ Course potential
+- High CPM rates
+- Good affiliate programs
+- Product opportunities
+- Course potential
 
 ---
 
@@ -202,7 +202,7 @@
 - Instant creation option
 
 **How to Use**:
-1. Go to Idea Discovery in [Syllaby.io](https://syllaby.io/?via=chris56)
+1. Go to Idea Discovery in [Syllaby.io](https://Syllaby.io/?via=chris56)
 2. Enter your niche keyword
 3. Review results and data
 4. Select winning topics
@@ -325,10 +325,10 @@
 
 ### Overall Validation
 
-**If you score 16-20 checks**: ✅ **Excellent niche - proceed**
-**If you score 12-15 checks**: 🟡 **Good niche - proceed with caution**
-**If you score 8-11 checks**: ⚠️ **Rethink niche - may be challenging**
-**If you score below 8**: ❌ **Poor niche - find different one**
+**If you score 16-20 checks**: **Excellent niche - proceed**
+**If you score 12-15 checks**: **Good niche - proceed with caution**
+**If you score 8-11 checks**: **Rethink niche - may be challenging**
+**If you score below 8**: **Poor niche - find different one**
 
 ---
 
@@ -337,34 +337,34 @@
 ### Niche: "AI for Content Creation"
 
 **Demand Validation**:
-- ✅ High search volume: 10,000+ monthly
-- ✅ Rising trend: +200% in 6 months
-- ✅ Consistent interest: Growing
-- ✅ Multiple topics: AI tools, prompts, workflows
-- ✅ Growing market: Early adopter phase
+- High search volume: 10,000+ monthly
+- Rising trend: +200% in 6 months
+- Consistent interest: Growing
+- Multiple topics: AI tools, prompts, workflows
+- Growing market: Early adopter phase
 
 **Competition Analysis**:
-- ✅ 25 competitors (moderate)
-- ✅ Quality: Can match with [Syllaby.io](https://syllaby.io/?via=chris56)
-- ✅ Engagement: High (5%+)
-- ✅ Content gaps: Advanced strategies, workflows
-- ✅ Not oversaturated: Room for new creators
+- 25 competitors (moderate)
+- Quality: Can match with [Syllaby.io](https://Syllaby.io/?via=chris56)
+- Engagement: High (5%+)
+- Content gaps: Advanced strategies, workflows
+- Not oversaturated: Room for new creators
 
 **Opportunity Identification**:
-- ✅ Content gaps: Specific workflows
-- ✅ Underserved: Beginners, advanced users
-- ✅ New angles: Case studies, comparisons
-- ✅ Trends: New AI tools weekly
-- ✅ Differentiation: Focus on results
+- Content gaps: Specific workflows
+- Underserved: Beginners, advanced users
+- New angles: Case studies, comparisons
+- Trends: New AI tools weekly
+- Differentiation: Focus on results
 
 **Monetization Validation**:
-- ✅ High CPM: $10-20 per 1,000 views
-- ✅ Affiliates: AI tools (20-50% commission)
-- ✅ Products: Templates, courses
-- ✅ Course demand: High
-- ✅ Multiple streams: All available
+- High CPM: $10-20 per 1,000 views
+- Affiliates: AI tools (20-50% commission)
+- Products: Templates, courses
+- Course demand: High
+- Multiple streams: All available
 
-**Overall Score**: 20/20 ✅ **Excellent niche**
+**Overall Score**: 20/20 **Excellent niche**
 
 ---
 
@@ -398,7 +398,7 @@
 
 ## Next Lesson
 
-**[Lesson 6: Setting Up Your First Channel →](./lesson-6-channel-setup.md)**
+**[Lesson 6: Setting Up Your First Channel ](./lesson-6-channel-setup.md)**
 
 ---
 
@@ -407,15 +407,16 @@
 - [Idea Discovery Guide](../../../guides/features/idea-discovery.md) - How to use
 - [Niche Selection Guide](../../../guides/niches/niche-selection.md) - More strategies
 - [Top Paying Niches](../../../guides/niches/top-paying-niches.md) - CPM rates
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start researching
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start researching
 
 ---
 
-**Ready to set up your channel?** [Next Lesson →](./lesson-6-channel-setup.md)
+**Ready to set up your channel?** [Next Lesson ](./lesson-6-channel-setup.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and use Idea Discovery to validate your niche!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and use Idea Discovery to validate your niche!*
+
 
 
 

@@ -107,7 +107,7 @@ Complete guide to creating faceless video content in the health and wellness nic
 
 ## Content Creation Tips
 
-### Using [Syllaby.io](https://syllaby.io/?via=chris56)
+### Using [Syllaby.io](https://Syllaby.io/?via=chris56)
 
 **Best Features**:
 - AI Script Assistant for educational content
@@ -157,7 +157,7 @@ Complete guide to creating faceless video content in the health and wellness nic
 
 **Strategy**: Show exercises, meals, products
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**: Professional visuals automatically
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**: Professional visuals automatically
 
 **Result**: Better engagement.
 
@@ -178,7 +178,7 @@ Complete guide to creating faceless video content in the health and wellness nic
 **Start in Health & Wellness Niche**:
 
 - [ ] Choose sub-niche
-- [ ] Research topics using [Idea Discovery](https://syllaby.io/?via=chris56)
+- [ ] Research topics using [Idea Discovery](https://Syllaby.io/?via=chris56)
 - [ ] Create first educational video
 - [ ] Join affiliate programs
 - [ ] Create product review videos
@@ -194,7 +194,7 @@ Complete guide to creating faceless video content in the health and wellness nic
 1. **Health & Wellness** = evergreen demand
 2. **Good CPM** = $3-10 per 1,000 views
 3. **Multiple products** = affiliate opportunities
-4. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = easy content creation
+4. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = easy content creation
 5. **Focus on value** = better engagement
 6. **Stay compliant** = professional approach
 
@@ -204,11 +204,12 @@ Complete guide to creating faceless video content in the health and wellness nic
 
 - [Top Paying Niches Guide](./top-paying-niches.md) - Compare niches
 - [Niche Selection Guide](./niche-selection.md) - Choose your niche
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create health content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create health content
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create health & wellness content!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create health & wellness content!*
+
 
 
 

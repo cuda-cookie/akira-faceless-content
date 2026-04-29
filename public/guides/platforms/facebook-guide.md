@@ -48,7 +48,7 @@ Complete guide to dominating Facebook with faceless video content.
 - Longer tutorials
 - Value-driven content
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**:
 - Create longer content easily
 - Professional quality
 - Consistent output
@@ -85,7 +85,7 @@ Complete guide to dominating Facebook with faceless video content.
 
 **Why**: Consistent posting = algorithm favor
 
-**Using [Syllaby.io](https://syllaby.io/?via=chris56)**:
+**Using [Syllaby.io](https://Syllaby.io/?via=chris56)**:
 - Create videos quickly
 - Consistent quality
 - Easy management
@@ -194,19 +194,20 @@ Complete guide to dominating Facebook with faceless video content.
 2. **Community focus** = higher engagement
 3. **Live streams** = faster growth
 4. **Consistent posting** = algorithm favor
-5. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = consistent quality
+5. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = consistent quality
 
 ---
 
 ## Resources
 
 - [Multi-Platform Strategy Guide](../strategies/multi-platform.md) - Cross-platform
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create Facebook content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create Facebook content
 - [Content Repurposing Guide](../workflows/content-repurposing.md) - Repurpose content
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to dominate Facebook!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to dominate Facebook!*
+
 
 
 

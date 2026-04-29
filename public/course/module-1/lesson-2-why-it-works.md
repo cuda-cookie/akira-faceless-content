@@ -1,13 +1,13 @@
 # Lesson 2: Why This Business Model Works
 
-**Duration**: 20 minutes  
+**Duration**: 20 minutes 
 **Goal**: Understand why faceless video content is a sustainable, profitable business model
 
 ---
 
 ## The Business Model Explained
 
-Faceless video content isn't just a trend—it's a **fundamental shift** in how content is created and consumed. This lesson explains why this business model works and why it's here to stay.
+Faceless video content isn't just a trendit's a **fundamental shift** in how content is created and consumed. This lesson explains why this business model works and why it's here to stay.
 
 ---
 
@@ -48,17 +48,17 @@ Faceless video content isn't just a trend—it's a **fundamental shift** in how 
 ### 1. Low Barriers to Entry
 
 **What You Need**:
-- [Syllaby.io subscription](https://syllaby.io/?via=chris56): $25/month
+- [Syllaby.io subscription](https://Syllaby.io/?via=chris56): $25/month
 - Computer or mobile device
 - Internet connection
 - That's it!
 
 **What You Don't Need**:
-- ❌ Expensive equipment
-- ❌ Video editing skills
-- ❌ On-camera presence
-- ❌ Technical expertise
-- ❌ Large budget
+- Expensive equipment
+- Video editing skills
+- On-camera presence
+- Technical expertise
+- Large budget
 
 **Result**: Anyone can start immediately.
 
@@ -147,7 +147,7 @@ Faceless video content isn't just a trend—it's a **fundamental shift** in how 
 - **Total**: $820-3,050+ upfront + ongoing time
 
 **Faceless Content Creation**:
-- [Syllaby.io](https://syllaby.io/?via=chris56): $25/month
+- [Syllaby.io](https://Syllaby.io/?via=chris56): $25/month
 - Time: 5 minutes per video
 - **Total**: $25/month + minimal time
 
@@ -196,7 +196,7 @@ Faceless video content isn't just a trend—it's a **fundamental shift** in how 
 ### Growing Market
 
 **Statistics**:
-- **150,000+ users** on [Syllaby.io](https://syllaby.io/?via=chris56)
+- **150,000+ users** on [Syllaby.io](https://Syllaby.io/?via=chris56)
 - **250,000+ videos** created
 - **Growing 30%+ annually**
 - **Early adopter phase**
@@ -212,24 +212,24 @@ Faceless video content isn't just a trend—it's a **fundamental shift** in how 
 ### Platform Support
 
 **YouTube**:
-- ✅ Confirmed paying for AI content
-- ✅ Supporting AI creators
-- ✅ No restrictions
+- Confirmed paying for AI content
+- Supporting AI creators
+- No restrictions
 
 **TikTok**:
-- ✅ AI content allowed
-- ✅ Creator Fund available
-- ✅ Growing support
+- AI content allowed
+- Creator Fund available
+- Growing support
 
 **Instagram**:
-- ✅ Reels bonus program
-- ✅ AI content supported
-- ✅ Monetization available
+- Reels bonus program
+- AI content supported
+- Monetization available
 
 **Facebook**:
-- ✅ In-stream ads
-- ✅ AI content allowed
-- ✅ Full monetization
+- In-stream ads
+- AI content allowed
+- Full monetization
 
 **Result**: All major platforms support faceless content.
 
@@ -401,23 +401,24 @@ Faceless video content isn't just a trend—it's a **fundamental shift** in how 
 
 ## Next Lesson
 
-**[Lesson 3: The Economics of Faceless Content →](./lesson-3-economics.md)**
+**[Lesson 3: The Economics of Faceless Content ](./lesson-3-economics.md)**
 
 ---
 
 ## Resources
 
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start your business
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start your business
 - [Success Stories](../../bonuses/success-stories.md) - See real results
 - [Getting Started Guide](../../../guides/getting-started/introduction.md) - Learn more
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-3-economics.md)
+**Ready to continue?** [Next Lesson ](./lesson-3-economics.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and start building your scalable business today!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and start building your scalable business today!*
+
 
 
 

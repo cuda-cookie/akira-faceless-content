@@ -1,13 +1,13 @@
 # Lesson 8: Advanced Features
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Master advanced features for power users
 
 ---
 
 ## Advanced Features Overview
 
-[Syllaby.io](https://syllaby.io/?via=chris56) offers advanced features beyond basic video creation. These features help you create more sophisticated content and scale your business.
+[Syllaby.io](https://Syllaby.io/?via=chris56) offers advanced features beyond basic video creation. These features help you create more sophisticated content and scale your business.
 
 ---
 
@@ -388,38 +388,39 @@
 
 ---
 
-## Module 2 Complete! 🎉
+## Module 2 Complete! 
 
 **Congratulations!** You've completed Module 2: Mastering Syllaby.io.
 
 **What You've Learned**:
-- ✅ Dashboard navigation
-- ✅ Faceless Video Generator mastery
-- ✅ AI Script generation
-- ✅ Video editing
-- ✅ Character consistency
-- ✅ Bulk scheduling
-- ✅ Idea Discovery
-- ✅ Advanced features
+- Dashboard navigation
+- Faceless Video Generator mastery
+- AI Script generation
+- Video editing
+- Character consistency
+- Bulk scheduling
+- Idea Discovery
+- Advanced features
 
 **You're Ready For**:
-- **[Module 3: Content Creation Mastery →](./../module-3/)**
+- **[Module 3: Content Creation Mastery ](./../module-3/)**
 
 ---
 
 ## Resources
 
 - [All Feature Guides](../../../guides/features/) - Complete documentation
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Master all features
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Master all features
 - [Best Practices Guide](../../../guides/resources/best-practices.md) - Optimization tips
 
 ---
 
-**Ready for Module 3?** [Start Content Creation Mastery →](./../module-3/)
+**Ready for Module 3?** [Start Content Creation Mastery ](./../module-3/)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and master all features to scale your content!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and master all features to scale your content!*
+
 
 
 

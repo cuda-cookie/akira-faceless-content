@@ -1,6 +1,6 @@
 # Lesson 2: Niche Expansion Strategies
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Expand into new niches while maintaining focus
 
 ---
@@ -27,7 +27,7 @@
 
 **How**: Expand to related niches
 
-**Example**: Finance → Business → Real Estate
+**Example**: Finance Business Real Estate
 
 **Benefits**: Leverage existing expertise
 
@@ -45,7 +45,7 @@
 
 **How**: Break niche into sub-niches
 
-**Example**: Health → Fitness → Nutrition → Mental Health
+**Example**: Health Fitness Nutrition Mental Health
 
 **Benefits**: Deep expertise, multiple segments
 
@@ -64,7 +64,7 @@
 - [ ] Identify expansion opportunity
 - [ ] Create new channel
 - [ ] Plan content strategy
-- [ ] Use [Syllaby.io](https://syllaby.io/?via=chris56) for content
+- [ ] Use [Syllaby.io](https://Syllaby.io/?via=chris56) for content
 - [ ] Track performance
 - [ ] Adjust strategy
 
@@ -81,11 +81,12 @@
 
 ## Next Lesson
 
-**[Lesson 3: Team Building & Outsourcing →](./lesson-3-team-building.md)**
+**[Lesson 3: Team Building & Outsourcing ](./lesson-3-team-building.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to expand into new niches!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to expand into new niches!*
+
 
 
 

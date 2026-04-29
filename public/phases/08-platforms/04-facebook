@@ -1,6 +1,6 @@
 # Lesson 4: Facebook Video Strategy
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Dominate Facebook for community and revenue
 
 ---
@@ -31,7 +31,7 @@
 - [ ] 1-2 videos/day
 - [ ] Optimal times (9-11 AM, 7-9 PM)
 - [ ] Consistent schedule
-- [ ] Use [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Use [Syllaby.io](https://Syllaby.io/?via=chris56)
 
 ---
 
@@ -65,11 +65,12 @@
 
 ## Next Lesson
 
-**[Lesson 5: Cross-Platform Optimization →](./lesson-5-cross-platform.md)**
+**[Lesson 5: Cross-Platform Optimization ](./lesson-5-cross-platform.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to dominate Facebook!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to dominate Facebook!*
+
 
 
 

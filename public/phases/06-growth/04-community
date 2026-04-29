@@ -1,6 +1,6 @@
 # Lesson 4: Community Building & Engagement
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Build engaged community that drives growth
 
 ---
@@ -181,23 +181,24 @@
 
 ## Next Lesson
 
-**[Lesson 5: SEO & Discoverability →](./lesson-5-seo.md)**
+**[Lesson 5: SEO & Discoverability ](./lesson-5-seo.md)**
 
 ---
 
 ## Resources
 
 - [Community Building Guide](../../../guides/strategies/community-building.md) - Complete guide
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Create engaging content
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Create engaging content
 - [Engagement Strategies](../../../guides/strategies/engagement-strategies.md) - More tips
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-5-seo.md)
+**Ready to continue?** [Next Lesson ](./lesson-5-seo.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to create content that builds community!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to create content that builds community!*
+
 
 
 

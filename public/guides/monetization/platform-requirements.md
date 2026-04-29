@@ -23,7 +23,7 @@ Complete guide to getting monetized on YouTube, TikTok, Instagram, and Facebook.
 
 **Timeline**: 2-3 weeks (aggressive) to 3-6 months (casual)
 
-[Full YouTube Guide →](../platforms/youtube-guide.md)
+[Full YouTube Guide ](../platforms/youtube-guide.md)
 
 ---
 
@@ -47,7 +47,7 @@ Complete guide to getting monetized on YouTube, TikTok, Instagram, and Facebook.
 
 **Timeline**: 2-4 weeks to 10,000 followers
 
-[Full TikTok Guide →](../platforms/tiktok-guide.md)
+[Full TikTok Guide ](../platforms/tiktok-guide.md)
 
 ---
 
@@ -75,7 +75,7 @@ Complete guide to getting monetized on YouTube, TikTok, Instagram, and Facebook.
 
 **Timeline**: 2-6 weeks to 10,000 followers
 
-[Full Instagram Guide →](../platforms/instagram-guide.md)
+[Full Instagram Guide ](../platforms/instagram-guide.md)
 
 ---
 
@@ -103,7 +103,7 @@ Complete guide to getting monetized on YouTube, TikTok, Instagram, and Facebook.
 
 **Timeline**: 1-3 months to 10,000 followers
 
-[Full Facebook Guide →](../platforms/facebook-guide.md)
+[Full Facebook Guide ](../platforms/facebook-guide.md)
 
 ---
 
@@ -111,10 +111,10 @@ Complete guide to getting monetized on YouTube, TikTok, Instagram, and Facebook.
 
 | Platform | Followers | Views Needed | Earnings | Difficulty |
 |----------|-----------|--------------|----------|------------|
-| **YouTube** | 1,000 | 4,000 hours | ⭐⭐⭐⭐⭐ | Medium |
-| **TikTok** | 10,000 | 100K/30 days | ⭐⭐ | Easy |
-| **Instagram** | 10,000 | 1K Reels | ⭐⭐⭐ | Medium |
-| **Facebook** | 10,000 | 600K minutes | ⭐⭐⭐ | Medium |
+| **YouTube** | 1,000 | 4,000 hours | | Medium |
+| **TikTok** | 10,000 | 100K/30 days | | Easy |
+| **Instagram** | 10,000 | 1K Reels | | Medium |
+| **Facebook** | 10,000 | 600K minutes | | Medium |
 
 ---
 
@@ -147,7 +147,8 @@ Complete guide to getting monetized on YouTube, TikTok, Instagram, and Facebook.
 
 ---
 
-**Ready to get monetized?** [Start here →](./getting-monetized-fast.md)
+**Ready to get monetized?** [Start here ](./getting-monetized-fast.md)
+
 
 
 

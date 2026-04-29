@@ -1,6 +1,6 @@
 # Lesson 1: YouTube Complete Strategy
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Master YouTube for maximum growth and revenue
 
 ---
@@ -46,7 +46,7 @@
 2. **Long-form content** = watch time + revenue
 3. **Shorts** = fast growth
 4. **SEO optimization** = long-term traffic
-5. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = consistent quality
+5. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = consistent quality
 
 ---
 
@@ -73,11 +73,12 @@
 
 ## Next Lesson
 
-**[Lesson 2: TikTok Domination →](./lesson-2-tiktok.md)**
+**[Lesson 2: TikTok Domination ](./lesson-2-tiktok.md)**
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to dominate YouTube!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to dominate YouTube!*
+
 
 
 

@@ -1,6 +1,6 @@
 # Lesson 1: What is Faceless Video Content?
 
-**Duration**: 15 minutes  
+**Duration**: 15 minutes 
 **Goal**: Understand faceless video content and why it's revolutionary
 
 ---
@@ -27,9 +27,9 @@ Faceless video content is a revolutionary approach to creating professional vide
 6. Create thumbnails (30 min)
 7. Upload and optimize (30 min)
 
-**Total**: 5-7 hours per video  
-**Cost**: Thousands in equipment  
-**Skills**: Video editing, on-camera presence  
+**Total**: 5-7 hours per video 
+**Cost**: Thousands in equipment 
+**Skills**: Video editing, on-camera presence 
 **Scalability**: Limited by your time
 
 ### The Faceless Video Solution
@@ -41,13 +41,13 @@ Faceless video content is a revolutionary approach to creating professional vide
 4. Generate video (1-2 min)
 5. Auto-publish to all platforms (automatic)
 
-**Total**: 5 minutes per video  
-**Cost**: $25/month  
-**Skills**: None required  
+**Total**: 5 minutes per video 
+**Cost**: $25/month 
+**Skills**: None required 
 **Scalability**: Unlimited
 
-**Time Saved**: 70%+  
-**Cost Saved**: Thousands of dollars  
+**Time Saved**: 70%+ 
+**Cost Saved**: Thousands of dollars 
 **Quality**: Professional every time
 
 ---
@@ -56,7 +56,7 @@ Faceless video content is a revolutionary approach to creating professional vide
 
 ### 1. Scalability
 
-**Traditional**: Limited by your time and energy  
+**Traditional**: Limited by your time and energy 
 **Faceless**: Create unlimited content, 24/7
 
 You can create:
@@ -67,7 +67,7 @@ You can create:
 
 ### 2. Privacy
 
-**Traditional**: Must show your face  
+**Traditional**: Must show your face 
 **Faceless**: Complete privacy
 
 Benefits:
@@ -78,7 +78,7 @@ Benefits:
 
 ### 3. Consistency
 
-**Traditional**: Quality varies with mood/energy  
+**Traditional**: Quality varies with mood/energy 
 **Faceless**: Professional quality every time
 
 AI ensures:
@@ -97,12 +97,12 @@ AI ensures:
 - **Total**: $800-3,000+ upfront
 
 **Faceless**:
-- [Syllaby.io subscription](https://syllaby.io/?via=chris56): $25/month
+- [Syllaby.io subscription](https://Syllaby.io/?via=chris56): $25/month
 - **Total**: $25/month, no equipment needed
 
 ### 5. Speed
 
-**Traditional**: Hours per video  
+**Traditional**: Hours per video 
 **Faceless**: Minutes per video
 
 You can:
@@ -209,7 +209,7 @@ You can:
 
 ### Current Statistics
 
-- **150,000+ users** on [Syllaby.io](https://syllaby.io/?via=chris56)
+- **150,000+ users** on [Syllaby.io](https://Syllaby.io/?via=chris56)
 - **250,000+ videos** created
 - **Growing market** with massive demand
 - **Low competition** in many niches
@@ -257,7 +257,7 @@ You can:
 
 ### Misconception 3: "You Need Technical Skills"
 
-**Reality**: [Syllaby.io](https://syllaby.io/?via=chris56) requires **zero technical skills**:
+**Reality**: [Syllaby.io](https://Syllaby.io/?via=chris56) requires **zero technical skills**:
 - No video editing needed
 - No camera skills needed
 - No design skills needed
@@ -307,23 +307,24 @@ You can:
 
 ## Next Lesson
 
-**[Lesson 2: Why This Business Model Works →](./lesson-2-why-it-works.md)**
+**[Lesson 2: Why This Business Model Works ](./lesson-2-why-it-works.md)**
 
 ---
 
 ## Resources
 
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start creating faceless videos
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start creating faceless videos
 - [Success Stories](../../bonuses/success-stories.md) - See real results
 - [Getting Started Guide](../../../guides/getting-started/introduction.md) - Learn more
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-2-why-it-works.md)
+**Ready to continue?** [Next Lesson ](./lesson-2-why-it-works.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to start creating faceless videos today!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to start creating faceless videos today!*
+
 
 
 

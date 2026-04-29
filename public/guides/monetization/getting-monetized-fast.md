@@ -145,42 +145,42 @@ This guide shows you how to get monetized on YouTube in 2-3 weeks using proven s
 ### High Watch Time Content
 
 1. **U-Log Videos**
-   - 3+ hour ambient videos
-   - Minimal effort
-   - High watch time
-   - Works in any niche
+ - 3+ hour ambient videos
+ - Minimal effort
+ - High watch time
+ - Works in any niche
 
 2. **Educational Series**
-   - 10-20 minute tutorials
-   - Part 1, 2, 3, etc.
-   - Keep viewers watching next video
-   - High retention
+ - 10-20 minute tutorials
+ - Part 1, 2, 3, etc.
+ - Keep viewers watching next video
+ - High retention
 
 3. **Storytelling Content**
-   - Engaging narratives
-   - Keep viewers hooked
-   - High retention rates
-   - Shareable content
+ - Engaging narratives
+ - Keep viewers hooked
+ - High retention rates
+ - Shareable content
 
 ### High View Content (Shorts)
 
 1. **Trending Topics**
-   - Use Idea Discovery
-   - Current events
-   - Viral topics
-   - High search volume
+ - Use Idea Discovery
+ - Current events
+ - Viral topics
+ - High search volume
 
 2. **Quick Tips**
-   - 15-60 second tips
-   - High value, quick
-   - Shareable
-   - High engagement
+ - 15-60 second tips
+ - High value, quick
+ - Shareable
+ - High engagement
 
 3. **Entertainment**
-   - Fun facts
-   - Interesting stories
-   - Engaging visuals
-   - Hook-focused
+ - Fun facts
+ - Interesting stories
+ - Engaging visuals
+ - Hook-focused
 
 ## Optimization Tips
 
@@ -262,6 +262,7 @@ Once you're monetized:
 ---
 
 **Ready to get monetized?** Start with [Your First Video](../getting-started/your-first-video.md)
+
 
 
 

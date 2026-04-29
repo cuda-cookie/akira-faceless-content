@@ -1,6 +1,6 @@
 # Module 8: Platform-Specific Mastery
 
-**Duration**: 2.5 hours  
+**Duration**: 2.5 hours 
 **Goal**: Dominate YouTube, TikTok, Instagram, and Facebook
 
 ---
@@ -42,17 +42,18 @@ By the end of this module, you will have:
 - [TikTok Guide](../../../guides/platforms/tiktok-guide.md)
 - [Instagram Guide](../../../guides/platforms/instagram-guide.md)
 - [Facebook Guide](../../../guides/platforms/facebook-guide.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56)
 
 ---
 
 ## Next Module
 
-**[Module 9: Troubleshooting & Optimization →](./../module-9/)**
+**[Module 9: Troubleshooting & Optimization ](./../module-9/)**
 
 ---
 
-**Ready to dominate all platforms?** [Begin Lesson 1 →](./lesson-1-youtube.md)
+**Ready to dominate all platforms?** [Begin Lesson 1 ](./lesson-1-youtube.md)
+
 
 
 

@@ -1,6 +1,6 @@
 # Module 1: Foundations of Faceless Video Content
 
-**Duration**: 2 hours  
+**Duration**: 2 hours 
 **Goal**: Understand the fundamentals and choose your niche
 
 ---
@@ -45,17 +45,18 @@ By the end of this module, you will have:
 
 - [Top Paying Niches Guide](../../guides/niches/top-paying-niches.md)
 - [Niche Selection Guide](../../guides/niches/niche-selection.md)
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56)
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56)
 
 ---
 
 ## Next Module
 
-**[Module 2: Mastering Syllaby.io →](./../module-2/)**
+**[Module 2: Mastering Syllaby.io ](./../module-2/)**
 
 ---
 
-**Ready to start?** [Begin Lesson 1 →](./lesson-1-what-is-faceless-video.md)
+**Ready to start?** [Begin Lesson 1 ](./lesson-1-what-is-faceless-video.md)
+
 
 
 

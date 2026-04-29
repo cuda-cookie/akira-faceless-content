@@ -1,6 +1,6 @@
 # Lesson 6: Content Calendar & Planning
 
-**Duration**: 30 minutes  
+**Duration**: 30 minutes 
 **Goal**: Plan and organize your content for consistent posting
 
 ---
@@ -39,7 +39,7 @@
 - Better organization
 
 **Tools**:
-- [Syllaby.io Content Calendar](https://syllaby.io/?via=chris56)
+- [Syllaby.io Content Calendar](https://Syllaby.io/?via=chris56)
 - Google Calendar
 - Spreadsheet
 - Content planning apps
@@ -66,7 +66,7 @@
 - Different strategies
 - Cross-promotion
 
-**Pro Tip**: Use [Syllaby.io's Content Calendar](https://syllaby.io/?via=chris56) for integrated planning.
+**Pro Tip**: Use [Syllaby.io's Content Calendar](https://Syllaby.io/?via=chris56) for integrated planning.
 
 ---
 
@@ -171,7 +171,7 @@
 ### Step 2: Research Topics (1 hour)
 
 **How to Research**:
-1. Use [Syllaby.io Idea Discovery](https://syllaby.io/?via=chris56)
+1. Use [Syllaby.io Idea Discovery](https://Syllaby.io/?via=chris56)
 2. Check trending topics
 3. Analyze competitor content
 4. Review saved topics
@@ -197,7 +197,7 @@
 5. Add themes
 
 **Tools**:
-- [Syllaby.io Content Calendar](https://syllaby.io/?via=chris56)
+- [Syllaby.io Content Calendar](https://Syllaby.io/?via=chris56)
 - Google Calendar
 - Spreadsheet
 - Planning app
@@ -209,7 +209,7 @@
 ### Step 4: Batch Create Content (2 hours)
 
 **Using Bulk Scheduler**:
-1. Open Bulk Scheduler in [Syllaby.io](https://syllaby.io/?via=chris56)
+1. Open Bulk Scheduler in [Syllaby.io](https://Syllaby.io/?via=chris56)
 2. Enter topics from calendar
 3. Configure settings
 4. Generate all videos
@@ -297,7 +297,7 @@
 4. Color code by type
 5. Set reminders
 
-**Pro Tip**: Sync with [Syllaby.io](https://syllaby.io/?via=chris56) for complete planning.
+**Pro Tip**: Sync with [Syllaby.io](https://Syllaby.io/?via=chris56) for complete planning.
 
 ---
 
@@ -399,13 +399,13 @@
 3. **Use themes** = cohesive content
 4. **Mix content types** = engaged audience
 5. **Leave room for trends** = flexibility
-6. **Use [Syllaby.io Calendar](https://syllaby.io/?via=chris56)** = integrated planning
+6. **Use [Syllaby.io Calendar](https://Syllaby.io/?via=chris56)** = integrated planning
 
 ---
 
 ## Next Lesson
 
-**[Lesson 7: Quality vs. Quantity - The Balance →](./lesson-7-quality-quantity.md)**
+**[Lesson 7: Quality vs. Quantity - The Balance ](./lesson-7-quality-quantity.md)**
 
 ---
 
@@ -413,15 +413,16 @@
 
 - [Bulk Scheduler Guide](../../../guides/features/bulk-scheduler.md) - Monthly planning
 - [Content Strategies Guide](../../../guides/strategies/content-strategies.md) - Planning strategies
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Start planning
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Start planning
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-7-quality-quantity.md)
+**Ready to continue?** [Next Lesson ](./lesson-7-quality-quantity.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) and use the Content Calendar to plan your content empire!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) and use the Content Calendar to plan your content empire!*
+
 
 
 

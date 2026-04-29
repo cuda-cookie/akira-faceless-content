@@ -1,6 +1,6 @@
 # Lesson 6: Multi-Platform Monetization
 
-**Duration**: 25 minutes  
+**Duration**: 25 minutes 
 **Goal**: Monetize your faceless videos across all platforms
 
 ---
@@ -84,7 +84,7 @@
 
 ## Multi-Platform Strategy
 
-### Using [Syllaby.io](https://syllaby.io/?via=chris56)
+### Using [Syllaby.io](https://Syllaby.io/?via=chris56)
 
 **One-Click Publishing**:
 1. Create video once
@@ -98,7 +98,7 @@
 - Time savings
 - Maximum revenue
 
-**Pro Tip**: Use [Syllaby.io](https://syllaby.io/?via=chris56) to post to all platforms and monetize everywhere.
+**Pro Tip**: Use [Syllaby.io](https://Syllaby.io/?via=chris56) to post to all platforms and monetize everywhere.
 
 ---
 
@@ -189,7 +189,7 @@
 
 ---
 
-### 2. Use [Syllaby.io](https://syllaby.io/?via=chris56) for All
+### 2. Use [Syllaby.io](https://Syllaby.io/?via=chris56) for All
 
 **Benefits**: One tool, all platforms, consistent quality
 
@@ -225,7 +225,7 @@
 - [ ] Apply for TikTok Creator Fund
 - [ ] Enable Instagram monetization
 - [ ] Apply for Facebook monetization
-- [ ] Connect all to [Syllaby.io](https://syllaby.io/?via=chris56)
+- [ ] Connect all to [Syllaby.io](https://Syllaby.io/?via=chris56)
 - [ ] Post to all platforms
 - [ ] Track revenue per platform
 - [ ] Optimize individually
@@ -238,7 +238,7 @@
 
 1. **Multi-platform** = 2-3x more total revenue
 2. **Different streams per platform** = diversified income
-3. **Use [Syllaby.io](https://syllaby.io/?via=chris56)** = post everywhere easily
+3. **Use [Syllaby.io](https://Syllaby.io/?via=chris56)** = post everywhere easily
 4. **Track per platform** = optimize individually
 5. **Start with YouTube** = highest potential
 6. **Scale gradually** = sustainable growth
@@ -247,7 +247,7 @@
 
 ## Next Lesson
 
-**[Lesson 7: Scaling Video Revenue →](./lesson-7-scaling.md)**
+**[Lesson 7: Scaling Video Revenue ](./lesson-7-scaling.md)**
 
 ---
 
@@ -255,15 +255,16 @@
 
 - [Platform Requirements Guide](../../../guides/monetization/platform-requirements.md) - All platforms
 - [Multi-Platform Strategy Guide](../../../guides/strategies/multi-platform.md) - Cross-platform
-- [Syllaby.io Platform](https://syllaby.io/?via=chris56) - Post to all platforms
+- [Syllaby.io Platform](https://Syllaby.io/?via=chris56) - Post to all platforms
 
 ---
 
-**Ready to continue?** [Next Lesson →](./lesson-7-scaling.md)
+**Ready to continue?** [Next Lesson ](./lesson-7-scaling.md)
 
 ---
 
-*Remember: [Get your Syllaby.io account](https://syllaby.io/?via=chris56) to monetize across all platforms!*
+*Remember: [Get your Syllaby.io account](https://Syllaby.io/?via=chris56) to monetize across all platforms!*
+
 
 
 
