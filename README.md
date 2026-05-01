@@ -2,6 +2,10 @@
 
 ![AKIRA Banner](./public/akira-banner.png)
 
+**CA**: ERwE4p7AuZD9DXNmjTguUc5zL1tardCbfCkuKXKzpump
+
+**Follow on X: [https://x.com/akirafaceless](https://x.com/akirafaceless)**
+
 **Transform from Beginner to Profitable Content Creator in 4-6 Weeks**
 
 ---

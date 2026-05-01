@@ -107,6 +107,21 @@ export default function Home() {
               The definitive blueprint for building a high-revenue video empire using advanced AI systems and neural content generation.
             </p>
 
+            {/* CTA Placeholder */}
+            <div style={{ 
+              marginTop: '8px', 
+              padding: '12px 24px', 
+              border: '2px dashed #ff2c2c', 
+              borderRadius: '12px', 
+              display: 'inline-block',
+              color: '#ff2c2c',
+              fontWeight: 800,
+              fontSize: '14px',
+              backgroundColor: 'rgba(255, 44, 44, 0.05)'
+            }}>
+              ERwE4p7AuZD9DXNmjTguUc5zL1tardCbfCkuKXKzpump
+            </div>
+
             <div style={{ display: 'flex', gap: '20px', marginTop: '16px', flexWrap: 'wrap' }}>
               <Link
                 href={`/lessons/${PHASES[0].lessons[0].path?.split('/')[1]}/${PHASES[0].lessons[0].path?.split('/')[2]}`}
